@@ -1463,3 +1463,5 @@ LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable creat
 [2024.11.04-04.48.53:275][622]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
 [2024.11.04-04.48.53:288][622]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms (total: 757 ms)
 [2024.11.04-04.50.35:104][ 98]LogDerivedDataCache: C:/Users/s5287338/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.280 and deleted 0 files with total size 0 MiB and 166 empty folders. Scanned 1132 files in 2002 folders with total size 74 MiB.
+[2024.11.04-04.59.05:088][ 94]LogSlate: Window 'Content Browser' being destroyed
+[2024.11.04-04.59.05:094][ 94]LogSlate: Window 'Content Browser' being destroyed
