@@ -2624,3 +2624,208 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.04-13.42.53:446][818]LogContentValidation: Display: Validating /Script/Engine.Material /Game/M_Master_BlockOut.M_Master_BlockOut
 [2024.11.04-13.42.53:446][818]LogContentValidation: Display: Validating /Script/Landscape.LandscapeLayerInfoObject /Game/FirstPerson/Maps/FirstPersonMap_sharedassets/Red_LayerInfo.Red_LayerInfo
 [2024.11.04-13.42.53:446][818]LogContentValidation: Display: Validating /Script/Landscape.LandscapeLayerInfoObject /Game/FirstPerson/Maps/FirstPersonMap_sharedassets/Yellow_LayerInfo.Yellow_LayerInfo
+[2024.11.04-13.43.53:870][973]LogDerivedDataCache: C:/Users/s5287338/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:23.438 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 12007 files in 14446 folders with total size 1849 MiB.
+[2024.11.04-13.44.09:603][858]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2024.11.04-13.44.10:750][858]LogSlate: Window 'Save Content' being destroyed
+[2024.11.04-13.44.10:761][858]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-13.44.10:809][858]LogTexture: Display: Building textures: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_0XYR9T80ZD5EMPG6LSOLAFDWK_126_0_0_0.Weightmap_10 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.11.04-13.44.10:814][858]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/68/HOB49V0SMIUQM84C54X6SH
+[2024.11.04-13.44.10:814][858]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/HOB49V0SMIUQM84C54X6SHE5DBA53F45363F09984C71A03FBB96C5.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/68/HOB49V0SMIUQM84C54X6SH.uasset'
+[2024.11.04-13.44.10:817][858]LogTexture: Display: Building textures: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_0XYR9T80ZD5EMPG6LSOLAFDWK_126_0_1_0.Weightmap_10 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.11.04-13.44.10:823][858]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/89/ZL6KIAM5SGWUM5Q7706JU2
+[2024.11.04-13.44.10:823][858]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/ZL6KIAM5SGWUM5Q7706JU2743C869945BA1EB2FF57EA8C19A5E658.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/89/ZL6KIAM5SGWUM5Q7706JU2.uasset'
+[2024.11.04-13.44.10:846][858]LogFileHelpers: InternalPromptForCheckoutAndSave took 84 ms (total: 6.65 sec)
+[2024.11.04-13.44.10:848][858]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.04-13.44.10:848][858]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_0XYR9T80ZD5EMPG6LSOLAFDWK_126_0_0_0
+[2024.11.04-13.44.10:848][858]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_0XYR9T80ZD5EMPG6LSOLAFDWK_126_0_1_0
+[2024.11.04-13.44.20:628][ 19]LogTexture: Display: Building textures: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_0XYR9T80ZD5EMPG6LSOLAFDWK_126_1_1_0.Weightmap_12 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.11.04-13.44.47:579][117]LogViewport: Scene viewport resized to 2038x1252, mode Windowed.
+[2024.11.04-13.44.50:227][400]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.11.04-13.44.50:227][400]Can't find target element.
+[2024.11.04-13.44.51:061][500]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.11.04-13.44.51:061][500]Can't find target element.
+[2024.11.04-13.44.52:324][628]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.11.04-13.47.11:932][744]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.11.04-13.47.11:935][744]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/7Q/ZG6DLDQ3H7QYGE4FUVCK2O_Auto4
+[2024.11.04-13.47.11:935][744]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/ZG6DLDQ3H7QYGE4FUVCK2O_Auto4273B1F7B478ED1F905E42C890D09BE04.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/7Q/ZG6DLDQ3H7QYGE4FUVCK2O_Auto4.uasset'
+[2024.11.04-13.47.11:937][744]LogTexture: Display: Building textures: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_0XYR9T80ZD5EMPG6LSOLAFDWK_126_1_1_0.Weightmap_12 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.11.04-13.47.11:941][744]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/VB/TZZ3SXKLW175STFT6R3CUA_Auto4
+[2024.11.04-13.47.11:941][744]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/TZZ3SXKLW175STFT6R3CUA_Auto40AA1A218401FC69608708896B2D803B1.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/VB/TZZ3SXKLW175STFT6R3CUA_Auto4.uasset'
+[2024.11.04-13.47.11:942][744]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.015
+[2024.11.04-13.47.11:942][744]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.015
+[2024.11.04-13.48.56:697][982]Cmd: EDIT COPY
+[2024.11.04-13.48.56:890][  5]Cmd: EDIT PASTE
+[2024.11.04-13.48.59:625][257]Cmd: EDIT COPY
+[2024.11.04-13.49.00:266][332]Cmd: EDIT PASTE
+[2024.11.04-13.49.03:398][639]Cmd: EDIT COPY
+[2024.11.04-13.49.03:606][664]Cmd: EDIT PASTE
+[2024.11.04-13.49.15:749][994]Cmd: DELETE
+[2024.11.04-13.49.15:749][994]Cmd: ACTOR DELETE
+[2024.11.04-13.49.15:751][994]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-13.49.15:752][994]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-13.49.15:758][994]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.11.04-13.49.15:759][994]LogEditorActor: Deleted 2 Actors (0.009 secs)
+[2024.11.04-13.49.16:790][111]Cmd: DELETE
+[2024.11.04-13.49.16:790][111]Cmd: ACTOR DELETE
+[2024.11.04-13.49.16:791][111]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-13.49.16:797][111]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.11.04-13.49.16:799][111]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2024.11.04-13.49.17:127][141]Cmd: DELETE
+[2024.11.04-13.49.17:128][141]Cmd: ACTOR DELETE
+[2024.11.04-13.49.17:129][141]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-13.49.17:133][141]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.11.04-13.49.17:135][141]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2024.11.04-13.49.17:642][194]Cmd: DELETE
+[2024.11.04-13.49.17:642][194]Cmd: ACTOR DELETE
+[2024.11.04-13.49.17:644][194]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-13.49.17:648][194]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.11.04-13.49.17:650][194]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2024.11.04-13.49.29:048][403]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.11.04-13.49.34:172][935]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/Materials/MI_PrototypeGrid_Red.MI_PrototypeGrid_Red
+[2024.11.04-13.49.34:173][935]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.04-13.49.34:173][935]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.04-13.49.34:281][935]LogViewport: Scene viewport resized to 1783x1254, mode Windowed.
+[2024.11.04-13.49.52:144][800]Cmd: EDIT COPY
+[2024.11.04-13.49.52:363][825]Cmd: EDIT PASTE
+[2024.11.04-13.49.52:367][825]LogSlate: Window 'Color Picker' being destroyed
+[2024.11.04-13.50.03:001][959]Cmd: EDIT COPY
+[2024.11.04-13.50.03:237][986]Cmd: EDIT PASTE
+[2024.11.04-13.50.17:434][495]Cmd: DELETE
+[2024.11.04-13.50.17:434][495]Cmd: ACTOR DELETE
+[2024.11.04-13.50.17:436][495]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-13.50.17:440][495]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.11.04-13.50.17:441][495]LogEditorActor: Deleted 1 Actors (0.008 secs)
+[2024.11.04-13.50.18:791][647]Cmd: EDIT COPY
+[2024.11.04-13.50.18:981][670]Cmd: EDIT PASTE
+[2024.11.04-13.50.22:005][966]Cmd: EDIT COPY
+[2024.11.04-13.50.22:201][988]Cmd: EDIT PASTE
+[2024.11.04-13.50.31:734][ 69]Cmd: EDIT COPY
+[2024.11.04-13.50.31:945][ 93]Cmd: EDIT PASTE
+[2024.11.04-13.51.25:209][100]Cmd: EDIT COPY
+[2024.11.04-13.51.25:384][121]Cmd: EDIT PASTE
+[2024.11.04-13.51.47:924][638]Cmd: DELETE
+[2024.11.04-13.51.47:924][638]Cmd: ACTOR DELETE
+[2024.11.04-13.51.47:926][638]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-13.51.47:926][638]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-13.51.47:931][638]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.11.04-13.51.47:932][638]LogEditorActor: Deleted 2 Actors (0.008 secs)
+[2024.11.04-13.51.49:211][782]Cmd: EDIT COPY
+[2024.11.04-13.51.49:387][803]Cmd: EDIT PASTE
+[2024.11.04-13.52.12:486][258]Cmd: EDIT COPY
+[2024.11.04-13.52.12:694][283]Cmd: EDIT PASTE
+[2024.11.04-13.52.17:495][834]Cmd: EDIT COPY
+[2024.11.04-13.52.17:706][858]Cmd: EDIT PASTE
+[2024.11.04-13.52.28:855][971]Cmd: EDIT COPY
+[2024.11.04-13.52.29:014][990]Cmd: EDIT PASTE
+[2024.11.04-13.52.34:150][509]Cmd: EDIT COPY
+[2024.11.04-13.52.34:324][530]Cmd: EDIT PASTE
+[2024.11.04-13.53.05:612][ 73]Cmd: EDIT COPY
+[2024.11.04-13.53.05:862][103]Cmd: EDIT PASTE
+[2024.11.04-13.53.34:742][168]LogViewport: Scene viewport resized to 1564x1252, mode Windowed.
+[2024.11.04-13.54.11:153][467]LogTexture: Display: Building textures: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_0XYR9T80ZD5EMPG6LSOLAFDWK_126_0_1_0.Weightmap_8 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.11.04-13.54.16:344][ 86]LogTexture: Display: Building textures: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_0XYR9T80ZD5EMPG6LSOLAFDWK_126_-1_0_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.11.04-13.57.11:854][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.11.04-13.57.11:856][989]LogTexture: Display: Building textures: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_0XYR9T80ZD5EMPG6LSOLAFDWK_126_0_0_0.Weightmap_8 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.11.04-13.57.11:861][989]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/68/HOB49V0SMIUQM84C54X6SH_Auto5
+[2024.11.04-13.57.11:861][989]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/HOB49V0SMIUQM84C54X6SH_Auto54515BD074DDB5205599B9F9333467C19.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/68/HOB49V0SMIUQM84C54X6SH_Auto5.uasset'
+[2024.11.04-13.57.11:868][989]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/89/ZL6KIAM5SGWUM5Q7706JU2_Auto5
+[2024.11.04-13.57.11:868][989]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/ZL6KIAM5SGWUM5Q7706JU2_Auto5AF758DF147D5434BDEE71CAAB9B77075.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/89/ZL6KIAM5SGWUM5Q7706JU2_Auto5.uasset'
+[2024.11.04-13.57.11:869][989]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/O1/R69XQYJPPELZ9V1FHMIFR9_Auto5
+[2024.11.04-13.57.11:869][989]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/R69XQYJPPELZ9V1FHMIFR9_Auto51589B1EF4446DB9B55E511A3313AA894.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/O1/R69XQYJPPELZ9V1FHMIFR9_Auto5.uasset'
+[2024.11.04-13.57.11:872][989]LogTexture: Display: Building textures: /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_0XYR9T80ZD5EMPG6LSOLAFDWK_126_-1_0_0.Weightmap_2 (BGRA8, 64x64 x1x1x1) (Required Memory Estimate: 0.182285 MB), EncodeSpeed: Fast
+[2024.11.04-13.57.11:875][989]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/F8/3B1456DD8J0JW6PEEASXN1_Auto5
+[2024.11.04-13.57.11:875][989]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/3B1456DD8J0JW6PEEASXN1_Auto510FD24914F634D2D4C739DB864738893.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/F8/3B1456DD8J0JW6PEEASXN1_Auto5.uasset'
+[2024.11.04-13.57.11:877][989]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/X1/C2KXYX3HCGAELHT5S39ZH9_Auto5
+[2024.11.04-13.57.11:877][989]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/C2KXYX3HCGAELHT5S39ZH9_Auto5F9EC98A04FC2F21722BFE2AED0D92F82.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/X1/C2KXYX3HCGAELHT5S39ZH9_Auto5.uasset'
+[2024.11.04-13.57.11:878][989]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/QO/66FMZU45P2M03VBA28X55S_Auto5
+[2024.11.04-13.57.11:878][989]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/66FMZU45P2M03VBA28X55S_Auto582CF7F364B93FF5989CCFFB9BC6E9EA3.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/QO/66FMZU45P2M03VBA28X55S_Auto5.uasset'
+[2024.11.04-13.57.11:880][989]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/0Q/MO7RNJW5IW2ST9L8RUY4DN_Auto5
+[2024.11.04-13.57.11:880][989]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/MO7RNJW5IW2ST9L8RUY4DN_Auto509EA54D74300BD1445E21C8F161A4BF6.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/0Q/MO7RNJW5IW2ST9L8RUY4DN_Auto5.uasset'
+[2024.11.04-13.57.11:882][989]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/3D/SQL1Z5PUVCTAMTZ8TQ9GIU_Auto5
+[2024.11.04-13.57.11:882][989]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/SQL1Z5PUVCTAMTZ8TQ9GIU_Auto52DEB489342E5EA8AAEAFA8BD286159F5.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/3D/SQL1Z5PUVCTAMTZ8TQ9GIU_Auto5.uasset'
+[2024.11.04-13.57.11:883][989]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/07/IYNFMTLMTG1V2MHVS9VVLN_Auto5
+[2024.11.04-13.57.11:883][989]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/IYNFMTLMTG1V2MHVS9VVLN_Auto56E3256344946CDDAB9A507B6D4E356B9.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/07/IYNFMTLMTG1V2MHVS9VVLN_Auto5.uasset'
+[2024.11.04-13.57.11:885][989]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/8A/HSHCWDUJ0GGS65I337VV2B_Auto5
+[2024.11.04-13.57.11:885][989]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/HSHCWDUJ0GGS65I337VV2B_Auto5FA078C6D4BD2EBFA1633D2903FF98B7F.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/8A/HSHCWDUJ0GGS65I337VV2B_Auto5.uasset'
+[2024.11.04-13.57.11:887][989]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/8X/Z4XVQMWORLBSTKH1YMTD7M_Auto5
+[2024.11.04-13.57.11:887][989]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Z4XVQMWORLBSTKH1YMTD7M_Auto52032B81942CAF45F593CC6A0326001D7.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/8X/Z4XVQMWORLBSTKH1YMTD7M_Auto5.uasset'
+[2024.11.04-13.57.11:888][989]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/7X/R0LBPLM1UUTFOPHQ4NRN4L_Auto5
+[2024.11.04-13.57.11:889][989]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/R0LBPLM1UUTFOPHQ4NRN4L_Auto500E705CE4F765948EC422BB3A73ED2E3.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/7X/R0LBPLM1UUTFOPHQ4NRN4L_Auto5.uasset'
+[2024.11.04-13.57.11:890][989]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/J4/JFU3WW1KXBYZL5ZPNTTKNI_Auto5
+[2024.11.04-13.57.11:890][989]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/JFU3WW1KXBYZL5ZPNTTKNI_Auto5D21829EA46CB739165AEC1B0D4F61452.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/J4/JFU3WW1KXBYZL5ZPNTTKNI_Auto5.uasset'
+[2024.11.04-13.57.11:891][989]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/W9/QJHPCJ8CJ7J3LSUGS52ICY_Auto5
+[2024.11.04-13.57.11:891][989]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/QJHPCJ8CJ7J3LSUGS52ICY_Auto591D2F25C48A7E2691FFB198592ACAD9B.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/W9/QJHPCJ8CJ7J3LSUGS52ICY_Auto5.uasset'
+[2024.11.04-13.57.11:892][989]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.047
+[2024.11.04-13.57.11:892][989]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.047
+[2024.11.04-13.57.11:892][989]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/MI_PrototypeGrid_Red] ([1] browsable assets)...
+[2024.11.04-13.57.11:926][989]OBJ SavePackage:     Rendered thumbnail for [MaterialInstanceConstant /Game/Materials/MI_PrototypeGrid_Red.MI_PrototypeGrid_Red]
+[2024.11.04-13.57.11:926][989]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/MI_PrototypeGrid_Red]
+[2024.11.04-13.57.11:932][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.11.04-13.57.11:992][989]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.11.04-13.57.11:994][989]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Materials/MI_PrototypeGrid_Red_Auto5
+[2024.11.04-13.57.11:994][989]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/MI_PrototypeGrid_Red_Auto5B600C3EC487187EF058B549E3FDAD0B5.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/Materials/MI_PrototypeGrid_Red_Auto5.uasset'
+[2024.11.04-13.57.11:995][989]LogFileHelpers: Auto-saving content packages took 0.102
+[2024.11.04-13.57.20:403][981]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-13.57.20:462][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.11.04-13.57.20:467][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.11.04-13.57.20:471][981]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.11.04-13.57.20:473][981]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/7Q/ZG6DLDQ3H7QYGE4FUVCK2O
+[2024.11.04-13.57.20:473][981]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/ZG6DLDQ3H7QYGE4FUVCK2O126DC8224E5BD484E60D7D95739913E9.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/7Q/ZG6DLDQ3H7QYGE4FUVCK2O.uasset'
+[2024.11.04-13.57.20:479][981]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/68/HOB49V0SMIUQM84C54X6SH
+[2024.11.04-13.57.20:479][981]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/HOB49V0SMIUQM84C54X6SH226E7C464D859D9CF550708362A63BE5.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/68/HOB49V0SMIUQM84C54X6SH.uasset'
+[2024.11.04-13.57.20:485][981]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/89/ZL6KIAM5SGWUM5Q7706JU2
+[2024.11.04-13.57.20:485][981]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/ZL6KIAM5SGWUM5Q7706JU2FE1D59BD4493090153691FB30EFC6BBC.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/89/ZL6KIAM5SGWUM5Q7706JU2.uasset'
+[2024.11.04-13.57.20:489][981]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/VB/TZZ3SXKLW175STFT6R3CUA
+[2024.11.04-13.57.20:490][981]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/TZZ3SXKLW175STFT6R3CUAE0BBFBE546BFBA12A3167CAD9D8BA091.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/VB/TZZ3SXKLW175STFT6R3CUA.uasset'
+[2024.11.04-13.57.20:491][981]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/O1/R69XQYJPPELZ9V1FHMIFR9
+[2024.11.04-13.57.20:491][981]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/R69XQYJPPELZ9V1FHMIFR93E515D744C0EFEFFF1D58D87AE55B21F.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/O1/R69XQYJPPELZ9V1FHMIFR9.uasset'
+[2024.11.04-13.57.20:495][981]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/F8/3B1456DD8J0JW6PEEASXN1
+[2024.11.04-13.57.20:495][981]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/3B1456DD8J0JW6PEEASXN17C9BBEB44F94CC14DB99D780776BFC9B.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/F8/3B1456DD8J0JW6PEEASXN1.uasset'
+[2024.11.04-13.57.20:497][981]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/X1/C2KXYX3HCGAELHT5S39ZH9
+[2024.11.04-13.57.20:497][981]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/C2KXYX3HCGAELHT5S39ZH9911ABD2F4173A2A0B78FAA91D1360C51.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/X1/C2KXYX3HCGAELHT5S39ZH9.uasset'
+[2024.11.04-13.57.20:499][981]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/QO/66FMZU45P2M03VBA28X55S
+[2024.11.04-13.57.20:499][981]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/66FMZU45P2M03VBA28X55SD646D5A94C9530751BA52197D1690A48.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/QO/66FMZU45P2M03VBA28X55S.uasset'
+[2024.11.04-13.57.20:501][981]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/0Q/MO7RNJW5IW2ST9L8RUY4DN
+[2024.11.04-13.57.20:501][981]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/MO7RNJW5IW2ST9L8RUY4DNE6F6208C436E5006D1661DB600F36689.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/0Q/MO7RNJW5IW2ST9L8RUY4DN.uasset'
+[2024.11.04-13.57.20:502][981]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/3D/SQL1Z5PUVCTAMTZ8TQ9GIU
+[2024.11.04-13.57.20:503][981]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/SQL1Z5PUVCTAMTZ8TQ9GIU0AA8A8D84D61A4535F6C129B1059FF64.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/3D/SQL1Z5PUVCTAMTZ8TQ9GIU.uasset'
+[2024.11.04-13.57.20:504][981]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/07/IYNFMTLMTG1V2MHVS9VVLN
+[2024.11.04-13.57.20:504][981]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/IYNFMTLMTG1V2MHVS9VVLNAC29B5CE4174C4DB24AE3EB2652DB251.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/07/IYNFMTLMTG1V2MHVS9VVLN.uasset'
+[2024.11.04-13.57.20:506][981]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/8A/HSHCWDUJ0GGS65I337VV2B
+[2024.11.04-13.57.20:506][981]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/HSHCWDUJ0GGS65I337VV2BE7D1804D4BBB64D7CD7CB19242137FCC.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/8A/HSHCWDUJ0GGS65I337VV2B.uasset'
+[2024.11.04-13.57.20:507][981]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/8X/Z4XVQMWORLBSTKH1YMTD7M
+[2024.11.04-13.57.20:507][981]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Z4XVQMWORLBSTKH1YMTD7MF626555345C410678086DCB212F5E639.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/8X/Z4XVQMWORLBSTKH1YMTD7M.uasset'
+[2024.11.04-13.57.20:509][981]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/7X/R0LBPLM1UUTFOPHQ4NRN4L
+[2024.11.04-13.57.20:509][981]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/R0LBPLM1UUTFOPHQ4NRN4L217212C84C58BF9CF1E64498A5408475.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/7X/R0LBPLM1UUTFOPHQ4NRN4L.uasset'
+[2024.11.04-13.57.20:511][981]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/J4/JFU3WW1KXBYZL5ZPNTTKNI
+[2024.11.04-13.57.20:511][981]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/JFU3WW1KXBYZL5ZPNTTKNI350BB7C1477C3A4449C000AF66909F89.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/J4/JFU3WW1KXBYZL5ZPNTTKNI.uasset'
+[2024.11.04-13.57.20:512][981]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/W9/QJHPCJ8CJ7J3LSUGS52ICY
+[2024.11.04-13.57.20:512][981]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/QJHPCJ8CJ7J3LSUGS52ICY7D8ADBD94C8B5848650F04BD2D33EAE1.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/W9/QJHPCJ8CJ7J3LSUGS52ICY.uasset'
+[2024.11.04-13.57.20:519][981]LogFileHelpers: InternalPromptForCheckoutAndSave took 117 ms (total: 6.77 sec)
+[2024.11.04-13.57.20:525][981]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.04-13.57.20:525][981]LogContentValidation: Display: Validating /Script/NavigationSystem.NavMeshBoundsVolume /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.NavMeshBoundsVolume_UAID_00BE43BC50EE442C02_1726760062
+[2024.11.04-13.57.20:525][981]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_0XYR9T80ZD5EMPG6LSOLAFDWK_126_0_0_0
+[2024.11.04-13.57.20:525][981]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_0XYR9T80ZD5EMPG6LSOLAFDWK_126_0_1_0
+[2024.11.04-13.57.20:525][981]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_0XYR9T80ZD5EMPG6LSOLAFDWK_126_1_1_0
+[2024.11.04-13.57.20:525][981]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE572C02_2026400300
+[2024.11.04-13.57.20:525][981]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_0XYR9T80ZD5EMPG6LSOLAFDWK_126_-1_0_0
+[2024.11.04-13.57.20:525][981]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE582C02_1871437490
+[2024.11.04-13.57.20:525][981]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE582C02_1887182491
+[2024.11.04-13.57.20:525][981]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE582C02_1890402492
+[2024.11.04-13.57.20:525][981]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE582C02_1900145493
+[2024.11.04-13.57.20:525][981]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE582C02_1977587496
+[2024.11.04-13.57.20:525][981]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE582C02_2000895497
+[2024.11.04-13.57.20:525][981]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE582C02_2005906498
+[2024.11.04-13.57.20:525][981]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE582C02_2017215499
+[2024.11.04-13.57.20:525][981]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE582C02_2022525500
+[2024.11.04-13.57.20:525][981]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE582C02_2054062501
+[2024.11.04-13.57.21:767][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.11.04-13.57.22:819][122]LogSlate: Window 'Save Content' being destroyed
+[2024.11.04-13.57.22:831][122]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-13.57.22:898][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2024.11.04-13.57.22:912][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.11.04-13.57.22:914][122]LogSavePackage: Moving output files for package: /Game/Materials/MI_PrototypeGrid_Red
+[2024.11.04-13.57.22:914][122]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/MI_PrototypeGrid_RedA81D219A435FE2C9592E8E8658BB668E.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/Materials/MI_PrototypeGrid_Red.uasset'
+[2024.11.04-13.57.22:931][122]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 6.87 sec)
+[2024.11.04-13.57.22:932][122]AssetCheck: New page: Asset Save: MI_PrototypeGrid_Red
+[2024.11.04-13.57.22:932][122]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/MI_PrototypeGrid_Red.MI_PrototypeGrid_Red
