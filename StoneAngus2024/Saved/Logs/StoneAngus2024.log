@@ -1416,3 +1416,4 @@ LogConfig: CVar [[fx.NiagaraAllowRuntimeScalabilityChanges:1]] deferred - dummy 
 [2024.11.04-15.36.13:908][566]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 226 ms)
 [2024.11.04-15.36.15:920][793]LogSlate: Took 0.000403 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2024.11.04-15.36.17:226][930]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.11.04-16.07.51:569][775]LogDerivedDataCache: C:/Users/s5287338/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.265 and deleted 0 files with total size 0 MiB and 171 empty folders. Scanned 1018 files in 1987 folders with total size 88 MiB.
