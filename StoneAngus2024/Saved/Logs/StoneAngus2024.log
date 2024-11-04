@@ -10862,3 +10862,617 @@ Make sure 'Rat_Pawn_C' has been compiled for  Get FirstPerson_Character
 [2024.11.04-09.03.00:749][177]LogContentValidation: Display: Validating /Game/Animal_Character/Owl_Pawn.Owl_Pawn_C /Game/FirstPerson/Maps/Hayden_Mao.Hayden_Mao:PersistentLevel.Owl_Pawn_C_UAID_B4450693CFA73C2C02_2039647519
 [2024.11.04-09.03.00:749][177]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Animal_Character/Rat_Pawn.Rat_Pawn
 [2024.11.04-09.03.00:749][177]LogContentValidation: Display: Validating /Game/Animal_Character/Rat_Pawn.Rat_Pawn_C /Game/FirstPerson/Maps/Hayden_Mao.Hayden_Mao:PersistentLevel.Rat_Pawn_C_UAID_B4450693CFA7472C02_1659737462
+[2024.11.04-09.03.53:525][253]Cmd: DELETE
+[2024.11.04-09.03.53:527][253]Cmd: ACTOR DELETE
+[2024.11.04-09.03.53:530][253]LogEditorActor: Deleted Actor: PlayerStart
+[2024.11.04-09.03.53:548][253]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2024.11.04-09.03.53:554][253]LogEditorActor: Deleted 1 Actors (0.026 secs)
+[2024.11.04-09.03.55:280][356]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.04-09.03.55:284][356]LogContentBundle: [Hayden_Mao(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.04-09.03.55:284][356]LogWorldPartition: Display: GenerateStreaming for 'Hayden_Mao' started...
+[2024.11.04-09.03.55:285][356]LogWorldPartition: Display: GenerateStreaming for 'Hayden_Mao' took 913 us (total: 193 ms)
+[2024.11.04-09.03.55:285][356]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.04-09.03.55:285][356]PIE: New page: PIE session: Hayden_Mao (5 Nov 2024, 5:03:55 am)
+[2024.11.04-09.03.55:286][356]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_Hayden_Mao
+[2024.11.04-09.03.55:289][356]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003289s)
+[2024.11.04-09.03.55:289][356]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/Hayden_Mao.Hayden_Mao to /Game/FirstPerson/Maps/UEDPIE_0_Hayden_Mao.Hayden_Mao (0.003316s)
+[2024.11.04-09.03.55:304][356]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.11.04-09.03.55:307][356]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.04-09.03.55:307][356]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.04-09.03.55:307][356]LogAIModule: Creating AISystem for world Hayden_Mao
+[2024.11.04-09.03.55:308][356]LogWorldPartition: ULevel::OnLevelLoaded(Hayden_Mao)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.04-09.03.55:308][356]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.04-09.03.55:308][356]LogWorldPartition: UWorldPartition::Initialize : World = Hayden_Mao, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.04-09.03.55:308][356]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.04-09.03.55:308][356]LogContentBundle: [Hayden_Mao(Standalone)] Creating new contrainer.
+[2024.11.04-09.03.55:308][356]LogWorldPartition: Display: WorldPartition initialize took 947 us (total: 224 ms)
+[2024.11.04-09.03.55:309][356]LogPlayLevel: PIE: World Init took: (0.002117s)
+[2024.11.04-09.03.55:309][356]LogAudio: Display: Creating Audio Device:                 Id: 97, Scope: Unique, Realtime: True
+[2024.11.04-09.03.55:309][356]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.04-09.03.55:309][356]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.04-09.03.55:309][356]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.04-09.03.55:309][356]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.04-09.03.55:309][356]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.04-09.03.55:309][356]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.04-09.03.55:309][356]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.04-09.03.55:309][356]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.04-09.03.55:309][356]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.04-09.03.55:309][356]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.04-09.03.55:309][356]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.04-09.03.55:311][356]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.04-09.03.55:328][356]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Hayden’s AirPods #2)
+[2024.11.04-09.03.55:329][356]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.04-09.03.55:329][356]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.04-09.03.55:329][356]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.04-09.03.55:329][356]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=97
+[2024.11.04-09.03.55:329][356]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=97
+[2024.11.04-09.03.55:331][356]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=97
+[2024.11.04-09.03.55:331][356]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=97
+[2024.11.04-09.03.55:331][356]LogInit: FAudioDevice initialized with ID 97.
+[2024.11.04-09.03.55:331][356]LogAudio: Display: Audio Device (ID: 97) registered with world 'Hayden_Mao'.
+[2024.11.04-09.03.55:331][356]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 97
+[2024.11.04-09.03.55:334][356]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.04-09.03.55:336][356]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Hayden_Mao.Hayden_Mao up for play (max tick rate 60) at 2024.11.04-19.03.55
+[2024.11.04-09.03.55:336][356]LogWorld: Bringing up level for play took: 0.001716
+[2024.11.04-09.03.55:338][356]LogOnline: OSS: Created online subsystem instance for: :Context_117
+[2024.11.04-09.03.55:339][356]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2024.11.04-09.03.55:339][356]PIE: Server logged in
+[2024.11.04-09.03.55:340][356]PIE: Play in editor total start time 0.055 seconds.
+[2024.11.04-09.03.59:595][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-09.03.59:595][608]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Hayden_Mao
+[2024.11.04-09.03.59:596][608]LogWorld: UWorld::CleanupWorld for Hayden_Mao, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-09.03.59:596][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-09.03.59:596][608]LogContentBundle: [Hayden_Mao(Standalone)] Deleting container.
+[2024.11.04-09.03.59:605][608]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.04-09.03.59:610][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-09.03.59:628][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-09.03.59:628][608]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 97
+[2024.11.04-09.03.59:628][608]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=97
+[2024.11.04-09.03.59:630][608]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=97
+[2024.11.04-09.03.59:637][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.11.04-09.03.59:703][609]LogPlayLevel: Display: Destroying online subsystem :Context_117
+[2024.11.04-09.04.23:866][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.11.04-09.04.23:871][ 43]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Hayden_Mao' took 0.022
+[2024.11.04-09.04.31:235][483]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.04-09.04.31:239][483]LogContentBundle: [Hayden_Mao(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.04-09.04.31:239][483]LogWorldPartition: Display: GenerateStreaming for 'Hayden_Mao' started...
+[2024.11.04-09.04.31:239][483]LogWorldPartition: Display: GenerateStreaming for 'Hayden_Mao' took 948 us (total: 194 ms)
+[2024.11.04-09.04.31:239][483]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.04-09.04.31:239][483]PIE: New page: PIE session: Hayden_Mao (5 Nov 2024, 5:04:31 am)
+[2024.11.04-09.04.31:239][483]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_Hayden_Mao
+[2024.11.04-09.04.31:243][483]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003158s)
+[2024.11.04-09.04.31:243][483]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/Hayden_Mao.Hayden_Mao to /Game/FirstPerson/Maps/UEDPIE_0_Hayden_Mao.Hayden_Mao (0.003186s)
+[2024.11.04-09.04.31:260][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.11.04-09.04.31:263][483]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.04-09.04.31:263][483]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.04-09.04.31:263][483]LogAIModule: Creating AISystem for world Hayden_Mao
+[2024.11.04-09.04.31:264][483]LogWorldPartition: ULevel::OnLevelLoaded(Hayden_Mao)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.04-09.04.31:264][483]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.04-09.04.31:264][483]LogWorldPartition: UWorldPartition::Initialize : World = Hayden_Mao, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.04-09.04.31:264][483]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.04-09.04.31:265][483]LogContentBundle: [Hayden_Mao(Standalone)] Creating new contrainer.
+[2024.11.04-09.04.31:265][483]LogWorldPartition: Display: WorldPartition initialize took 909 us (total: 225 ms)
+[2024.11.04-09.04.31:265][483]LogPlayLevel: PIE: World Init took: (0.002166s)
+[2024.11.04-09.04.31:265][483]LogAudio: Display: Creating Audio Device:                 Id: 98, Scope: Unique, Realtime: True
+[2024.11.04-09.04.31:265][483]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.04-09.04.31:265][483]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.04-09.04.31:265][483]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.04-09.04.31:265][483]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.04-09.04.31:265][483]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.04-09.04.31:265][483]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.04-09.04.31:265][483]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.04-09.04.31:265][483]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.04-09.04.31:266][483]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.04-09.04.31:266][483]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.04-09.04.31:266][483]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.04-09.04.31:268][483]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.04-09.04.31:284][483]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Hayden’s AirPods #2)
+[2024.11.04-09.04.31:284][483]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.04-09.04.31:284][483]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.04-09.04.31:284][483]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.04-09.04.31:284][483]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=98
+[2024.11.04-09.04.31:284][483]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=98
+[2024.11.04-09.04.31:287][483]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=98
+[2024.11.04-09.04.31:287][483]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=98
+[2024.11.04-09.04.31:287][483]LogInit: FAudioDevice initialized with ID 98.
+[2024.11.04-09.04.31:287][483]LogAudio: Display: Audio Device (ID: 98) registered with world 'Hayden_Mao'.
+[2024.11.04-09.04.31:287][483]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 98
+[2024.11.04-09.04.31:289][483]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.04-09.04.31:291][483]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Hayden_Mao.Hayden_Mao up for play (max tick rate 60) at 2024.11.04-19.04.31
+[2024.11.04-09.04.31:291][483]LogWorld: Bringing up level for play took: 0.001626
+[2024.11.04-09.04.31:293][483]LogOnline: OSS: Created online subsystem instance for: :Context_118
+[2024.11.04-09.04.31:295][483]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2024.11.04-09.04.31:295][483]PIE: Server logged in
+[2024.11.04-09.04.31:295][483]PIE: Play in editor total start time 0.056 seconds.
+[2024.11.04-09.04.36:065][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-09.04.36:065][766]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Hayden_Mao
+[2024.11.04-09.04.36:066][766]LogWorld: UWorld::CleanupWorld for Hayden_Mao, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-09.04.36:066][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-09.04.36:066][766]LogContentBundle: [Hayden_Mao(Standalone)] Deleting container.
+[2024.11.04-09.04.36:075][766]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.04-09.04.36:079][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-09.04.36:095][766]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.04-09.04.36:096][766]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 98
+[2024.11.04-09.04.36:096][766]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=98
+[2024.11.04-09.04.36:097][766]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=98
+[2024.11.04-09.04.36:101][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-09.04.36:103][766]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.11.04-09.04.36:173][767]LogPlayLevel: Display: Destroying online subsystem :Context_118
+[2024.11.04-09.08.18:051][ 57]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.04-09.08.18:056][ 57]LogContentBundle: [Hayden_Mao(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.04-09.08.18:056][ 57]LogWorldPartition: Display: GenerateStreaming for 'Hayden_Mao' started...
+[2024.11.04-09.08.18:058][ 57]LogWorldPartition: Display: GenerateStreaming for 'Hayden_Mao' took 1 ms (total: 195 ms)
+[2024.11.04-09.08.18:058][ 57]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.04-09.08.18:058][ 57]PIE: New page: PIE session: Hayden_Mao (5 Nov 2024, 5:08:18 am)
+[2024.11.04-09.08.18:085][ 57]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_Hayden_Mao
+[2024.11.04-09.08.18:088][ 57]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003649s)
+[2024.11.04-09.08.18:088][ 57]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/Hayden_Mao.Hayden_Mao to /Game/FirstPerson/Maps/UEDPIE_0_Hayden_Mao.Hayden_Mao (0.003695s)
+[2024.11.04-09.08.18:106][ 57]LogUObjectHash: Compacting FUObjectHashTables data took   1.32ms
+[2024.11.04-09.08.18:111][ 57]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.04-09.08.18:111][ 57]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.04-09.08.18:111][ 57]LogAIModule: Creating AISystem for world Hayden_Mao
+[2024.11.04-09.08.18:112][ 57]LogWorldPartition: ULevel::OnLevelLoaded(Hayden_Mao)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.04-09.08.18:112][ 57]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.04-09.08.18:112][ 57]LogWorldPartition: UWorldPartition::Initialize : World = Hayden_Mao, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.04-09.08.18:112][ 57]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.04-09.08.18:113][ 57]LogContentBundle: [Hayden_Mao(Standalone)] Creating new contrainer.
+[2024.11.04-09.08.18:113][ 57]LogWorldPartition: Display: WorldPartition initialize took 872 us (total: 226 ms)
+[2024.11.04-09.08.18:113][ 57]LogPlayLevel: PIE: World Init took: (0.002252s)
+[2024.11.04-09.08.18:113][ 57]LogAudio: Display: Creating Audio Device:                 Id: 99, Scope: Unique, Realtime: True
+[2024.11.04-09.08.18:113][ 57]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.04-09.08.18:113][ 57]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.04-09.08.18:113][ 57]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.04-09.08.18:113][ 57]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.04-09.08.18:113][ 57]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.04-09.08.18:113][ 57]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.04-09.08.18:113][ 57]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.04-09.08.18:113][ 57]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.04-09.08.18:113][ 57]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.04-09.08.18:113][ 57]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.04-09.08.18:113][ 57]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.04-09.08.18:117][ 57]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.04-09.08.18:134][ 57]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Hayden’s AirPods #2)
+[2024.11.04-09.08.18:134][ 57]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.04-09.08.18:134][ 57]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.04-09.08.18:134][ 57]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.04-09.08.18:135][ 57]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=99
+[2024.11.04-09.08.18:135][ 57]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=99
+[2024.11.04-09.08.18:137][ 57]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=99
+[2024.11.04-09.08.18:137][ 57]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=99
+[2024.11.04-09.08.18:137][ 57]LogInit: FAudioDevice initialized with ID 99.
+[2024.11.04-09.08.18:137][ 57]LogAudio: Display: Audio Device (ID: 99) registered with world 'Hayden_Mao'.
+[2024.11.04-09.08.18:137][ 57]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 99
+[2024.11.04-09.08.18:140][ 57]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.04-09.08.18:142][ 57]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Hayden_Mao.Hayden_Mao up for play (max tick rate 60) at 2024.11.04-19.08.18
+[2024.11.04-09.08.18:142][ 57]LogWorld: Bringing up level for play took: 0.001797
+[2024.11.04-09.08.18:144][ 57]LogOnline: OSS: Created online subsystem instance for: :Context_119
+[2024.11.04-09.08.18:145][ 57]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2024.11.04-09.08.18:146][ 57]PIE: Server logged in
+[2024.11.04-09.08.18:146][ 57]PIE: Play in editor total start time 0.09 seconds.
+[2024.11.04-09.11.52:027][887]LogDerivedDataCache: C:/Users/hayde/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:17.079 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9110 files in 10544 folders with total size 718 MiB.
+[2024.11.04-09.14.23:436][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-09.14.23:436][968]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Hayden_Mao
+[2024.11.04-09.14.23:436][968]LogWorld: UWorld::CleanupWorld for Hayden_Mao, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-09.14.23:436][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-09.14.23:436][968]LogContentBundle: [Hayden_Mao(Standalone)] Deleting container.
+[2024.11.04-09.14.23:582][968]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.04-09.14.23:589][968]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-09.14.23:607][968]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-09.14.23:607][968]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 99
+[2024.11.04-09.14.23:607][968]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=99
+[2024.11.04-09.14.23:609][968]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=99
+[2024.11.04-09.14.23:617][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2024.11.04-09.14.23:693][969]LogPlayLevel: Display: Destroying online subsystem :Context_119
+[2024.11.04-09.18.41:902][885]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.04-09.18.41:908][885]LogContentBundle: [Hayden_Mao(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.04-09.18.41:908][885]LogWorldPartition: Display: GenerateStreaming for 'Hayden_Mao' started...
+[2024.11.04-09.18.41:909][885]LogWorldPartition: Display: GenerateStreaming for 'Hayden_Mao' took 1 ms (total: 196 ms)
+[2024.11.04-09.18.41:909][885]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.04-09.18.41:909][885]PIE: New page: PIE session: Hayden_Mao (5 Nov 2024, 5:18:41 am)
+[2024.11.04-09.18.41:909][885]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_Hayden_Mao
+[2024.11.04-09.18.41:913][885]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003627s)
+[2024.11.04-09.18.41:913][885]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/Hayden_Mao.Hayden_Mao to /Game/FirstPerson/Maps/UEDPIE_0_Hayden_Mao.Hayden_Mao (0.003664s)
+[2024.11.04-09.18.41:930][885]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2024.11.04-09.18.41:933][885]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.04-09.18.41:933][885]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.04-09.18.41:934][885]LogAIModule: Creating AISystem for world Hayden_Mao
+[2024.11.04-09.18.41:935][885]LogWorldPartition: ULevel::OnLevelLoaded(Hayden_Mao)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.04-09.18.41:935][885]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.04-09.18.41:935][885]LogWorldPartition: UWorldPartition::Initialize : World = Hayden_Mao, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.04-09.18.41:935][885]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.04-09.18.41:936][885]LogContentBundle: [Hayden_Mao(Standalone)] Creating new contrainer.
+[2024.11.04-09.18.41:936][885]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 227 ms)
+[2024.11.04-09.18.41:936][885]LogPlayLevel: PIE: World Init took: (0.002810s)
+[2024.11.04-09.18.41:936][885]LogAudio: Display: Creating Audio Device:                 Id: 100, Scope: Unique, Realtime: True
+[2024.11.04-09.18.41:936][885]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.04-09.18.41:936][885]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.04-09.18.41:936][885]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.04-09.18.41:936][885]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.04-09.18.41:936][885]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.04-09.18.41:936][885]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.04-09.18.41:936][885]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.04-09.18.41:936][885]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.04-09.18.41:937][885]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.04-09.18.41:937][885]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.04-09.18.41:937][885]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.04-09.18.41:940][885]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.04-09.18.41:958][885]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Hayden’s AirPods #2)
+[2024.11.04-09.18.41:958][885]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.04-09.18.41:958][885]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.04-09.18.41:958][885]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.04-09.18.41:959][885]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=100
+[2024.11.04-09.18.41:959][885]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=100
+[2024.11.04-09.18.41:961][885]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=100
+[2024.11.04-09.18.41:961][885]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=100
+[2024.11.04-09.18.41:961][885]LogInit: FAudioDevice initialized with ID 100.
+[2024.11.04-09.18.41:961][885]LogAudio: Display: Audio Device (ID: 100) registered with world 'Hayden_Mao'.
+[2024.11.04-09.18.41:961][885]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 100
+[2024.11.04-09.18.41:965][885]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.04-09.18.41:966][885]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Hayden_Mao.Hayden_Mao up for play (max tick rate 60) at 2024.11.04-19.18.41
+[2024.11.04-09.18.41:966][885]LogWorld: Bringing up level for play took: 0.002082
+[2024.11.04-09.18.41:968][885]LogOnline: OSS: Created online subsystem instance for: :Context_120
+[2024.11.04-09.18.41:969][885]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2024.11.04-09.18.41:969][885]PIE: Server logged in
+[2024.11.04-09.18.41:970][885]PIE: Play in editor total start time 0.063 seconds.
+[2024.11.04-09.20.06:865][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-09.20.06:865][975]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Hayden_Mao
+[2024.11.04-09.20.06:866][975]LogWorld: UWorld::CleanupWorld for Hayden_Mao, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-09.20.06:866][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-09.20.06:866][975]LogContentBundle: [Hayden_Mao(Standalone)] Deleting container.
+[2024.11.04-09.20.06:876][975]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.04-09.20.06:884][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-09.20.06:901][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-09.20.06:901][975]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 100
+[2024.11.04-09.20.06:901][975]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=100
+[2024.11.04-09.20.06:904][975]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=100
+[2024.11.04-09.20.06:910][975]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.11.04-09.20.06:978][976]LogPlayLevel: Display: Destroying online subsystem :Context_120
+[2024.11.04-09.21.59:133][689]LogUObjectHash: Compacting FUObjectHashTables data took   1.15ms
+[2024.11.04-09.21.59:137][689]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Hayden_Mao' took 0.023
+[2024.11.04-09.21.59:139][689]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Animal_Character/Rat_Pawn] ([2] browsable assets)...
+[2024.11.04-09.21.59:139][689]OBJ SavePackage: Finished generating thumbnails for package [/Game/Animal_Character/Rat_Pawn]
+[2024.11.04-09.21.59:149][689]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Animal_Character/Rat_Pawn_Auto4
+[2024.11.04-09.21.59:149][689]LogSavePackage: Moving '../../../../../../Users/hayde/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Rat_Pawn_Auto4930D17A5492E995E298D42A41B8E17C0.tmp' to '../../../../../../Users/hayde/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/Animal_Character/Rat_Pawn_Auto4.uasset'
+[2024.11.04-09.21.59:150][689]LogFileHelpers: Auto-saving content packages took 0.013
+[2024.11.04-09.23.29:488][107]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.04-09.23.29:493][107]LogContentBundle: [Hayden_Mao(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.04-09.23.29:493][107]LogWorldPartition: Display: GenerateStreaming for 'Hayden_Mao' started...
+[2024.11.04-09.23.29:494][107]LogWorldPartition: Display: GenerateStreaming for 'Hayden_Mao' took 1 ms (total: 197 ms)
+[2024.11.04-09.23.29:494][107]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.04-09.23.29:494][107]PIE: New page: PIE session: Hayden_Mao (5 Nov 2024, 5:23:29 am)
+[2024.11.04-09.23.29:494][107]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_Hayden_Mao
+[2024.11.04-09.23.29:498][107]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003543s)
+[2024.11.04-09.23.29:498][107]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/Hayden_Mao.Hayden_Mao to /Game/FirstPerson/Maps/UEDPIE_0_Hayden_Mao.Hayden_Mao (0.003577s)
+[2024.11.04-09.23.29:515][107]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2024.11.04-09.23.29:518][107]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.04-09.23.29:518][107]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.04-09.23.29:519][107]LogAIModule: Creating AISystem for world Hayden_Mao
+[2024.11.04-09.23.29:519][107]LogWorldPartition: ULevel::OnLevelLoaded(Hayden_Mao)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.04-09.23.29:519][107]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.04-09.23.29:519][107]LogWorldPartition: UWorldPartition::Initialize : World = Hayden_Mao, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.04-09.23.29:519][107]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.04-09.23.29:520][107]LogContentBundle: [Hayden_Mao(Standalone)] Creating new contrainer.
+[2024.11.04-09.23.29:520][107]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 228 ms)
+[2024.11.04-09.23.29:520][107]LogPlayLevel: PIE: World Init took: (0.002645s)
+[2024.11.04-09.23.29:521][107]LogAudio: Display: Creating Audio Device:                 Id: 101, Scope: Unique, Realtime: True
+[2024.11.04-09.23.29:521][107]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.04-09.23.29:521][107]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.04-09.23.29:521][107]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.04-09.23.29:521][107]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.04-09.23.29:521][107]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.04-09.23.29:521][107]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.04-09.23.29:521][107]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.04-09.23.29:521][107]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.04-09.23.29:521][107]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.04-09.23.29:521][107]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.04-09.23.29:521][107]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.04-09.23.29:523][107]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.04-09.23.29:542][107]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Hayden’s AirPods #2)
+[2024.11.04-09.23.29:543][107]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.04-09.23.29:543][107]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.04-09.23.29:543][107]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.04-09.23.29:543][107]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=101
+[2024.11.04-09.23.29:543][107]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=101
+[2024.11.04-09.23.29:545][107]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=101
+[2024.11.04-09.23.29:545][107]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=101
+[2024.11.04-09.23.29:546][107]LogInit: FAudioDevice initialized with ID 101.
+[2024.11.04-09.23.29:546][107]LogAudio: Display: Audio Device (ID: 101) registered with world 'Hayden_Mao'.
+[2024.11.04-09.23.29:546][107]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 101
+[2024.11.04-09.23.29:548][107]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.04-09.23.29:551][107]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Hayden_Mao.Hayden_Mao up for play (max tick rate 60) at 2024.11.04-19.23.29
+[2024.11.04-09.23.29:551][107]LogWorld: Bringing up level for play took: 0.001853
+[2024.11.04-09.23.29:552][107]LogOnline: OSS: Created online subsystem instance for: :Context_121
+[2024.11.04-09.23.29:554][107]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2024.11.04-09.23.29:554][107]PIE: Server logged in
+[2024.11.04-09.23.29:555][107]PIE: Play in editor total start time 0.062 seconds.
+[2024.11.04-09.23.57:565][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-09.23.57:565][783]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Hayden_Mao
+[2024.11.04-09.23.57:565][783]LogWorld: UWorld::CleanupWorld for Hayden_Mao, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-09.23.57:566][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-09.23.57:566][783]LogContentBundle: [Hayden_Mao(Standalone)] Deleting container.
+[2024.11.04-09.23.57:574][783]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.04-09.23.57:579][783]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-09.23.57:595][783]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.04-09.23.57:595][783]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 101
+[2024.11.04-09.23.57:595][783]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=101
+[2024.11.04-09.23.57:597][783]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=101
+[2024.11.04-09.23.57:601][783]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-09.23.57:604][783]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2024.11.04-09.23.57:670][784]LogPlayLevel: Display: Destroying online subsystem :Context_121
+[2024.11.04-09.30.32:439][455]LogAudioMixer: Warning: FMixerPlatformXAudio2: Changing default audio render device to new device: Role=Console, DeviceName=Speakers (Realtek(R) Audio), InstanceID=1
+[2024.11.04-09.30.32:453][456]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4080
+[2024.11.04-09.30.33:071][493]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=8, SampleRate=48000, DeviceID={0.0.0.00000000}.{b68d6338-26bf-4fb0-88ed-0d6be13a15fa}, Name=Speakers (Realtek(R) Audio)), Reason=FMixerPlatformXAudio2::OnDefaultRenderDeviceChanged, InstanceID=1, DurationMS=609.94
+[2024.11.04-09.30.33:071][493]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
+[2024.11.04-09.30.33:074][493]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2024.11.04-09.32.27:406][336]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.11.04-09.32.27:411][336]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Hayden_Mao' took 0.027
+[2024.11.04-09.32.27:412][336]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter] ([2] browsable assets)...
+[2024.11.04-09.32.27:421][336]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter]
+[2024.11.04-09.32.27:421][336]OBJ SavePackage: Finished generating thumbnails for package [/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter]
+[2024.11.04-09.32.27:443][336]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto5
+[2024.11.04-09.32.27:443][336]LogSavePackage: Moving '../../../../../../Users/hayde/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/BP_FirstPersonCharacter_Auto556E455CC45C25473E96FA9915B81717E.tmp' to '../../../../../../Users/hayde/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter_Auto5.uasset'
+[2024.11.04-09.32.27:444][336]LogFileHelpers: Auto-saving content packages took 0.034
+[2024.11.04-09.42.27:669][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2024.11.04-09.42.27:672][331]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Hayden_Mao' took 0.022
+[2024.11.04-09.52.27:931][328]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.11.04-09.52.27:934][328]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Hayden_Mao' took 0.022
+[2024.11.04-10.02.28:193][323]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.11.04-10.02.28:196][323]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Hayden_Mao' took 0.022
+[2024.11.04-10.11.52:138][157]LogDerivedDataCache: C:/Users/hayde/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:17.121 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 9113 files in 10548 folders with total size 718 MiB.
+[2024.11.04-10.12.28:444][318]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2024.11.04-10.12.28:446][318]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Hayden_Mao' took 0.023
+[2024.11.04-10.22.28:706][315]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.11.04-10.22.28:708][315]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Hayden_Mao' took 0.021
+[2024.11.04-10.31.44:315][648]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.11.04-10.31.44:448][648]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2024.11.04-10.32.00:081][533]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.11.04-10.32.00:099][533]LogContentBrowser: Creating deferred item: NewFolder
+[2024.11.04-10.32.00:114][534]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.11.04-10.32.04:937][824]LogContentBrowser: Attempting asset rename: NewFolder -> Inputs
+[2024.11.04-10.32.04:937][824]LogContentBrowser: End creating deferred item NewFolder
+[2024.11.04-10.32.21:154][754]LogSlate: Warning: Unable to rasterize '../../../Engine/Content/Editor/Slate/Starship/AssetIcons/SpecularProfile_64.svg'. File could not be found
+[2024.11.04-10.32.23:586][890]LogContentBrowser: Deferred new asset file creation: NewInputMappingContext
+[2024.11.04-10.32.23:597][890]LogContentBrowser: Creating deferred item: NewInputMappingContext
+[2024.11.04-10.32.23:635][892]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputMappingContext).
+[2024.11.04-10.32.34:150][523]LogContentBrowser: Attempting asset rename: NewInputMappingContext -> Rat_MappingContext
+[2024.11.04-10.32.34:162][523]LogContentBrowser: End creating deferred item NewInputMappingContext
+[2024.11.04-10.32.40:021][793]LogContentBrowser: Deferred new asset file creation: NewInputMappingContext
+[2024.11.04-10.32.40:032][793]LogContentBrowser: Creating deferred item: NewInputMappingContext
+[2024.11.04-10.32.40:047][794]LogContentBrowser: Renaming the item being created (Deferred Item: NewInputMappingContext).
+[2024.11.04-10.32.47:688][253]LogContentBrowser: Attempting asset rename: NewInputMappingContext -> Owl_MappingContext
+[2024.11.04-10.32.47:688][253]LogContentBrowser: End creating deferred item NewInputMappingContext
+[2024.11.04-10.32.49:181][342]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-10.32.49:272][342]LogSavePackage: Moving output files for package: /Game/Animal_Character/Inputs/Owl_MappingContext
+[2024.11.04-10.32.49:272][342]LogSavePackage: Moving '../../../../../../Users/hayde/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Owl_MappingContext87D583624C87C8D9B6B882BE5385B22E.tmp' to '../../../../../../Users/hayde/Documents/GitHub/GameJamStone/StoneAngus2024/Content/Animal_Character/Inputs/Owl_MappingContext.uasset'
+[2024.11.04-10.32.49:285][342]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 6.00 sec)
+[2024.11.04-10.32.49:287][342]AssetCheck: New page: Asset Save: Owl_MappingContext
+[2024.11.04-10.32.49:287][342]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Animal_Character/Inputs/Owl_MappingContext.Owl_MappingContext
+[2024.11.04-10.32.50:445][410]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-10.32.50:504][410]LogSavePackage: Moving output files for package: /Game/Animal_Character/Inputs/Rat_MappingContext
+[2024.11.04-10.32.50:504][410]LogSavePackage: Moving '../../../../../../Users/hayde/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Rat_MappingContext0F0ECEDD45DE9C7AFD34CF89B85AF244.tmp' to '../../../../../../Users/hayde/Documents/GitHub/GameJamStone/StoneAngus2024/Content/Animal_Character/Inputs/Rat_MappingContext.uasset'
+[2024.11.04-10.32.50:514][410]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 6.07 sec)
+[2024.11.04-10.32.50:515][410]AssetCheck: New page: Asset Save: Rat_MappingContext
+[2024.11.04-10.32.50:515][410]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Animal_Character/Inputs/Rat_MappingContext.Rat_MappingContext
+[2024.11.04-10.32.51:163][447]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Animal_Character/Inputs/Owl_MappingContext.Owl_MappingContext
+[2024.11.04-10.34.00:629][571]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/Animal_Character/Inputs/Rat_MappingContext.Rat_MappingContext
+[2024.11.04-10.34.28:695][217]LogAssetEditorSubsystem: Opening Asset editor for InputMappingContext /Game/FirstPerson/Input/IMC_Default.IMC_Default
+[2024.11.04-10.37.04:489][435]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-10.37.04:554][435]LogSavePackage: Moving output files for package: /Game/Animal_Character/Inputs/Rat_MappingContext
+[2024.11.04-10.37.04:554][435]LogSavePackage: Moving '../../../../../../Users/hayde/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Rat_MappingContext1A9A478B44F655BA02DAC5BF4185C677.tmp' to '../../../../../../Users/hayde/Documents/GitHub/GameJamStone/StoneAngus2024/Content/Animal_Character/Inputs/Rat_MappingContext.uasset'
+[2024.11.04-10.37.04:563][435]LogFileHelpers: InternalPromptForCheckoutAndSave took 75 ms (total: 6.14 sec)
+[2024.11.04-10.37.04:566][435]AssetCheck: New page: Asset Save: Rat_MappingContext
+[2024.11.04-10.37.04:566][435]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Animal_Character/Inputs/Rat_MappingContext.Rat_MappingContext
+[2024.11.04-10.37.25:693][695]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-10.37.25:755][695]LogSavePackage: Moving output files for package: /Game/Animal_Character/Inputs/Owl_MappingContext
+[2024.11.04-10.37.25:755][695]LogSavePackage: Moving '../../../../../../Users/hayde/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Owl_MappingContext8F3FB4A944B193C7AB80C593F45FBD06.tmp' to '../../../../../../Users/hayde/Documents/GitHub/GameJamStone/StoneAngus2024/Content/Animal_Character/Inputs/Owl_MappingContext.uasset'
+[2024.11.04-10.37.25:764][695]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 6.21 sec)
+[2024.11.04-10.37.25:766][695]AssetCheck: New page: Asset Save: Owl_MappingContext
+[2024.11.04-10.37.25:766][695]LogContentValidation: Display: Validating /Script/EnhancedInput.InputMappingContext /Game/Animal_Character/Inputs/Owl_MappingContext.Owl_MappingContext
+[2024.11.04-10.37.28:433][838]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-10.37.28:433][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-10.37.28:470][838]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-10.37.28:470][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-10.37.28:632][838]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-10.37.28:632][838]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-10.37.32:078][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-10.37.32:168][ 40]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.11.04-10.37.32:168][ 40]LogSavePackage: Moving '../../../../../../Users/hayde/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/BP_FirstPersonCharacter0FB8685B40909051419A948F97348D99.tmp' to '../../../../../../Users/hayde/Documents/GitHub/GameJamStone/StoneAngus2024/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.11.04-10.37.32:181][ 40]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 6.31 sec)
+[2024.11.04-10.37.32:183][ 40]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.11.04-10.37.32:183][ 40]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.11.04-10.37.42:346][638]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.11.04-10.37.42:464][638]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2024.11.04-10.37.42:960][654]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-10.37.43:069][654]LogSavePackage: Moving output files for package: /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter
+[2024.11.04-10.37.43:070][654]LogSavePackage: Moving '../../../../../../Users/hayde/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/BP_FirstPersonCharacter005C4C034EDD6A57731411B6EE5A6737.tmp' to '../../../../../../Users/hayde/Documents/GitHub/GameJamStone/StoneAngus2024/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset'
+[2024.11.04-10.37.43:082][654]LogFileHelpers: InternalPromptForCheckoutAndSave took 121 ms (total: 6.44 sec)
+[2024.11.04-10.37.43:084][654]AssetCheck: New page: Asset Save: BP_FirstPersonCharacter
+[2024.11.04-10.37.43:084][654]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
+[2024.11.04-10.39.12:349][898]BlueprintLog: New page: Compile Rat_Pawn
+[2024.11.04-10.39.12:414][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.11.04-10.40.14:222][470]LogEditorTransaction: Undo Create Pin Link
+[2024.11.04-10.40.14:584][476]LogEditorTransaction: Undo Create Pin Link
+[2024.11.04-10.40.15:099][497]LogEditorTransaction: Undo Create Pin Link
+[2024.11.04-10.40.15:505][514]LogEditorTransaction: Undo Move Node
+[2024.11.04-10.40.16:484][565]LogEditorTransaction: Undo Add Node
+[2024.11.04-10.40.16:949][585]LogEditorTransaction: Undo Delete current selection
+[2024.11.04-10.41.18:187][967]LogEditorTransaction: Undo Move Node
+[2024.11.04-10.41.18:378][968]LogEditorTransaction: Undo Add Node
+[2024.11.04-10.41.18:547][969]LogEditorTransaction: Undo Delete current selection
+[2024.11.04-10.41.19:001][987]LogEditorTransaction: Undo Add Node
+[2024.11.04-10.41.19:392][  3]LogEditorTransaction: Undo Delete current selection
+[2024.11.04-10.41.27:549][473]BlueprintLog: New page: Compile Rat_Pawn
+[2024.11.04-10.41.27:605][473]LogUObjectHash: Compacting FUObjectHashTables data took   1.42ms
+[2024.11.04-10.41.28:702][528]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-10.41.28:784][528]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Animal_Character/Rat_Pawn" FILE="../../../../../../Users/hayde/Documents/GitHub/GameJamStone/StoneAngus2024/Content/Animal_Character/Rat_Pawn.uasset" SILENT=true
+[2024.11.04-10.41.28:796][528]LogSavePackage: Moving output files for package: /Game/Animal_Character/Rat_Pawn
+[2024.11.04-10.41.28:797][528]LogSavePackage: Moving '../../../../../../Users/hayde/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Rat_Pawn042B1AA04D465A6AAE1D7A888AD1DBCA.tmp' to '../../../../../../Users/hayde/Documents/GitHub/GameJamStone/StoneAngus2024/Content/Animal_Character/Rat_Pawn.uasset'
+[2024.11.04-10.41.28:808][528]LogFileHelpers: InternalPromptForCheckoutAndSave took 105 ms (total: 6.54 sec)
+[2024.11.04-10.41.28:810][528]AssetCheck: New page: Asset Save: Rat_Pawn
+[2024.11.04-10.41.28:810][528]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Animal_Character/Rat_Pawn.Rat_Pawn
+[2024.11.04-10.41.55:605][113]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2024.11.04-10.41.55:611][113]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/Hayden_Mao' took 0.024
+[2024.11.04-10.41.55:918][131]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.04-10.41.55:923][131]LogContentBundle: [Hayden_Mao(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.04-10.41.55:923][131]LogWorldPartition: Display: GenerateStreaming for 'Hayden_Mao' started...
+[2024.11.04-10.41.55:924][131]LogWorldPartition: Display: GenerateStreaming for 'Hayden_Mao' took 956 us (total: 198 ms)
+[2024.11.04-10.41.55:924][131]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.04-10.41.55:924][131]PIE: New page: PIE session: Hayden_Mao (5 Nov 2024, 6:41:55 am)
+[2024.11.04-10.41.55:947][131]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_Hayden_Mao
+[2024.11.04-10.41.55:950][131]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003474s)
+[2024.11.04-10.41.55:950][131]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/Hayden_Mao.Hayden_Mao to /Game/FirstPerson/Maps/UEDPIE_0_Hayden_Mao.Hayden_Mao (0.003528s)
+[2024.11.04-10.41.55:967][131]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2024.11.04-10.41.55:970][131]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.04-10.41.55:970][131]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.04-10.41.55:971][131]LogAIModule: Creating AISystem for world Hayden_Mao
+[2024.11.04-10.41.55:971][131]LogWorldPartition: ULevel::OnLevelLoaded(Hayden_Mao)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.04-10.41.55:972][131]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.04-10.41.55:972][131]LogWorldPartition: UWorldPartition::Initialize : World = Hayden_Mao, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.04-10.41.55:972][131]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.04-10.41.55:972][131]LogContentBundle: [Hayden_Mao(Standalone)] Creating new contrainer.
+[2024.11.04-10.41.55:972][131]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 229 ms)
+[2024.11.04-10.41.55:972][131]LogPlayLevel: PIE: World Init took: (0.002380s)
+[2024.11.04-10.41.55:973][131]LogAudio: Display: Creating Audio Device:                 Id: 102, Scope: Unique, Realtime: True
+[2024.11.04-10.41.55:973][131]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.04-10.41.55:973][131]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.04-10.41.55:973][131]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.04-10.41.55:973][131]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.04-10.41.55:973][131]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.04-10.41.55:973][131]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.04-10.41.55:973][131]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.04-10.41.55:973][131]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.04-10.41.55:974][131]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.04-10.41.55:974][131]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.04-10.41.55:974][131]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.04-10.41.55:976][131]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.04-10.41.56:024][131]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.11.04-10.41.56:024][131]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.04-10.41.56:024][131]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.04-10.41.56:024][131]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.04-10.41.56:026][131]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=102
+[2024.11.04-10.41.56:026][131]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=102
+[2024.11.04-10.41.56:028][131]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=102
+[2024.11.04-10.41.56:028][131]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=102
+[2024.11.04-10.41.56:028][131]LogInit: FAudioDevice initialized with ID 102.
+[2024.11.04-10.41.56:028][131]LogAudio: Display: Audio Device (ID: 102) registered with world 'Hayden_Mao'.
+[2024.11.04-10.41.56:028][131]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 102
+[2024.11.04-10.41.56:031][131]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.04-10.41.56:033][131]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Hayden_Mao.Hayden_Mao up for play (max tick rate 60) at 2024.11.04-20.41.56
+[2024.11.04-10.41.56:033][131]LogWorld: Bringing up level for play took: 0.001835
+[2024.11.04-10.41.56:034][131]LogOnline: OSS: Created online subsystem instance for: :Context_122
+[2024.11.04-10.41.56:036][131]LogEnhancedInput: Warning: Called AddMappingContext with a null Mapping Context! No changes have been applied.
+[2024.11.04-10.41.56:036][131]PIE: Server logged in
+[2024.11.04-10.41.56:037][131]PIE: Play in editor total start time 0.115 seconds.
+[2024.11.04-10.42.03:097][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-10.42.03:097][551]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Hayden_Mao
+[2024.11.04-10.42.03:097][551]LogWorld: UWorld::CleanupWorld for Hayden_Mao, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-10.42.03:098][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-10.42.03:098][551]LogContentBundle: [Hayden_Mao(Standalone)] Deleting container.
+[2024.11.04-10.42.03:169][551]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.04-10.42.03:173][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-10.42.03:190][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-10.42.03:191][551]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 102
+[2024.11.04-10.42.03:191][551]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=102
+[2024.11.04-10.42.03:193][551]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=102
+[2024.11.04-10.42.03:202][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2024.11.04-10.42.03:274][552]LogPlayLevel: Display: Destroying online subsystem :Context_122
+[2024.11.04-10.42.24:099][774]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.11.04-10.42.24:128][774]LogBlueprint: Error: [AssetLog] C:\Users\hayde\Documents\GitHub\GameJamStone\StoneAngus2024\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] This blueprint (self) is not a EnhancedInputSubsystemInterface, therefore ' Target ' must have a connection.
+[2024.11.04-10.42.24:188][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2024.11.04-10.42.28:775][ 33]LogEditorTransaction: Undo Change Object Pin Value
+[2024.11.04-10.42.30:846][135]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.11.04-10.42.30:873][135]LogBlueprint: Error: [AssetLog] C:\Users\hayde\Documents\GitHub\GameJamStone\StoneAngus2024\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] This blueprint (self) is not a EnhancedInputSubsystemInterface, therefore ' Target ' must have a connection.
+[2024.11.04-10.42.30:926][135]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2024.11.04-10.42.40:373][669]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.11.04-10.42.40:399][669]LogBlueprint: Error: [AssetLog] C:\Users\hayde\Documents\GitHub\GameJamStone\StoneAngus2024\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] This blueprint (self) is not a EnhancedInputSubsystemInterface, therefore ' Target ' must have a connection.
+[2024.11.04-10.42.40:453][669]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2024.11.04-10.43.59:804][ 59]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.11.04-10.43.59:834][ 59]LogBlueprint: Error: [AssetLog] C:\Users\hayde\Documents\GitHub\GameJamStone\StoneAngus2024\Content\FirstPerson\Blueprints\BP_FirstPersonCharacter.uasset: [Compiler] This blueprint (self) is not a EnhancedInputSubsystemInterface, therefore ' Target ' must have a connection.
+[2024.11.04-10.43.59:895][ 59]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2024.11.04-10.44.40:630][389]BlueprintLog: New page: Compile BP_FirstPersonCharacter
+[2024.11.04-10.44.40:713][389]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2024.11.04-10.44.42:557][482]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.04-10.44.42:562][482]LogContentBundle: [Hayden_Mao(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.04-10.44.42:562][482]LogWorldPartition: Display: GenerateStreaming for 'Hayden_Mao' started...
+[2024.11.04-10.44.42:563][482]LogWorldPartition: Display: GenerateStreaming for 'Hayden_Mao' took 993 us (total: 199 ms)
+[2024.11.04-10.44.42:563][482]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.04-10.44.42:563][482]PIE: New page: PIE session: Hayden_Mao (5 Nov 2024, 6:44:42 am)
+[2024.11.04-10.44.42:563][482]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_Hayden_Mao
+[2024.11.04-10.44.42:567][482]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003283s)
+[2024.11.04-10.44.42:567][482]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/Hayden_Mao.Hayden_Mao to /Game/FirstPerson/Maps/UEDPIE_0_Hayden_Mao.Hayden_Mao (0.003312s)
+[2024.11.04-10.44.42:587][482]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2024.11.04-10.44.42:595][482]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.04-10.44.42:595][482]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.04-10.44.42:596][482]LogAIModule: Creating AISystem for world Hayden_Mao
+[2024.11.04-10.44.42:596][482]LogWorldPartition: ULevel::OnLevelLoaded(Hayden_Mao)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.04-10.44.42:596][482]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.04-10.44.42:596][482]LogWorldPartition: UWorldPartition::Initialize : World = Hayden_Mao, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.04-10.44.42:596][482]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.04-10.44.42:596][482]LogContentBundle: [Hayden_Mao(Standalone)] Creating new contrainer.
+[2024.11.04-10.44.42:596][482]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 230 ms)
+[2024.11.04-10.44.42:596][482]LogPlayLevel: PIE: World Init took: (0.002661s)
+[2024.11.04-10.44.42:596][482]LogAudio: Display: Creating Audio Device:                 Id: 103, Scope: Unique, Realtime: True
+[2024.11.04-10.44.42:596][482]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.04-10.44.42:596][482]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.04-10.44.42:596][482]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.04-10.44.42:596][482]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.04-10.44.42:596][482]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.04-10.44.42:596][482]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.04-10.44.42:596][482]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.04-10.44.42:596][482]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.04-10.44.42:597][482]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.04-10.44.42:597][482]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.04-10.44.42:597][482]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.04-10.44.42:600][482]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.04-10.44.42:647][482]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2024.11.04-10.44.42:649][482]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.04-10.44.42:649][482]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.04-10.44.42:649][482]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.04-10.44.42:650][482]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=103
+[2024.11.04-10.44.42:650][482]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=103
+[2024.11.04-10.44.42:652][482]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=103
+[2024.11.04-10.44.42:652][482]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=103
+[2024.11.04-10.44.42:652][482]LogInit: FAudioDevice initialized with ID 103.
+[2024.11.04-10.44.42:652][482]LogAudio: Display: Audio Device (ID: 103) registered with world 'Hayden_Mao'.
+[2024.11.04-10.44.42:652][482]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 103
+[2024.11.04-10.44.42:654][482]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.04-10.44.42:656][482]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_Hayden_Mao.Hayden_Mao up for play (max tick rate 60) at 2024.11.04-20.44.42
+[2024.11.04-10.44.42:657][482]LogWorld: Bringing up level for play took: 0.001712
+[2024.11.04-10.44.42:658][482]LogOnline: OSS: Created online subsystem instance for: :Context_123
+[2024.11.04-10.44.42:660][482]LogScript: Warning: Accessed None trying to read property CallFunc_GetWorldSubsystem_ReturnValue
+	BP_FirstPersonCharacter_C /Game/FirstPerson/Maps/UEDPIE_0_Hayden_Mao.Hayden_Mao:PersistentLevel.BP_FirstPersonCharacter_C_UAID_B4450693CFA73D2C02_1951584698
+	Function /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C:ExecuteUbergraph_BP_FirstPersonCharacter:0946
+[2024.11.04-10.44.42:661][482]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CallFunc_GetWorldSubsystem_ReturnValue". Node:  Add Mapping Context Graph:  EventGraph Function:  Execute Ubergraph BP First Person Character Blueprint:  BP_FirstPersonCharacter
+[2024.11.04-10.44.42:661][482]PIE: Server logged in
+[2024.11.04-10.44.42:662][482]PIE: Play in editor total start time 0.1 seconds.
+[2024.11.04-10.44.54:710][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-10.44.54:710][201]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_Hayden_Mao
+[2024.11.04-10.44.54:710][201]LogWorld: UWorld::CleanupWorld for Hayden_Mao, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-10.44.54:711][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-10.44.54:711][201]LogContentBundle: [Hayden_Mao(Standalone)] Deleting container.
+[2024.11.04-10.44.54:820][201]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.04-10.44.54:825][201]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-10.44.54:841][201]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.04-10.44.54:841][201]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 103
+[2024.11.04-10.44.54:842][201]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=103
+[2024.11.04-10.44.54:843][201]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=103
+[2024.11.04-10.44.54:851][201]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-10.44.54:853][201]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2024.11.04-10.44.54:933][202]LogPlayLevel: Display: Destroying online subsystem :Context_123
+[2024.11.04-10.45.20:364][598]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.11.04-10.45.20:376][598]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.11.04-10.45.20:391][598]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.11.04-10.45.20:410][599]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.11.04-10.45.25:788][922]LogContentBrowser: Attempting asset rename: NewBlueprint -> Owl_Character
+[2024.11.04-10.45.25:806][922]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.11.04-10.45.30:228][ 75]LogSlate: Window 'Pick Parent Class' being destroyed
+[2024.11.04-10.45.30:244][ 75]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2024.11.04-10.45.30:260][ 75]LogContentBrowser: Creating deferred item: NewBlueprint
+[2024.11.04-10.45.30:278][ 76]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2024.11.04-10.45.35:509][390]LogContentBrowser: Attempting asset rename: NewBlueprint -> Rat_Character
+[2024.11.04-10.45.35:515][390]LogContentBrowser: End creating deferred item NewBlueprint
+[2024.11.04-10.45.59:822][823]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Animal_Character/Owl_Character.Owl_Character
+[2024.11.04-10.45.59:832][823]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.04-10.45.59:832][823]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.04-10.45.59:986][823]LogViewport: Scene viewport resized to 1007x760, mode Windowed.
+[2024.11.04-10.46.08:644][146]LogSlate: Window 'Fix Self Context Function References' being destroyed
