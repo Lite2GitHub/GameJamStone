@@ -3068,3 +3068,258 @@ Script Stack (1 frames) :
 [2024.11.04-15.38.52:692][404]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_1879992355
 [2024.11.04-15.38.52:692][404]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_1882644356
 [2024.11.04-15.38.52:692][404]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_1891051357
+[2024.11.04-16.19.11:066][126]LogDerivedDataCache: C:/Users/s5287338/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:23.387 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 12132 files in 14562 folders with total size 1849 MiB.
+[2024.11.04-16.21.03:680][366]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-16.21.03:680][366]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.11.04-16.21.03:681][366]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-16.21.03:682][366]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-16.21.03:682][366]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.11.04-16.21.03:690][366]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.04-16.21.03:693][366]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-16.21.03:707][366]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-16.21.03:708][366]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 17
+[2024.11.04-16.21.03:708][366]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.11.04-16.21.03:710][366]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2024.11.04-16.21.03:724][366]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2024.11.04-16.21.03:775][367]LogPlayLevel: Display: Destroying online subsystem :Context_35
+[2024.11.04-16.21.06:911][706]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy_AI/BP_NPC_Dual.BP_NPC_Dual_C
+[2024.11.04-16.21.06:911][706]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy_AI/BP_NPC_Dual.BP_NPC_Dual_C
+[2024.11.04-16.21.06:913][706]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy_AI/BP_NPC_Dual.BP_NPC_Dual as actor: BP_NPC_Dual_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_NPC_Dual_C_2
+[2024.11.04-16.21.06:914][706]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy_AI/BP_NPC_Dual.BP_NPC_Dual as actor: BP_NPC_Dual_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_NPC_Dual_C_2
+[2024.11.04-16.21.11:259][193]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy_AI/BP_NPC_Dual.BP_NPC_Dual_C
+[2024.11.04-16.21.11:259][193]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/Enemy_AI/BP_NPC_Dual.BP_NPC_Dual_C
+[2024.11.04-16.21.11:262][193]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy_AI/BP_NPC_Dual.BP_NPC_Dual as actor: BP_NPC_Dual_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_NPC_Dual_C_UAID_00BE43BC50EE612C02_1275783049
+[2024.11.04-16.21.11:263][193]LogActorFactory: Actor Factory spawned Blueprint /Game/Enemy_AI/BP_NPC_Dual.BP_NPC_Dual as actor: BP_NPC_Dual_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_NPC_Dual_C_UAID_00BE43BC50EE612C02_1275783049
+[2024.11.04-16.24.04:908][898]LogDebuggerCommands: Repeating last play command: Simulate
+[2024.11.04-16.24.04:913][898]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.04-16.24.04:913][898]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.11.04-16.24.04:918][898]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 4 ms (total: 66 ms)
+[2024.11.04-16.24.04:918][898]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.04-16.24.04:919][898]PIE: New page: SIE session: FirstPersonMap (5 Nov 2024, 12:24:04 pm)
+[2024.11.04-16.24.04:962][898]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.11.04-16.24.04:974][898]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012061s)
+[2024.11.04-16.24.04:974][898]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.012114s)
+[2024.11.04-16.24.04:985][898]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2024.11.04-16.24.04:988][898]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.04-16.24.04:988][898]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.04-16.24.04:989][898]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.11.04-16.24.04:989][898]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.04-16.24.04:989][898]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.04-16.24.04:989][898]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.04-16.24.04:989][898]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.04-16.24.04:992][898]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.11.04-16.24.04:992][898]LogWorldPartition: Display: WorldPartition initialize took 2 ms (total: 1.26 sec)
+[2024.11.04-16.24.04:992][898]LogPlayLevel: PIE: World Init took: (0.003852s)
+[2024.11.04-16.24.04:992][898]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2024.11.04-16.24.04:992][898]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.04-16.24.04:992][898]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.04-16.24.04:992][898]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.04-16.24.04:992][898]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.04-16.24.04:992][898]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.04-16.24.04:992][898]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.04-16.24.04:992][898]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.04-16.24.04:992][898]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.04-16.24.04:993][898]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.04-16.24.04:993][898]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.04-16.24.04:993][898]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.04-16.24.04:995][898]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.04-16.24.05:144][898]LogAudioMixer: Display: Using Audio Hardware Device DELL U2722D (NVIDIA High Definition Audio)
+[2024.11.04-16.24.05:144][898]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.04-16.24.05:144][898]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.04-16.24.05:144][898]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.04-16.24.05:145][898]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2024.11.04-16.24.05:145][898]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2024.11.04-16.24.05:147][898]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2024.11.04-16.24.05:147][898]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2024.11.04-16.24.05:147][898]LogInit: FAudioDevice initialized with ID 18.
+[2024.11.04-16.24.05:147][898]LogAudio: Display: Audio Device (ID: 18) registered with world 'FirstPersonMap'.
+[2024.11.04-16.24.05:147][898]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 18
+[2024.11.04-16.24.05:150][898]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.04-16.24.05:159][898]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.11.05-02.24.05
+[2024.11.04-16.24.05:160][898]LogWorld: Bringing up level for play took: 0.009657
+[2024.11.04-16.24.05:162][898]LogOnline: OSS: Created online subsystem instance for: :Context_36
+[2024.11.04-16.24.05:163][898]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2024.11.04-16.24.05:163][898]PIE: Server logged in
+[2024.11.04-16.24.05:164][898]PIE: Play in editor total start time 0.251 seconds.
+[2024.11.04-16.26.40:366][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-16.26.40:366][991]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.11.04-16.26.40:367][991]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-16.26.40:367][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-16.26.40:367][991]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.11.04-16.26.40:375][991]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.04-16.26.40:380][991]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-16.26.40:391][991]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.04-16.26.40:391][991]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 18
+[2024.11.04-16.26.40:391][991]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.11.04-16.26.40:394][991]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2024.11.04-16.26.40:403][991]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-16.26.40:407][991]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.11.04-16.26.40:493][992]LogPlayLevel: Display: Destroying online subsystem :Context_36
+[2024.11.04-16.26.46:931][711]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-16.26.46:931][711]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-16.26.48:831][899]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2024.11.04-16.26.48:831][899]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-16.26.48:831][899]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-16.28.54:820][637]Cmd: DELETE
+[2024.11.04-16.28.54:821][637]Cmd: ACTOR DELETE
+[2024.11.04-16.28.54:823][637]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-16.28.54:835][637]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2024.11.04-16.28.54:839][637]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2024.11.04-16.28.55:861][749]Cmd: DELETE
+[2024.11.04-16.28.55:861][749]Cmd: ACTOR DELETE
+[2024.11.04-16.28.55:863][749]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-16.28.55:873][749]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2024.11.04-16.28.55:877][749]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2024.11.04-16.28.56:440][804]Cmd: DELETE
+[2024.11.04-16.28.56:440][804]Cmd: ACTOR DELETE
+[2024.11.04-16.28.56:442][804]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-16.28.56:451][804]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.11.04-16.28.56:455][804]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2024.11.04-16.28.57:026][860]Cmd: DELETE
+[2024.11.04-16.28.57:026][860]Cmd: ACTOR DELETE
+[2024.11.04-16.28.57:028][860]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-16.28.57:039][860]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.11.04-16.28.57:042][860]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2024.11.04-16.28.58:425][ 13]Cmd: DELETE
+[2024.11.04-16.28.58:425][ 13]Cmd: ACTOR DELETE
+[2024.11.04-16.28.58:427][ 13]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-16.28.58:439][ 13]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.11.04-16.28.58:442][ 13]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2024.11.04-16.28.59:027][ 70]Cmd: DELETE
+[2024.11.04-16.28.59:027][ 70]Cmd: ACTOR DELETE
+[2024.11.04-16.28.59:029][ 70]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-16.28.59:041][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.11.04-16.28.59:043][ 70]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2024.11.04-16.29.00:130][190]Cmd: DELETE
+[2024.11.04-16.29.00:130][190]Cmd: ACTOR DELETE
+[2024.11.04-16.29.00:132][190]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-16.29.00:146][190]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.11.04-16.29.00:149][190]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2024.11.04-16.29.01:414][331]Cmd: DELETE
+[2024.11.04-16.29.01:414][331]Cmd: ACTOR DELETE
+[2024.11.04-16.29.01:416][331]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-16.29.01:426][331]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2024.11.04-16.29.01:429][331]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2024.11.04-16.29.02:724][475]Cmd: DELETE
+[2024.11.04-16.29.02:724][475]Cmd: ACTOR DELETE
+[2024.11.04-16.29.02:727][475]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-16.29.02:737][475]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.11.04-16.29.02:740][475]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2024.11.04-16.29.04:469][671]Cmd: DELETE
+[2024.11.04-16.29.04:469][671]Cmd: ACTOR DELETE
+[2024.11.04-16.29.04:471][671]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-16.29.04:482][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.11.04-16.29.04:486][671]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2024.11.04-16.29.05:575][788]Cmd: DELETE
+[2024.11.04-16.29.05:575][788]Cmd: ACTOR DELETE
+[2024.11.04-16.29.05:577][788]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-16.29.05:587][788]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.11.04-16.29.05:590][788]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2024.11.04-16.29.06:372][868]Cmd: DELETE
+[2024.11.04-16.29.06:372][868]Cmd: ACTOR DELETE
+[2024.11.04-16.29.06:374][868]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-16.29.06:386][868]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.11.04-16.29.06:389][868]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2024.11.04-16.29.07:201][953]Cmd: DELETE
+[2024.11.04-16.29.07:201][953]Cmd: ACTOR DELETE
+[2024.11.04-16.29.07:204][953]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-16.29.07:217][953]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.11.04-16.29.07:221][953]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2024.11.04-16.29.09:572][207]Cmd: DELETE
+[2024.11.04-16.29.09:572][207]Cmd: ACTOR DELETE
+[2024.11.04-16.29.09:574][207]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-16.29.09:585][207]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.11.04-16.29.09:589][207]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2024.11.04-16.29.13:266][633]Cmd: DELETE
+[2024.11.04-16.29.13:266][633]Cmd: ACTOR DELETE
+[2024.11.04-16.29.13:268][633]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-16.29.13:281][633]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2024.11.04-16.29.13:284][633]LogEditorActor: Deleted 1 Actors (0.019 secs)
+[2024.11.04-16.29.14:948][809]Cmd: DELETE
+[2024.11.04-16.29.14:948][809]Cmd: ACTOR DELETE
+[2024.11.04-16.29.14:950][809]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-16.29.14:961][809]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.11.04-16.29.14:964][809]LogEditorActor: Deleted 1 Actors (0.016 secs)
+[2024.11.04-16.29.52:778][ 68]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.52:778][ 68]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.52:778][ 68]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.52:778][ 68]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.52:778][ 68]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.52:778][ 68]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.52:778][ 68]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.52:778][ 68]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.52:778][ 68]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.52:778][ 68]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.52:778][ 68]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.52:778][ 68]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.52:778][ 68]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.52:778][ 68]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.52:778][ 68]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.52:778][ 68]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.54:401][259]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.54:401][259]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.54:401][259]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.54:401][259]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.54:401][259]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.54:401][259]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.54:401][259]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.54:401][259]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.54:401][259]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.54:401][259]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.54:401][259]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.54:401][259]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.54:401][259]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.54:401][259]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.54:401][259]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.54:401][259]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.56:968][562]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.56:968][562]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.56:968][562]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.56:968][562]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.56:968][562]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.56:968][562]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.56:968][562]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.56:968][562]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.56:968][562]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.56:968][562]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.56:968][562]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.56:968][562]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.56:968][562]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.56:968][562]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.56:968][562]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.29.56:968][562]LogPhysics: Warning: UpdateBodyScale: Unimplemented ImplicitObject of type: 4 skipped.
+[2024.11.04-16.30.07:267][778]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-16.30.07:347][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.11.04-16.30.07:361][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.11.04-16.30.07:371][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.11.04-16.30.07:379][778]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/VB/TZZ3SXKLW175STFT6R3CUA
+[2024.11.04-16.30.07:379][778]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/TZZ3SXKLW175STFT6R3CUAC0EE1A2E415AD4D4F5A86396D8147E46.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/VB/TZZ3SXKLW175STFT6R3CUA.uasset'
+[2024.11.04-16.30.07:384][778]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/68/HOB49V0SMIUQM84C54X6SH
+[2024.11.04-16.30.07:385][778]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/HOB49V0SMIUQM84C54X6SH98301F72449BB5EF94F368AD19F47679.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/68/HOB49V0SMIUQM84C54X6SH.uasset'
+[2024.11.04-16.30.07:390][778]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/89/ZL6KIAM5SGWUM5Q7706JU2
+[2024.11.04-16.30.07:390][778]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/ZL6KIAM5SGWUM5Q7706JU27C8E5F254AC3BF7EEABD05831E30EFBE.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/89/ZL6KIAM5SGWUM5Q7706JU2.uasset'
+[2024.11.04-16.30.07:392][778]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/KW/D5YCPDB2MF20N6Y529R4EI
+[2024.11.04-16.30.07:393][778]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/D5YCPDB2MF20N6Y529R4EI5C29A8C044BADB2848CD1DB1AD2BB69F.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/KW/D5YCPDB2MF20N6Y529R4EI.uasset'
+[2024.11.04-16.30.07:396][778]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/F8/3B1456DD8J0JW6PEEASXN1
+[2024.11.04-16.30.07:397][778]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/3B1456DD8J0JW6PEEASXN1BA3745A54D61638A32896AA20DA33A70.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/F8/3B1456DD8J0JW6PEEASXN1.uasset'
+[2024.11.04-16.30.07:400][778]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/FY/4F3SEY8FU5K27OWKU5ROJY
+[2024.11.04-16.30.07:401][778]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/4F3SEY8FU5K27OWKU5ROJY754D0D4F4A60A1B6CC7E01BB8864B094.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/FY/4F3SEY8FU5K27OWKU5ROJY.uasset'
+[2024.11.04-16.30.07:404][778]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/E9/VONM7NPFW2XXLWK6PO2SCA
+[2024.11.04-16.30.07:405][778]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/VONM7NPFW2XXLWK6PO2SCAE40076F7428529BFEB1076A8B41B327B.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/E9/VONM7NPFW2XXLWK6PO2SCA.uasset'
+[2024.11.04-16.30.07:408][778]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/WM/SZUEBLX4437I8DCDRXTLJ5
+[2024.11.04-16.30.07:408][778]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/SZUEBLX4437I8DCDRXTLJ59B3A60F041834BB946ED59B83F524A01.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/WM/SZUEBLX4437I8DCDRXTLJ5.uasset'
+[2024.11.04-16.30.07:414][778]LogFileHelpers: InternalPromptForCheckoutAndSave took 147 ms (total: 2.28 sec)
+[2024.11.04-16.30.07:418][778]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.04-16.30.07:418][778]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_0XYR9T80ZD5EMPG6LSOLAFDWK_126_1_1_0
+[2024.11.04-16.30.07:418][778]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_0XYR9T80ZD5EMPG6LSOLAFDWK_126_0_0_0
+[2024.11.04-16.30.07:418][778]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_0XYR9T80ZD5EMPG6LSOLAFDWK_126_0_1_0
+[2024.11.04-16.30.07:418][778]LogContentValidation: Display: Validating /Script/Landscape.Landscape /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.Landscape_UAID_00BE43BC50EE552C02_2048522919
+[2024.11.04-16.30.07:418][778]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_0XYR9T80ZD5EMPG6LSOLAFDWK_126_-1_0_0
+[2024.11.04-16.30.07:418][778]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_0XYR9T80ZD5EMPG6LSOLAFDWK_126_1_0_0
+[2024.11.04-16.30.07:418][778]LogContentValidation: Display: Validating /Script/Landscape.LandscapeStreamingProxy /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.LandscapeStreamingProxy_0XYR9T80ZD5EMPG6LSOLAFDWK_126_-1_1_0
+[2024.11.04-16.30.07:418][778]LogContentValidation: Display: Validating /Game/Enemy_AI/BP_NPC_Dual.BP_NPC_Dual_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_NPC_Dual_C_UAID_00BE43BC50EE612C02_1275783049
+[2024.11.04-16.30.23:734][627]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-16.30.23:805][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.11.04-16.30.23:815][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.11.04-16.30.23:827][627]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.11.04-16.30.23:837][627]LogFileHelpers: InternalPromptForCheckoutAndSave took 103 ms (total: 2.38 sec)
