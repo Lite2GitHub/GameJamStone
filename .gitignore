@@ -73,3 +73,4 @@ Plugins/**/Intermediate/*
 # Cache files for the editor to use
 DerivedDataCache/*
 StoneAngus2024/Saved/Logs/StoneAngus2024.log
+*.log
