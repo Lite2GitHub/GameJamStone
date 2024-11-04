@@ -680,6 +680,11 @@ Engine:/Script/AndroidFileServerEditor.AndroidFileServerRuntimeSettings:bReportS
 Engine:/Script/AndroidFileServerEditor.AndroidFileServerRuntimeSettings:ConnectionType:0=USBOnly
 Engine:/Script/AndroidFileServerEditor.AndroidFileServerRuntimeSettings:bUseManualIPAddress:0=False
 Engine:/Script/AndroidFileServerEditor.AndroidFileServerRuntimeSettings:ManualIPAddress:0=
+Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:StagingDirectory:0=(Path="C/Users/s5287338/Desktop/GameJam_Build")
+Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformBuildConfig:0=(("Windows", PPBC_Shipping))
+Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:LaunchOnTarget:0=
+Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformTargetFlavorName:0=(("Android", "Android_ASTC"))
+Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformBuildTarget:0=()
 Game:Internationalization:LocalizationPaths:0=%GAMEDIR%Content/Localization/Game
 Game:/Script/Engine.GameNetworkManager:TotalNetBandwidth:0=32000
 Game:/Script/Engine.GameNetworkManager:MaxDynamicBandwidth:0=7000
@@ -747,11 +752,6 @@ Game:/Script/UnrealEd.ProjectPackagingSettings:bSharedMaterialNativeLibraries:0=
 Game:/Script/UnrealEd.ProjectPackagingSettings:bShareMaterialShaderCode:0=True
 Game:/Script/UnrealEd.ProjectPackagingSettings:bSkipMovies:0=False
 Game:/Script/UnrealEd.ProjectPackagingSettings:WriteBackMetadataToAssetRegistry:0=Disabled
-Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:StagingDirectory:0=(Path="")
-Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:LaunchOnTarget:0=
-Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformBuildConfig:0=()
-Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformTargetFlavorName:0=(("Android", "Android_ASTC"))
-Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformBuildTarget:0=()
 Game:/Script/Engine.PlayerController:InputYawScale:0=2.5
 Game:/Script/Engine.PlayerController:InputPitchScale:0=-2.5
 Game:/Script/Engine.PlayerController:InputRollScale:0=1.0

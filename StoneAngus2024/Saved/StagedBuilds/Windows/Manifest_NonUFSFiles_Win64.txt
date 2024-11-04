@@ -13,4 +13,4 @@ Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbis_64.dll	2024-05-17T04:15
 Engine/Binaries/ThirdParty/Vorbis/Win64/VS2015/libvorbisfile_64.dll	2024-05-17T04:15:20.613Z
 Engine/Binaries/ThirdParty/Windows/XAudio2_9/x64/xaudio2_9redist.dll	2024-05-17T04:15:20.878Z
 Engine/Content/Slate/Cursor/invisible.cur	2024-05-17T04:16:49.590Z
-StoneAngus2024.exe	2024-11-04T19:01:43.908Z
+StoneAngus2024.exe	2024-11-04T19:18:39.076Z
