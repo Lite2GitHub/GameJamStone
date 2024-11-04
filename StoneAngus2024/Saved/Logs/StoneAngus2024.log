@@ -3220,3 +3220,1324 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.04-10.52.39:921][145]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
 [2024.11.04-10.52.39:921][145]LogContentValidation: Display: Validating /Script/LevelSequence.LevelSequence /Game/Sequences/Fade_To_Black.Fade_To_Black
 [2024.11.04-10.52.39:921][145]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/W_Caught.W_Caught
+[2024.11.04-10.57.26:191][210]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.11.04-10.57.26:223][210]LogContentBrowser: Creating deferred item: NewFolder
+[2024.11.04-10.57.26:238][211]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.11.04-10.57.28:538][483]LogContentBrowser: Attempting asset rename: NewFolder -> Materials
+[2024.11.04-10.57.28:538][483]LogContentBrowser: End creating deferred item NewFolder
+[2024.11.04-10.57.31:515][800]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-10.57.31:551][800]LogSavePackage: Moving output files for package: /Game/Materials/MI_PrototypeGrid_Red
+[2024.11.04-10.57.31:551][800]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/MI_PrototypeGrid_Red13E7C14F42DF2707704D458698BD3482.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/Materials/MI_PrototypeGrid_Red.uasset'
+[2024.11.04-10.57.31:555][800]LogSavePackage: Moving output files for package: /Game/Materials/MI_PrototypeGrid_Brown
+[2024.11.04-10.57.31:555][800]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/MI_PrototypeGrid_BrownE8505B5145651D145496998E485D5747.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/Materials/MI_PrototypeGrid_Brown.uasset'
+[2024.11.04-10.57.31:555][800]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MI_PrototypeGrid_Brown" FILE="../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/MI_PrototypeGrid_Brown.uasset" SILENT=true
+[2024.11.04-10.57.31:556][800]LogSavePackage: Moving output files for package: /Game/MI_PrototypeGrid_Brown
+[2024.11.04-10.57.31:556][800]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/MI_PrototypeGrid_Brown34A8ECC3442B24463B430AB3FD18805B.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/MI_PrototypeGrid_Brown.uasset'
+[2024.11.04-10.57.31:564][800]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 560 ms)
+[2024.11.04-10.57.31:581][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.11.04-10.57.31:599][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.11.04-10.57.31:610][800]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.11.04-10.57.31:626][800]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.04-10.57.31:626][800]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/MI_PrototypeGrid_Red.MI_PrototypeGrid_Red
+[2024.11.04-10.57.31:626][800]LogContentValidation: Display: Validating /Script/Engine.MaterialInstanceConstant /Game/Materials/MI_PrototypeGrid_Brown.MI_PrototypeGrid_Brown
+[2024.11.04-10.57.31:626][800]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/MI_PrototypeGrid_Brown.MI_PrototypeGrid_Brown
+[2024.11.04-10.57.35:144][178]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2024.11.04-10.57.35:166][178]LogContentBrowser: Creating deferred item: NewMaterial
+[2024.11.04-10.57.35:177][179]LogContentBrowser: Renaming the item being created (Deferred Item: NewMaterial).
+[2024.11.04-10.57.38:758][608]LogContentBrowser: Attempting asset rename: NewMaterial -> Flcikering_Flame
+[2024.11.04-10.57.38:759][608]LogContentBrowser: End creating deferred item NewMaterial
+[2024.11.04-10.57.41:694][922]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/Materials/Flcikering_Flame.Flcikering_Flame
+[2024.11.04-10.57.41:700][922]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.04-10.57.41:700][922]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.04-10.57.41:800][922]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-10.57.41:800][922]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.04-10.57.41:800][922]MaterialEditorStats: Shader Count: 0
+[2024.11.04-10.57.41:805][922]LogViewport: Scene viewport resized to 504x624, mode Windowed.
+[2024.11.04-10.57.43:221][ 77]LogShaderCompilers: Display: ================================================
+[2024.11.04-10.57.43:223][ 77]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.04-10.57.43:223][ 77]LogShaderCompilers: Display: Total job queries 35, among them cache hits 1 (2.86%)
+[2024.11.04-10.57.43:223][ 77]LogShaderCompilers: Display: Tracking 31 distinct input hashes that result in 21 distinct outputs (67.74%)
+[2024.11.04-10.57.43:223][ 77]LogShaderCompilers: Display: RAM used: 724.10 KiB of 3.20 GiB budget. Usage: 0.02%
+[2024.11.04-10.57.43:223][ 77]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.04-10.57.43:223][ 77]LogShaderCompilers: Display: Shaders Compiled: 1
+[2024.11.04-10.57.43:223][ 77]LogShaderCompilers: Display: Jobs assigned 4, completed 1 (25.00%)
+[2024.11.04-10.57.43:223][ 77]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.03 s
+[2024.11.04-10.57.43:223][ 77]LogShaderCompilers: Display: Job execution time: average 1.35 s, max 1.35 s
+[2024.11.04-10.57.43:223][ 77]LogShaderCompilers: Display: Job life time (pending + execution): average 1.38 s, max 1.38
+[2024.11.04-10.57.43:223][ 77]LogShaderCompilers: Display: Shader code size: average 29.613 KiB, min 29.613 KiB, max 29.613 KiB
+[2024.11.04-10.57.43:223][ 77]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 1.38 s
+[2024.11.04-10.57.43:223][ 77]LogShaderCompilers: Display: Jobs were issued in 4 batches (only local compilation was used), average 1.00 jobs/batch
+[2024.11.04-10.57.43:223][ 77]LogShaderCompilers: Display: Average processing rate: 0.73 jobs/sec
+[2024.11.04-10.57.43:223][ 77]LogShaderCompilers: Display: Total thread time: 0.075 s
+[2024.11.04-10.57.43:223][ 77]LogShaderCompilers: Display: Total thread preprocess time: 0.029 s
+[2024.11.04-10.57.43:223][ 77]LogShaderCompilers: Display: Percentage time preprocessing: 38.21%
+[2024.11.04-10.57.43:223][ 77]LogShaderCompilers: Display: Effective parallelization: 0.05 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.11.04-10.57.43:223][ 77]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2024.11.04-10.57.43:223][ 77]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    1 times, average 0.08 sec, max 0.08 sec, min 0.08 sec)
+[2024.11.04-10.57.43:223][ 77]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2024.11.04-10.57.43:223][ 77]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 100.00% of total time (compiled    1 times, average 0.08 sec, max 0.08 sec, min 0.08 sec)
+[2024.11.04-10.57.43:223][ 77]LogShaderCompilers: Display: ================================================
+[2024.11.04-10.57.43:329][ 90]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.11.04-10.57.43:329][ 90]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.11.04-10.57.43:329][ 90]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.04-10.57.43:329][ 90]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.04-10.57.43:329][ 90]MaterialEditorStats: Shader Count: 4
+[2024.11.04-10.57.51:347][968]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2024.11.04-10.57.51:360][968]LogContentBrowser: Creating deferred item: NewFolder
+[2024.11.04-10.57.51:370][969]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2024.11.04-10.57.54:392][329]LogContentBrowser: Attempting asset rename: NewFolder -> Textures
+[2024.11.04-10.57.54:393][329]LogContentBrowser: End creating deferred item NewFolder
+[2024.11.04-10.59.00:946][388]LogInterchangeEngine: [Pending] Importing
+[2024.11.04-10.59.00:946][388]LogInterchangeEngine: Display: Interchange start importing source [C:/Users/s5287338/Desktop/Fire.jpeg]
+[2024.11.04-10.59.00:970][389]LogInterchangeImport: JPEG file [C:/Users/s5287338/Desktop/Fire.jpeg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2024.11.04-10.59.00:973][389]LogInterchangeEngine: [Pending] Importing
+[2024.11.04-10.59.01:334][389]LogInterchangeEngine: [Success] Import Done
+[2024.11.04-10.59.01:338][390]LogTexture: Display: Building textures: /Game/Materials/Textures/Fire.Fire (BGRA8, 1880x1253 x1x1x1) (Required Memory Estimate: 68.95557 MB), EncodeSpeed: Fast
+[2024.11.04-10.59.01:357][390]LogInterchangeEngine: [Success] Import Done
+[2024.11.04-10.59.09:695][ 51]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-10.59.09:695][ 51]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.04-10.59.09:695][ 51]MaterialEditorStats: Shader Count: 0
+[2024.11.04-10.59.09:750][ 53]MaterialEditorStats: Base pass shader: 187 instructions
+[2024.11.04-10.59.09:750][ 53]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.11.04-10.59.09:750][ 53]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.04-10.59.09:750][ 53]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.04-10.59.09:750][ 53]MaterialEditorStats: Shader Count: 4
+[2024.11.04-10.59.12:814][409]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-10.59.12:814][409]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.04-10.59.12:814][409]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-10.59.12:814][409]MaterialEditorStats: Shader Count: 0
+[2024.11.04-10.59.13:119][442]MaterialEditorStats: Base pass shader: 194 instructions
+[2024.11.04-10.59.13:119][442]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.04-10.59.13:119][442]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.04-10.59.13:119][442]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.04-10.59.13:119][442]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-10.59.13:119][442]MaterialEditorStats: Shader Count: 2
+[2024.11.04-10.59.18:703][ 79]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-10.59.18:703][ 79]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.04-10.59.18:703][ 79]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-10.59.18:703][ 79]MaterialEditorStats: Shader Count: 0
+[2024.11.04-10.59.18:834][ 94]MaterialEditorStats: Texture samplers: 1/16
+[2024.11.04-10.59.18:834][ 94]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.04-10.59.18:834][ 94]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-10.59.18:834][ 94]MaterialEditorStats: Shader Count: 1
+[2024.11.04-10.59.18:938][106]MaterialEditorStats: Base pass shader: 197 instructions
+[2024.11.04-10.59.18:938][106]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.04-10.59.18:938][106]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.04-10.59.18:938][106]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.04-10.59.18:938][106]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-10.59.18:938][106]MaterialEditorStats: Shader Count: 4
+[2024.11.04-10.59.21:402][396]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-10.59.21:402][396]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.04-10.59.21:402][396]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-10.59.21:402][396]MaterialEditorStats: Shader Count: 0
+[2024.11.04-10.59.21:599][420]MaterialEditorStats: Texture samplers: 1/16
+[2024.11.04-10.59.21:599][420]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.04-10.59.21:599][420]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-10.59.21:599][420]MaterialEditorStats: Shader Count: 1
+[2024.11.04-10.59.21:708][433]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.11.04-10.59.21:708][433]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.04-10.59.21:708][433]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.04-10.59.21:708][433]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.04-10.59.21:708][433]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-10.59.21:708][433]MaterialEditorStats: Shader Count: 4
+[2024.11.04-10.59.39:380][525]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-10.59.39:380][525]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.04-10.59.39:380][525]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-10.59.39:380][525]MaterialEditorStats: Shader Count: 0
+[2024.11.04-10.59.39:415][527]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.11.04-10.59.39:416][527]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.04-10.59.39:416][527]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.04-10.59.39:416][527]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.04-10.59.39:416][527]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-10.59.39:416][527]MaterialEditorStats: Shader Count: 4
+[2024.11.04-10.59.42:914][932]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-10.59.42:914][932]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.04-10.59.42:914][932]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-10.59.42:914][932]MaterialEditorStats: Shader Count: 0
+[2024.11.04-10.59.42:930][934]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.11.04-10.59.42:930][934]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.04-10.59.42:930][934]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.04-10.59.42:930][934]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.04-10.59.42:930][934]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-10.59.42:930][934]MaterialEditorStats: Shader Count: 4
+[2024.11.04-10.59.58:975][818]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.04-11.00.10:151][ 50]LogMaterialEditor: Applying material Flcikering_Flame
+[2024.11.04-11.00.10:247][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2024.11.04-11.00.11:250][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.11.04-11.00.11:259][ 50]MaterialEditorStats: Texture samplers: 1/16
+[2024.11.04-11.00.11:259][ 50]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.04-11.00.11:259][ 50]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.00.11:259][ 50]MaterialEditorStats: Shader Count: 2
+[2024.11.04-11.00.11:268][ 51]MaterialEditorStats: Base pass shader: 193 instructions
+[2024.11.04-11.00.11:268][ 51]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.04-11.00.11:268][ 51]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.04-11.00.11:268][ 51]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(1)
+[2024.11.04-11.00.11:268][ 51]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.00.11:268][ 51]MaterialEditorStats: Shader Count: 4
+[2024.11.04-11.00.24:642][527]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.00.24:642][527]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.04-11.00.24:642][527]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.00.24:642][527]MaterialEditorStats: Shader Count: 0
+[2024.11.04-11.00.24:932][557]MaterialEditorStats: Base pass shader without light map: 72 instructions
+[2024.11.04-11.00.24:932][557]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.04-11.00.24:932][557]MaterialEditorStats: Texture samplers: 1/16
+[2024.11.04-11.00.24:932][557]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.04-11.00.24:932][557]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.00.24:932][557]MaterialEditorStats: Shader Count: 2
+[2024.11.04-11.00.28:076][919]LogMaterialEditor: Applying material Flcikering_Flame
+[2024.11.04-11.00.28:179][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2024.11.04-11.00.28:249][919]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2024.11.04-11.00.28:256][919]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.00.28:256][919]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.04-11.00.28:256][919]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.00.28:256][919]MaterialEditorStats: Shader Count: 0
+[2024.11.04-11.00.28:279][921]MaterialEditorStats: Base pass shader without light map: 72 instructions
+[2024.11.04-11.00.28:279][921]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.04-11.00.28:279][921]MaterialEditorStats: Texture samplers: 1/16
+[2024.11.04-11.00.28:279][921]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.04-11.00.28:279][921]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.00.28:279][921]MaterialEditorStats: Shader Count: 2
+[2024.11.04-11.00.28:581][956]LogConsoleManager: Warning: Console variable 'r.ShaderCompiler.JobCache' used in the render thread. Rendering artifacts could happen. Use ECVF_RenderThreadSafe or don't use in render thread.
+[2024.11.04-11.00.28:813][962]MaterialEditorStats: Base pass shader without light map: 72 instructions
+[2024.11.04-11.00.28:814][962]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.04-11.00.28:814][962]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.04-11.00.28:814][962]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.04-11.00.28:814][962]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.00.28:814][962]MaterialEditorStats: Shader Count: 6
+[2024.11.04-11.00.30:451][ 94]MaterialEditorStats: Base pass shader without light map: 72 instructions
+[2024.11.04-11.00.30:451][ 94]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.04-11.00.30:451][ 94]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.04-11.00.30:451][ 94]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.04-11.00.30:451][ 94]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.00.30:451][ 94]MaterialEditorStats: Shader Count: 12
+[2024.11.04-11.00.31:038][160]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.04-11.00.31:041][160]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.04-11.00.31:041][160]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.11.04-11.00.31:044][160]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 58 ms)
+[2024.11.04-11.00.31:044][160]BlueprintLog: New page: Pre-Play auto-recompile
+[2024.11.04-11.00.31:045][160]LogPlayLevel: [PlayLevel] Compiling BP_NPC before play...
+[2024.11.04-11.00.31:153][160]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2024.11.04-11.00.31:154][160]LogPlayLevel: PlayLevel: Blueprint regeneration took 110 ms (1 blueprints)
+[2024.11.04-11.00.31:154][160]PIE: New page: PIE session: FirstPersonMap (5 Nov 2024, 7:00:31 am)
+[2024.11.04-11.00.31:154][160]LogPlayLevel: Display: Creating online subsystem for client :Context_42
+[2024.11.04-11.00.31:157][160]LogOnline: OSS: Created online subsystem instance for: :Context_42
+[2024.11.04-11.00.31:216][161]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.11.04-11.00.31:222][161]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005431s)
+[2024.11.04-11.00.31:222][161]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005474s)
+[2024.11.04-11.00.31:232][161]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2024.11.04-11.00.31:236][161]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.04-11.00.31:236][161]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.04-11.00.31:237][161]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.11.04-11.00.31:237][161]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.04-11.00.31:237][161]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.04-11.00.31:237][161]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.04-11.00.31:237][161]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.04-11.00.31:238][161]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.11.04-11.00.31:238][161]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 662 ms)
+[2024.11.04-11.00.31:239][161]LogPlayLevel: PIE: World Init took: (0.002538s)
+[2024.11.04-11.00.31:239][161]LogAudio: Display: Creating Audio Device:                 Id: 27, Scope: Unique, Realtime: True
+[2024.11.04-11.00.31:239][161]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.04-11.00.31:239][161]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.04-11.00.31:239][161]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.04-11.00.31:239][161]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.04-11.00.31:239][161]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.04-11.00.31:239][161]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.04-11.00.31:239][161]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.04-11.00.31:239][161]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.04-11.00.31:239][161]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.04-11.00.31:239][161]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.04-11.00.31:239][161]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.04-11.00.31:241][161]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.04-11.00.31:417][161]LogAudioMixer: Display: Using Audio Hardware Device DELL U2722D (NVIDIA High Definition Audio)
+[2024.11.04-11.00.31:417][161]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.04-11.00.31:417][161]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.04-11.00.31:418][161]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.04-11.00.31:418][161]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=27
+[2024.11.04-11.00.31:418][161]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=27
+[2024.11.04-11.00.31:421][161]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=27
+[2024.11.04-11.00.31:421][161]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=27
+[2024.11.04-11.00.31:421][161]LogInit: FAudioDevice initialized with ID 27.
+[2024.11.04-11.00.31:421][161]LogAudio: Display: Audio Device (ID: 27) registered with world 'FirstPersonMap'.
+[2024.11.04-11.00.31:421][161]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 27
+[2024.11.04-11.00.31:423][161]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.04-11.00.31:428][161]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.11.04-21.00.31
+[2024.11.04-11.00.31:429][161]LogWorld: Bringing up level for play took: 0.005444
+[2024.11.04-11.00.31:431][161]PIE: Server logged in
+[2024.11.04-11.00.31:432][161]PIE: Play in editor total start time 0.391 seconds.
+[2024.11.04-11.00.32:730][299]MaterialEditorStats: Base pass shader without light map: 72 instructions
+[2024.11.04-11.00.32:730][299]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.04-11.00.32:730][299]MaterialEditorStats: Texture samplers: 4/16
+[2024.11.04-11.00.32:730][299]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.04-11.00.32:730][299]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.00.32:730][299]MaterialEditorStats: Shader Count: 27
+[2024.11.04-11.00.32:830][301]MaterialEditorStats: Base pass shader without light map: 72 instructions
+[2024.11.04-11.00.32:831][301]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.04-11.00.32:831][301]MaterialEditorStats: Texture samplers: 5/16
+[2024.11.04-11.00.32:831][301]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(2)
+[2024.11.04-11.00.32:831][301]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.00.32:831][301]MaterialEditorStats: Shader Count: 42
+[2024.11.04-11.00.38:286][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-11.00.38:286][912]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.11.04-11.00.38:287][912]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-11.00.38:287][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-11.00.38:287][912]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.11.04-11.00.38:293][912]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.04-11.00.38:296][912]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-11.00.38:307][912]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.04-11.00.38:307][912]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 27
+[2024.11.04-11.00.38:308][912]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.11.04-11.00.38:310][912]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=27
+[2024.11.04-11.00.38:318][912]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-11.00.38:321][912]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2024.11.04-11.00.38:410][913]LogPlayLevel: Display: Destroying online subsystem :Context_42
+[2024.11.04-11.02.46:031][801]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2024.11.04-11.02.46:039][801]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/CT/9UEU6JRH7XOGD46KU0LSCZ_Auto4
+[2024.11.04-11.02.46:039][801]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/9UEU6JRH7XOGD46KU0LSCZ_Auto47CCA0F4345F9147A0174ECB9EDCE22CE.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/CT/9UEU6JRH7XOGD46KU0LSCZ_Auto4.uasset'
+[2024.11.04-11.02.46:040][801]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.024
+[2024.11.04-11.02.46:040][801]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.024
+[2024.11.04-11.02.46:040][801]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Enemy_AI/BP_NPC] ([2] browsable assets)...
+[2024.11.04-11.02.46:115][801]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Enemy_AI/BP_NPC.BP_NPC]
+[2024.11.04-11.02.46:115][801]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy_AI/BP_NPC]
+[2024.11.04-11.02.46:125][801]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Enemy_AI/BP_NPC_Auto4
+[2024.11.04-11.02.46:125][801]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/BP_NPC_Auto4469346E743C67D0CCC0DAFB7FB22C017.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/Enemy_AI/BP_NPC_Auto4.uasset'
+[2024.11.04-11.02.46:127][801]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Flcikering_Flame] ([1] browsable assets)...
+[2024.11.04-11.02.46:140][801]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Materials/Flcikering_Flame.Flcikering_Flame]
+[2024.11.04-11.02.46:140][801]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Flcikering_Flame]
+[2024.11.04-11.02.46:141][801]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Materials/Flcikering_Flame_Auto4
+[2024.11.04-11.02.46:142][801]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Flcikering_Flame_Auto4E6F14345406097CD6A6C2785CB5F387E.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/Materials/Flcikering_Flame_Auto4.uasset'
+[2024.11.04-11.02.46:143][801]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Materials/Textures/Fire] ([1] browsable assets)...
+[2024.11.04-11.02.46:147][801]OBJ SavePackage:     Rendered thumbnail for [Texture2D /Game/Materials/Textures/Fire.Fire]
+[2024.11.04-11.02.46:147][801]OBJ SavePackage: Finished generating thumbnails for package [/Game/Materials/Textures/Fire]
+[2024.11.04-11.02.46:148][801]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Materials/Textures/Fire_Auto4
+[2024.11.04-11.02.46:148][801]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Fire_Auto4E90DC6944831F6761ABEC7AD1F66CEE7.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/Materials/Textures/Fire_Auto4.uasset'
+[2024.11.04-11.02.46:149][801]LogFileHelpers: Auto-saving content packages took 0.109
+[2024.11.04-11.10.05:944][971]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.10.05:944][971]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.04-11.10.05:944][971]MaterialEditorStats: Shader Count: 0
+[2024.11.04-11.10.07:446][149]LogShaderCompilers: Display: ================================================
+[2024.11.04-11.10.07:446][149]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.04-11.10.07:446][149]LogShaderCompilers: Display: Total job queries 159, among them cache hits 57 (35.85%)
+[2024.11.04-11.10.07:446][149]LogShaderCompilers: Display: Tracking 100 distinct input hashes that result in 79 distinct outputs (79.00%)
+[2024.11.04-11.10.07:446][149]LogShaderCompilers: Display: RAM used: 2.22 MiB of 3.20 GiB budget. Usage: 0.07%
+[2024.11.04-11.10.07:446][149]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.04-11.10.07:446][149]LogShaderCompilers: Display: Shaders Compiled: 70
+[2024.11.04-11.10.07:446][149]LogShaderCompilers: Display: Jobs assigned 72, completed 70 (97.22%)
+[2024.11.04-11.10.07:446][149]LogShaderCompilers: Display: Average time worker was idle: 105.62 s
+[2024.11.04-11.10.07:446][149]LogShaderCompilers: Display: Time job spent in pending queue: average 0.03 s, longest 0.09 s
+[2024.11.04-11.10.07:446][149]LogShaderCompilers: Display: Job execution time: average 2.53 s, max 4.26 s
+[2024.11.04-11.10.07:446][149]LogShaderCompilers: Display: Job life time (pending + execution): average 2.57 s, max 4.28
+[2024.11.04-11.10.07:446][149]LogShaderCompilers: Display: Shader code size: average 36.561 KiB, min 27.852 KiB, max 41.902 KiB
+[2024.11.04-11.10.07:446][149]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 11.62 s
+[2024.11.04-11.10.07:446][149]LogShaderCompilers: Display: Jobs were issued in 44 batches (only local compilation was used), average 1.64 jobs/batch
+[2024.11.04-11.10.07:446][149]LogShaderCompilers: Display: Average processing rate: 6.03 jobs/sec
+[2024.11.04-11.10.07:446][149]LogShaderCompilers: Display: Total thread time: 13.192 s
+[2024.11.04-11.10.07:446][149]LogShaderCompilers: Display: Total thread preprocess time: 5.587 s
+[2024.11.04-11.10.07:446][149]LogShaderCompilers: Display: Percentage time preprocessing: 42.36%
+[2024.11.04-11.10.07:446][149]LogShaderCompilers: Display: Effective parallelization: 1.14 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.11.04-11.10.07:446][149]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.04-11.10.07:446][149]LogShaderCompilers: Display:   FLumenDirectLightingNonRayTracedShadowsWithLightFunctionCS (compiled   20 times, average 0.34 sec, max 1.51 sec, min 0.10 sec)
+[2024.11.04-11.10.07:446][149]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 0.16 sec, max 0.17 sec, min 0.14 sec)
+[2024.11.04-11.10.07:446][149]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    2 times, average 0.15 sec, max 0.18 sec, min 0.13 sec)
+[2024.11.04-11.10.07:446][149]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    6 times, average 0.15 sec, max 0.18 sec, min 0.14 sec)
+[2024.11.04-11.10.07:446][149]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    6 times, average 0.15 sec, max 0.15 sec, min 0.15 sec)
+[2024.11.04-11.10.07:446][149]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.04-11.10.07:446][149]LogShaderCompilers: Display:   FLumenDirectLightingNonRayTracedShadowsWithLightFunctionCS - 51.35% of total time (compiled   20 times, average 0.34 sec, max 1.51 sec, min 0.10 sec)
+[2024.11.04-11.10.07:446][149]LogShaderCompilers: Display:                                 FTranslucentLightingInjectPS - 15.85% of total time (compiled   16 times, average 0.13 sec, max 0.22 sec, min 0.06 sec)
+[2024.11.04-11.10.07:446][149]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 7.22% of total time (compiled    6 times, average 0.16 sec, max 0.17 sec, min 0.14 sec)
+[2024.11.04-11.10.07:446][149]LogShaderCompilers: Display:                                                 FLumenCardVS - 6.85% of total time (compiled    6 times, average 0.15 sec, max 0.18 sec, min 0.14 sec)
+[2024.11.04-11.10.07:446][149]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 6.82% of total time (compiled    6 times, average 0.15 sec, max 0.15 sec, min 0.15 sec)
+[2024.11.04-11.10.07:446][149]LogShaderCompilers: Display: ================================================
+[2024.11.04-11.10.07:553][162]MaterialEditorStats: Base pass shader without light map: 65 instructions
+[2024.11.04-11.10.07:553][162]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.11.04-11.10.07:553][162]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.10.07:553][162]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.04-11.10.07:553][162]MaterialEditorStats: Shader Count: 4
+[2024.11.04-11.10.07:722][181]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_Sun'"'
+[2024.11.04-11.10.07:722][181]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionMultiply'MaterialGraphNode_19.MaterialExpressionMultiply_2'")'
+[2024.11.04-11.10.07:722][181]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionAdd'MaterialGraphNode_33.MaterialExpressionAdd_2'")'
+[2024.11.04-11.10.07:722][181]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_Sun'"'
+[2024.11.04-11.10.07:722][181]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionPanner'MaterialGraphNode_3.MaterialExpressionPanner_0'")'
+[2024.11.04-11.10.07:724][181]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpressionTextureBase:Texture: unresolved reference to '"/Script/Engine.Texture2D'/Game/Plannets/Moon/8k_sun.8k_sun'"'
+[2024.11.04-11.10.07:724][181]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_Sun'"'
+[2024.11.04-11.10.07:724][181]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureCoordinate'MaterialGraphNode_4.MaterialExpressionTextureCoordinate_0'")'
+[2024.11.04-11.10.07:725][181]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_Sun'"'
+[2024.11.04-11.10.07:726][181]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_Sun'"'
+[2024.11.04-11.10.07:726][181]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionPanner'MaterialGraphNode_6.MaterialExpressionPanner_1'")'
+[2024.11.04-11.10.07:726][181]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpressionTextureBase:Texture: unresolved reference to '"/Script/Engine.Texture2D'/Game/Plannets/Moon/8k_sun.8k_sun'"'
+[2024.11.04-11.10.07:727][181]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_Sun'"'
+[2024.11.04-11.10.07:727][181]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureCoordinate'MaterialGraphNode_7.MaterialExpressionTextureCoordinate_1'")'
+[2024.11.04-11.10.07:727][181]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_Sun'"'
+[2024.11.04-11.10.07:728][181]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_Sun'"'
+[2024.11.04-11.10.07:728][181]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureSample'MaterialGraphNode_2.MaterialExpressionTextureSample_1'",Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2024.11.04-11.10.07:728][181]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureSample'MaterialGraphNode_5.MaterialExpressionTextureSample_0'",Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2024.11.04-11.10.07:728][181]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionMultiply'MaterialGraphNode_12.MaterialExpressionMultiply_0'")'
+[2024.11.04-11.10.07:728][181]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_Sun'"'
+[2024.11.04-11.10.07:729][181]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_Sun'"'
+[2024.11.04-11.10.07:729][181]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionMultiply'MaterialGraphNode_13.MaterialExpressionMultiply_1'")'
+[2024.11.04-11.10.07:730][181]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_Sun'"'
+[2024.11.04-11.10.07:730][181]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionSine'MaterialGraphNode_10.MaterialExpressionSine_0'")'
+[2024.11.04-11.10.07:730][181]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_Sun'"'
+[2024.11.04-11.10.07:730][181]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionAdd'MaterialGraphNode_11.MaterialExpressionAdd_0'")'
+[2024.11.04-11.10.07:731][181]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_Sun'"'
+[2024.11.04-11.10.07:731][181]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTime'MaterialGraphNode_9.MaterialExpressionTime_0'")'
+[2024.11.04-11.10.07:732][181]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_Sun'"'
+[2024.11.04-11.10.07:732][181]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureCoordinate'MaterialGraphNode_15.MaterialExpressionTextureCoordinate_2'")'
+[2024.11.04-11.10.07:732][181]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_Sun'"'
+[2024.11.04-11.10.07:733][181]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_Sun'"'
+[2024.11.04-11.10.07:733][181]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureCoordinate'MaterialGraphNode_17.MaterialExpressionTextureCoordinate_3'")'
+[2024.11.04-11.10.07:733][181]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_Sun'"'
+[2024.11.04-11.10.07:734][181]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_Sun'"'
+[2024.11.04-11.10.07:734][181]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureSample'MaterialGraphNode_20.MaterialExpressionTextureSample_4'",Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2024.11.04-11.10.07:734][181]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionTextureSample'MaterialGraphNode_21.MaterialExpressionTextureSample_5'",Mask=1,MaskR=1,MaskG=1,MaskB=1)'
+[2024.11.04-11.10.07:734][181]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionMultiply'MaterialGraphNode_12.MaterialExpressionMultiply_0'")'
+[2024.11.04-11.10.07:735][181]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_Sun'"'
+[2024.11.04-11.10.07:735][181]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionLinearInterpolate'MaterialGraphNode_8.MaterialExpressionLinearInterpolate_0'")'
+[2024.11.04-11.10.07:735][181]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionLinearInterpolate'MaterialGraphNode_18.MaterialExpressionLinearInterpolate_1'")'
+[2024.11.04-11.10.07:736][181]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_Sun'"'
+[2024.11.04-11.10.07:736][181]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionPanner'MaterialGraphNode_14.MaterialExpressionPanner_2'")'
+[2024.11.04-11.10.07:738][181]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_Sun'"'
+[2024.11.04-11.10.07:738][181]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionPanner'MaterialGraphNode_16.MaterialExpressionPanner_3'")'
+[2024.11.04-11.10.07:738][181]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_Sun'"'
+[2024.11.04-11.10.07:739][181]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_Sun'"'
+[2024.11.04-11.10.07:740][181]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_Sun'"'
+[2024.11.04-11.10.07:740][181]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_Sun'"'
+[2024.11.04-11.10.07:741][181]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionWorldPosition'MaterialGraphNode_23.MaterialExpressionWorldPosition_0'")'
+[2024.11.04-11.10.07:741][181]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionCameraPositionWS'MaterialGraphNode_24.MaterialExpressionCameraPositionWS_0'")'
+[2024.11.04-11.10.07:741][181]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_Sun'"'
+[2024.11.04-11.10.07:741][181]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionSubtract'MaterialGraphNode_25.MaterialExpressionSubtract_0'")'
+[2024.11.04-11.10.07:742][181]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_Sun'"'
+[2024.11.04-11.10.07:742][181]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionNormalize'MaterialGraphNode_26.MaterialExpressionNormalize_0'")'
+[2024.11.04-11.10.07:742][181]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionVertexNormalWS'MaterialGraphNode_28.MaterialExpressionVertexNormalWS_0'")'
+[2024.11.04-11.10.07:742][181]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_Sun'"'
+[2024.11.04-11.10.07:744][181]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_Sun'"'
+[2024.11.04-11.10.07:744][181]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionDotProduct'MaterialGraphNode_27.MaterialExpressionDotProduct_0'")'
+[2024.11.04-11.10.07:745][181]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_Sun'"'
+[2024.11.04-11.10.07:745][181]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionAdd'MaterialGraphNode_29.MaterialExpressionAdd_1'")'
+[2024.11.04-11.10.07:745][181]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_Sun'"'
+[2024.11.04-11.10.07:745][181]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionPower'MaterialGraphNode_30.MaterialExpressionPower_0'")'
+[2024.11.04-11.10.07:745][181]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionScalarParameter'MaterialGraphNode_32.MaterialExpressionScalarParameter_1'")'
+[2024.11.04-11.10.07:746][181]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_Sun'"'
+[2024.11.04-11.10.07:747][181]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_Sun'"'
+[2024.11.04-11.10.07:747][181]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionScalarParameter'MaterialGraphNode_22.MaterialExpressionScalarParameter_0'")'
+[2024.11.04-11.10.07:747][181]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionMultiply'MaterialGraphNode_31.MaterialExpressionMultiply_4'")'
+[2024.11.04-11.10.07:747][181]LogProperty: Warning: ObjectProperty /Script/Engine.MaterialExpression:Material: unresolved reference to '"/Script/UnrealEd.PreviewMaterial'/Engine/Transient.M_Sun'"'
+[2024.11.04-11.10.07:767][181]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.10.07:767][181]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.04-11.10.07:767][181]MaterialEditorStats: Shader Count: 0
+[2024.11.04-11.10.07:833][183]MaterialEditorStats: Base pass shader without light map: 65 instructions
+[2024.11.04-11.10.07:833][183]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.11.04-11.10.07:833][183]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.10.07:833][183]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.04-11.10.07:833][183]MaterialEditorStats: Shader Count: 4
+[2024.11.04-11.10.12:742][752]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.10.12:742][752]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.04-11.10.12:742][752]MaterialEditorStats: Shader Count: 0
+[2024.11.04-11.10.12:819][754]MaterialEditorStats: Base pass shader without light map: 65 instructions
+[2024.11.04-11.10.12:819][754]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.11.04-11.10.12:819][754]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.10.12:819][754]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.04-11.10.12:819][754]MaterialEditorStats: Shader Count: 4
+[2024.11.04-11.10.13:366][806]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.10.13:366][806]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.04-11.10.13:366][806]MaterialEditorStats: Shader Count: 0
+[2024.11.04-11.10.13:448][808]MaterialEditorStats: Base pass shader without light map: 65 instructions
+[2024.11.04-11.10.13:448][808]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.11.04-11.10.13:448][808]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.10.13:448][808]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.04-11.10.13:448][808]MaterialEditorStats: Shader Count: 4
+[2024.11.04-11.10.17:840][202]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.10.17:840][202]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.04-11.10.17:840][202]MaterialEditorStats: Shader Count: 0
+[2024.11.04-11.10.17:928][204]MaterialEditorStats: Base pass shader without light map: 65 instructions
+[2024.11.04-11.10.17:928][204]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.11.04-11.10.17:928][204]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.10.17:928][204]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.04-11.10.17:928][204]MaterialEditorStats: Shader Count: 4
+[2024.11.04-11.10.19:916][424]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.10.19:916][424]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.04-11.10.19:916][424]MaterialEditorStats: Shader Count: 0
+[2024.11.04-11.10.19:952][426]MaterialEditorStats: Base pass shader without light map: 65 instructions
+[2024.11.04-11.10.19:952][426]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.11.04-11.10.19:952][426]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.10.19:952][426]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.04-11.10.19:952][426]MaterialEditorStats: Shader Count: 4
+[2024.11.04-11.10.21:418][587]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.10.21:418][587]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.04-11.10.21:418][587]MaterialEditorStats: Shader Count: 0
+[2024.11.04-11.10.21:452][589]MaterialEditorStats: Base pass shader without light map: 65 instructions
+[2024.11.04-11.10.21:452][589]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.11.04-11.10.21:452][589]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.10.21:452][589]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.04-11.10.21:452][589]MaterialEditorStats: Shader Count: 4
+[2024.11.04-11.10.23:430][812]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.10.23:430][812]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.04-11.10.23:430][812]MaterialEditorStats: Shader Count: 0
+[2024.11.04-11.10.23:504][814]MaterialEditorStats: Base pass shader without light map: 65 instructions
+[2024.11.04-11.10.23:504][814]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.11.04-11.10.23:504][814]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.10.23:504][814]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.04-11.10.23:504][814]MaterialEditorStats: Shader Count: 4
+[2024.11.04-11.10.25:405][  9]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.10.25:406][  9]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.04-11.10.25:406][  9]MaterialEditorStats: Shader Count: 0
+[2024.11.04-11.10.25:440][ 11]MaterialEditorStats: Base pass shader without light map: 65 instructions
+[2024.11.04-11.10.25:440][ 11]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.11.04-11.10.25:440][ 11]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.10.25:440][ 11]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.04-11.10.25:440][ 11]MaterialEditorStats: Shader Count: 4
+[2024.11.04-11.10.27:434][235]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.10.27:434][235]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.04-11.10.27:434][235]MaterialEditorStats: Shader Count: 0
+[2024.11.04-11.10.27:458][237]MaterialEditorStats: Base pass shader without light map: 65 instructions
+[2024.11.04-11.10.27:458][237]MaterialEditorStats: Base pass vertex shader: 131 instructions
+[2024.11.04-11.10.27:458][237]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.10.27:458][237]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(3)
+[2024.11.04-11.10.27:458][237]MaterialEditorStats: Shader Count: 4
+[2024.11.04-11.10.51:715][103]LogDerivedDataCache: C:/Users/s5287338/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:11.391 and deleted 0 files with total size 0 MiB and 119 empty folders. Scanned 6136 files in 8209 folders with total size 1271 MiB.
+[2024.11.04-11.10.51:915][126]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.10.51:915][126]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.10.51:915][126]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.10.51:916][126]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.10.51:916][126]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.10.51:916][126]MaterialEditorStats: Shader Count: 0
+[2024.11.04-11.10.53:483][311]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.04-11.10.53:483][311]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.10.53:483][311]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.10.53:483][311]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.10.53:483][311]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.10.53:483][311]MaterialEditorStats: Shader Count: 1
+[2024.11.04-11.10.53:583][323]MaterialEditorStats: Base pass shader without light map: 107 instructions
+[2024.11.04-11.10.53:583][323]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.04-11.10.53:583][323]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.04-11.10.53:583][323]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.10.53:583][323]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.10.53:583][323]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.10.53:583][323]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.10.53:583][323]MaterialEditorStats: Shader Count: 4
+[2024.11.04-11.11.04:109][561]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.11.04:109][561]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.11.04:109][561]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.11.04:109][561]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.11.04:109][561]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.11.04:109][561]MaterialEditorStats: Shader Count: 0
+[2024.11.04-11.11.04:155][563]MaterialEditorStats: Base pass shader without light map: 107 instructions
+[2024.11.04-11.11.04:155][563]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.04-11.11.04:155][563]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.04-11.11.04:155][563]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.11.04:155][563]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.11.04:155][563]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.11.04:155][563]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.11.04:155][563]MaterialEditorStats: Shader Count: 4
+[2024.11.04-11.11.11:242][373]LogMaterialEditor: Applying material Flcikering_Flame
+[2024.11.04-11.11.11:320][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2024.11.04-11.11.11:419][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.11.04-11.11.11:426][373]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.11.11:426][373]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.11.11:426][373]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.11.11:426][373]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.11.11:426][373]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.11.11:426][373]MaterialEditorStats: Shader Count: 0
+[2024.11.04-11.11.11:780][405]MaterialEditorStats: Base pass shader without light map: 107 instructions
+[2024.11.04-11.11.11:780][405]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.04-11.11.11:780][405]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.04-11.11.11:780][405]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.11.11:780][405]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.11.11:780][405]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.11.11:780][405]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.11.11:780][405]MaterialEditorStats: Shader Count: 2
+[2024.11.04-11.11.12:125][431]MaterialEditorStats: Base pass shader without light map: 107 instructions
+[2024.11.04-11.11.12:125][431]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.04-11.11.12:125][431]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.04-11.11.12:125][431]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.11.12:125][431]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.11.12:125][431]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.11.12:125][431]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.11.12:125][431]MaterialEditorStats: Shader Count: 4
+[2024.11.04-11.11.13:187][515]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.04-11.11.13:191][515]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.04-11.11.13:191][515]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.11.04-11.11.13:194][515]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 3 ms (total: 61 ms)
+[2024.11.04-11.11.13:195][515]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.04-11.11.13:195][515]PIE: New page: PIE session: FirstPersonMap (5 Nov 2024, 7:11:13 am)
+[2024.11.04-11.11.13:195][515]LogPlayLevel: Display: Creating online subsystem for client :Context_43
+[2024.11.04-11.11.13:199][515]LogOnline: OSS: Created online subsystem instance for: :Context_43
+[2024.11.04-11.11.13:214][516]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.11.04-11.11.13:220][516]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006052s)
+[2024.11.04-11.11.13:221][516]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006099s)
+[2024.11.04-11.11.13:230][516]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2024.11.04-11.11.13:232][516]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.04-11.11.13:232][516]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.04-11.11.13:232][516]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.11.04-11.11.13:236][516]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.04-11.11.13:236][516]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.04-11.11.13:236][516]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.04-11.11.13:237][516]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.04-11.11.13:238][516]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.11.04-11.11.13:238][516]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 664 ms)
+[2024.11.04-11.11.13:238][516]LogPlayLevel: PIE: World Init took: (0.007094s)
+[2024.11.04-11.11.13:238][516]LogAudio: Display: Creating Audio Device:                 Id: 28, Scope: Unique, Realtime: True
+[2024.11.04-11.11.13:238][516]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.04-11.11.13:238][516]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.04-11.11.13:238][516]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.04-11.11.13:238][516]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.04-11.11.13:238][516]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.04-11.11.13:238][516]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.04-11.11.13:238][516]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.04-11.11.13:238][516]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.04-11.11.13:239][516]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.04-11.11.13:239][516]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.04-11.11.13:239][516]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.04-11.11.13:241][516]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.04-11.11.13:476][516]LogAudioMixer: Display: Using Audio Hardware Device DELL U2722D (NVIDIA High Definition Audio)
+[2024.11.04-11.11.13:476][516]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.04-11.11.13:476][516]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.04-11.11.13:476][516]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.04-11.11.13:477][516]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=28
+[2024.11.04-11.11.13:477][516]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=28
+[2024.11.04-11.11.13:479][516]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=28
+[2024.11.04-11.11.13:479][516]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=28
+[2024.11.04-11.11.13:479][516]LogInit: FAudioDevice initialized with ID 28.
+[2024.11.04-11.11.13:479][516]LogAudio: Display: Audio Device (ID: 28) registered with world 'FirstPersonMap'.
+[2024.11.04-11.11.13:479][516]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 28
+[2024.11.04-11.11.13:482][516]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.04-11.11.13:487][516]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.11.04-21.11.13
+[2024.11.04-11.11.13:489][516]LogWorld: Bringing up level for play took: 0.006102
+[2024.11.04-11.11.13:491][516]PIE: Server logged in
+[2024.11.04-11.11.13:491][516]PIE: Play in editor total start time 0.301 seconds.
+[2024.11.04-11.11.13:873][552]MaterialEditorStats: Base pass shader without light map: 107 instructions
+[2024.11.04-11.11.13:873][552]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.04-11.11.13:873][552]MaterialEditorStats: Texture samplers: 5/16
+[2024.11.04-11.11.13:873][552]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.11.13:873][552]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.11.13:873][552]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.11.13:873][552]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.11.13:873][552]MaterialEditorStats: Shader Count: 10
+[2024.11.04-11.11.17:205][897]MaterialEditorStats: Base pass shader without light map: 107 instructions
+[2024.11.04-11.11.17:205][897]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.04-11.11.17:205][897]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.04-11.11.17:205][897]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.11.17:205][897]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.11.17:205][897]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.11.17:205][897]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.11.17:205][897]MaterialEditorStats: Shader Count: 22
+[2024.11.04-11.11.24:485][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-11.11.24:485][731]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.11.04-11.11.24:485][731]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-11.11.24:485][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-11.11.24:486][731]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.11.04-11.11.24:492][731]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.04-11.11.24:494][731]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-11.11.24:509][731]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.04-11.11.24:509][731]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 28
+[2024.11.04-11.11.24:509][731]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2024.11.04-11.11.24:511][731]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=28
+[2024.11.04-11.11.24:519][731]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-11.11.24:522][731]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2024.11.04-11.11.24:609][732]LogPlayLevel: Display: Destroying online subsystem :Context_43
+[2024.11.04-11.12.28:818][826]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.12.28:818][826]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.12.28:818][826]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.12.28:818][826]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.12.28:818][826]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.12.28:818][826]MaterialEditorStats: Shader Count: 0
+[2024.11.04-11.12.30:447][ 17]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.04-11.12.30:447][ 17]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.12.30:447][ 17]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.12.30:447][ 17]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.12.30:447][ 17]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.12.30:447][ 17]MaterialEditorStats: Shader Count: 1
+[2024.11.04-11.12.30:557][ 29]MaterialEditorStats: Base pass shader without light map: 107 instructions
+[2024.11.04-11.12.30:558][ 29]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.04-11.12.30:558][ 29]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.04-11.12.30:558][ 29]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.12.30:558][ 29]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.12.30:558][ 29]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.12.30:558][ 29]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.12.30:558][ 29]MaterialEditorStats: Shader Count: 4
+[2024.11.04-11.12.36:708][750]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.12.36:708][750]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.12.36:708][750]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.12.36:708][750]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.12.36:708][750]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.12.36:708][750]MaterialEditorStats: Shader Count: 0
+[2024.11.04-11.12.36:976][782]MaterialEditorStats: Base pass shader without light map: 106 instructions
+[2024.11.04-11.12.36:976][782]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.04-11.12.36:976][782]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.04-11.12.36:976][782]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.12.36:976][782]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.12.36:976][782]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.12.36:976][782]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.12.36:976][782]MaterialEditorStats: Shader Count: 4
+[2024.11.04-11.12.43:229][512]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.12.43:229][512]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.12.43:229][512]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.12.43:229][512]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.12.43:229][512]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.12.43:229][512]MaterialEditorStats: Shader Count: 0
+[2024.11.04-11.12.43:516][546]MaterialEditorStats: Base pass shader without light map: 107 instructions
+[2024.11.04-11.12.43:516][546]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.04-11.12.43:516][546]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.04-11.12.43:516][546]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.12.43:516][546]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.12.43:516][546]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.12.43:516][546]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.12.43:516][546]MaterialEditorStats: Shader Count: 4
+[2024.11.04-11.12.47:775][ 45]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.12.47:775][ 45]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.12.47:775][ 45]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.12.47:775][ 45]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.12.47:775][ 45]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.12.47:775][ 45]MaterialEditorStats: Shader Count: 0
+[2024.11.04-11.12.48:052][ 78]MaterialEditorStats: Base pass shader without light map: 107 instructions
+[2024.11.04-11.12.48:052][ 78]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.04-11.12.48:052][ 78]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.04-11.12.48:052][ 78]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.12.48:052][ 78]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.12.48:052][ 78]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.12.48:052][ 78]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.12.48:052][ 78]MaterialEditorStats: Shader Count: 4
+[2024.11.04-11.12.49:828][286]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.12.49:828][286]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.12.49:828][286]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.12.49:828][286]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.12.49:828][286]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.12.49:828][286]MaterialEditorStats: Shader Count: 0
+[2024.11.04-11.12.49:843][288]MaterialEditorStats: Base pass shader without light map: 107 instructions
+[2024.11.04-11.12.49:843][288]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.04-11.12.49:843][288]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.04-11.12.49:843][288]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.12.49:843][288]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.12.49:843][288]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.12.49:843][288]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.12.49:843][288]MaterialEditorStats: Shader Count: 4
+[2024.11.04-11.12.52:255][570]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.12.52:255][570]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.12.52:255][570]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.12.52:255][570]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.12.52:255][570]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.12.52:255][570]MaterialEditorStats: Shader Count: 0
+[2024.11.04-11.12.52:487][598]MaterialEditorStats: Base pass shader without light map: 100 instructions
+[2024.11.04-11.12.52:487][598]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.04-11.12.52:487][598]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.04-11.12.52:487][598]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.12.52:487][598]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.12.52:487][598]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.12.52:487][598]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.12.52:487][598]MaterialEditorStats: Shader Count: 4
+[2024.11.04-11.12.58:010][248]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.12.58:010][248]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.12.58:010][248]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.12.58:010][248]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.12.58:010][248]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.12.58:010][248]MaterialEditorStats: Shader Count: 0
+[2024.11.04-11.12.58:252][277]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.04-11.12.58:252][277]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.04-11.12.58:252][277]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.12.58:252][277]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.12.58:252][277]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.12.58:252][277]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.12.58:252][277]MaterialEditorStats: Shader Count: 3
+[2024.11.04-11.12.58:352][289]MaterialEditorStats: Base pass shader without light map: 107 instructions
+[2024.11.04-11.12.58:352][289]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.04-11.12.58:352][289]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.04-11.12.58:352][289]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.12.58:352][289]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.12.58:352][289]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.12.58:352][289]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.12.58:352][289]MaterialEditorStats: Shader Count: 4
+[2024.11.04-11.13.07:058][312]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.13.07:058][312]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.13.07:058][312]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.13.07:058][312]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.13.07:058][312]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.13.07:058][312]MaterialEditorStats: Shader Count: 0
+[2024.11.04-11.13.07:333][345]MaterialEditorStats: Base pass shader without light map: 107 instructions
+[2024.11.04-11.13.07:333][345]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.04-11.13.07:333][345]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.04-11.13.07:333][345]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.13.07:333][345]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.13.07:333][345]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.13.07:333][345]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.13.07:333][345]MaterialEditorStats: Shader Count: 4
+[2024.11.04-11.13.12:253][931]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.13.12:253][931]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.13.12:253][931]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.13.12:253][931]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.13.12:253][931]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.13.12:253][931]MaterialEditorStats: Shader Count: 0
+[2024.11.04-11.13.12:538][963]LogShaderCompilers: Display: ================================================
+[2024.11.04-11.13.12:538][963]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.04-11.13.12:538][963]LogShaderCompilers: Display: Total job queries 353, among them cache hits 161 (45.61%)
+[2024.11.04-11.13.12:538][963]LogShaderCompilers: Display: Tracking 192 distinct input hashes that result in 136 distinct outputs (70.83%)
+[2024.11.04-11.13.12:538][963]LogShaderCompilers: Display: RAM used: 4.23 MiB of 3.20 GiB budget. Usage: 0.13%
+[2024.11.04-11.13.12:538][963]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.04-11.13.12:538][963]LogShaderCompilers: Display: Shaders Compiled: 162
+[2024.11.04-11.13.12:538][963]LogShaderCompilers: Display: Jobs assigned 162, completed 162 (100%)
+[2024.11.04-11.13.12:538][963]LogShaderCompilers: Display: Average time worker was idle: 126.03 s
+[2024.11.04-11.13.12:538][963]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.10 s
+[2024.11.04-11.13.12:538][963]LogShaderCompilers: Display: Job execution time: average 2.49 s, max 5.44 s
+[2024.11.04-11.13.12:538][963]LogShaderCompilers: Display: Job life time (pending + execution): average 2.54 s, max 5.52
+[2024.11.04-11.13.12:538][963]LogShaderCompilers: Display: Shader code size: average 36.509 KiB, min 27.852 KiB, max 45.547 KiB
+[2024.11.04-11.13.12:538][963]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 23.47 s
+[2024.11.04-11.13.12:538][963]LogShaderCompilers: Display: Jobs were issued in 106 batches (only local compilation was used), average 1.53 jobs/batch
+[2024.11.04-11.13.12:538][963]LogShaderCompilers: Display: Average processing rate: 6.90 jobs/sec
+[2024.11.04-11.13.12:538][963]LogShaderCompilers: Display: Total thread time: 34.306 s
+[2024.11.04-11.13.12:538][963]LogShaderCompilers: Display: Total thread preprocess time: 12.552 s
+[2024.11.04-11.13.12:538][963]LogShaderCompilers: Display: Percentage time preprocessing: 36.59%
+[2024.11.04-11.13.12:538][963]LogShaderCompilers: Display: Effective parallelization: 1.46 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.11.04-11.13.12:538][963]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.04-11.13.12:538][963]LogShaderCompilers: Display:   FLumenDirectLightingNonRayTracedShadowsWithLightFunctionCS (compiled   40 times, average 0.36 sec, max 1.51 sec, min 0.10 sec)
+[2024.11.04-11.13.12:538][963]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    3 times, average 0.25 sec, max 0.46 sec, min 0.13 sec)
+[2024.11.04-11.13.12:538][963]LogShaderCompilers: Display:                                 FTranslucentLightingInjectPS (compiled   32 times, average 0.20 sec, max 1.31 sec, min 0.06 sec)
+[2024.11.04-11.13.12:538][963]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    3 times, average 0.18 sec, max 0.26 sec, min 0.12 sec)
+[2024.11.04-11.13.12:538][963]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   21 times, average 0.17 sec, max 0.23 sec, min 0.13 sec)
+[2024.11.04-11.13.12:538][963]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.04-11.13.12:538][963]LogShaderCompilers: Display:   FLumenDirectLightingNonRayTracedShadowsWithLightFunctionCS - 42.33% of total time (compiled   40 times, average 0.36 sec, max 1.51 sec, min 0.10 sec)
+[2024.11.04-11.13.12:538][963]LogShaderCompilers: Display:                                 FTranslucentLightingInjectPS - 18.28% of total time (compiled   32 times, average 0.20 sec, max 1.31 sec, min 0.06 sec)
+[2024.11.04-11.13.12:538][963]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 10.39% of total time (compiled   21 times, average 0.17 sec, max 0.23 sec, min 0.13 sec)
+[2024.11.04-11.13.12:538][963]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.22% of total time (compiled   21 times, average 0.17 sec, max 0.20 sec, min 0.14 sec)
+[2024.11.04-11.13.12:538][963]LogShaderCompilers: Display:                                                 FLumenCardVS - 7.37% of total time (compiled   15 times, average 0.17 sec, max 0.20 sec, min 0.14 sec)
+[2024.11.04-11.13.12:538][963]LogShaderCompilers: Display: ================================================
+[2024.11.04-11.13.12:545][964]MaterialEditorStats: Base pass shader without light map: 108 instructions
+[2024.11.04-11.13.12:545][964]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.04-11.13.12:545][964]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.04-11.13.12:545][964]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.13.12:545][964]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.13.12:545][964]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.13.12:546][964]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.13.12:546][964]MaterialEditorStats: Shader Count: 4
+[2024.11.04-11.13.20:904][952]LogMaterialEditor: Applying material Flcikering_Flame
+[2024.11.04-11.13.21:013][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.11.04-11.13.21:094][952]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.11.04-11.13.21:102][952]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.13.21:102][952]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.13.21:102][952]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.13.21:102][952]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.13.21:102][952]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.13.21:102][952]MaterialEditorStats: Shader Count: 0
+[2024.11.04-11.13.21:379][972]MaterialEditorStats: Base pass shader without light map: 108 instructions
+[2024.11.04-11.13.21:379][972]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.04-11.13.21:379][972]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.04-11.13.21:379][972]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.13.21:379][972]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.13.21:379][972]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.13.21:379][972]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.13.21:379][972]MaterialEditorStats: Shader Count: 2
+[2024.11.04-11.13.23:009][ 20]MaterialEditorStats: Base pass shader without light map: 108 instructions
+[2024.11.04-11.13.23:009][ 20]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.04-11.13.23:009][ 20]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.04-11.13.23:009][ 20]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.13.23:009][ 20]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.13.23:009][ 20]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.13.23:009][ 20]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.13.23:009][ 20]MaterialEditorStats: Shader Count: 11
+[2024.11.04-11.13.23:017][ 21]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.04-11.13.23:021][ 21]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.04-11.13.23:021][ 21]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.11.04-11.13.23:023][ 21]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 64 ms)
+[2024.11.04-11.13.23:023][ 21]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.04-11.13.23:024][ 21]PIE: New page: PIE session: FirstPersonMap (5 Nov 2024, 7:13:23 am)
+[2024.11.04-11.13.23:046][ 21]LogPlayLevel: Display: Creating online subsystem for client :Context_44
+[2024.11.04-11.13.23:049][ 21]LogOnline: OSS: Created online subsystem instance for: :Context_44
+[2024.11.04-11.13.23:065][ 22]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.11.04-11.13.23:072][ 22]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006425s)
+[2024.11.04-11.13.23:072][ 22]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.006471s)
+[2024.11.04-11.13.23:083][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2024.11.04-11.13.23:087][ 22]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.04-11.13.23:087][ 22]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.04-11.13.23:088][ 22]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.11.04-11.13.23:088][ 22]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.04-11.13.23:088][ 22]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.04-11.13.23:088][ 22]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.04-11.13.23:088][ 22]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.04-11.13.23:090][ 22]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.11.04-11.13.23:090][ 22]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 666 ms)
+[2024.11.04-11.13.23:090][ 22]LogPlayLevel: PIE: World Init took: (0.002922s)
+[2024.11.04-11.13.23:090][ 22]LogAudio: Display: Creating Audio Device:                 Id: 29, Scope: Unique, Realtime: True
+[2024.11.04-11.13.23:090][ 22]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.04-11.13.23:090][ 22]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.04-11.13.23:090][ 22]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.04-11.13.23:090][ 22]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.04-11.13.23:090][ 22]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.04-11.13.23:090][ 22]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.04-11.13.23:090][ 22]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.04-11.13.23:090][ 22]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.04-11.13.23:091][ 22]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.04-11.13.23:091][ 22]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.04-11.13.23:091][ 22]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.04-11.13.23:093][ 22]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.04-11.13.23:351][ 22]LogAudioMixer: Display: Using Audio Hardware Device DELL U2722D (NVIDIA High Definition Audio)
+[2024.11.04-11.13.23:352][ 22]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.04-11.13.23:352][ 22]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.04-11.13.23:352][ 22]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.04-11.13.23:358][ 22]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=29
+[2024.11.04-11.13.23:358][ 22]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=29
+[2024.11.04-11.13.23:360][ 22]LogInit: FAudioDevice initialized with ID 29.
+[2024.11.04-11.13.23:361][ 22]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=29
+[2024.11.04-11.13.23:361][ 22]LogAudio: Display: Audio Device (ID: 29) registered with world 'FirstPersonMap'.
+[2024.11.04-11.13.23:361][ 22]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=29
+[2024.11.04-11.13.23:361][ 22]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 29
+[2024.11.04-11.13.23:363][ 22]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.04-11.13.23:371][ 22]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.11.04-21.13.23
+[2024.11.04-11.13.23:372][ 22]LogWorld: Bringing up level for play took: 0.007545
+[2024.11.04-11.13.23:376][ 22]PIE: Server logged in
+[2024.11.04-11.13.23:376][ 22]PIE: Play in editor total start time 0.356 seconds.
+[2024.11.04-11.13.49:477][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-11.13.49:477][ 43]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.11.04-11.13.49:477][ 43]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-11.13.49:478][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-11.13.49:478][ 43]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.11.04-11.13.49:483][ 43]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.04-11.13.49:487][ 43]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-11.13.49:496][ 43]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-11.13.49:497][ 43]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 29
+[2024.11.04-11.13.49:497][ 43]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2024.11.04-11.13.49:499][ 43]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=29
+[2024.11.04-11.13.49:510][ 43]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.11.04-11.13.49:563][ 44]LogPlayLevel: Display: Destroying online subsystem :Context_44
+[2024.11.04-11.13.58:908][133]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.13.58:908][133]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.13.58:908][133]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.13.58:908][133]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.13.58:908][133]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.13.58:908][133]MaterialEditorStats: Shader Count: 0
+[2024.11.04-11.14.00:679][345]MaterialEditorStats: Base pass shader without light map: 107 instructions
+[2024.11.04-11.14.00:680][345]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.04-11.14.00:680][345]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.14.00:680][345]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.14.00:680][345]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.14.00:680][345]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.14.00:680][345]MaterialEditorStats: Shader Count: 2
+[2024.11.04-11.14.00:779][357]MaterialEditorStats: Base pass shader without light map: 107 instructions
+[2024.11.04-11.14.00:779][357]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.04-11.14.00:779][357]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.04-11.14.00:779][357]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.14.00:779][357]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.14.00:779][357]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.14.00:779][357]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.14.00:779][357]MaterialEditorStats: Shader Count: 4
+[2024.11.04-11.14.08:332][255]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.14.08:332][255]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.14.08:332][255]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.14.08:332][255]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.14.08:332][255]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.14.08:332][255]MaterialEditorStats: Shader Count: 0
+[2024.11.04-11.14.08:648][293]MaterialEditorStats: Base pass shader without light map: 108 instructions
+[2024.11.04-11.14.08:648][293]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.04-11.14.08:648][293]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.04-11.14.08:648][293]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.14.08:648][293]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.14.08:648][293]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.14.08:648][293]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.14.08:648][293]MaterialEditorStats: Shader Count: 4
+[2024.11.04-11.14.10:904][557]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.14.10:904][557]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.14.10:904][557]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.14.10:904][557]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.14.10:904][557]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.14.10:904][557]MaterialEditorStats: Shader Count: 0
+[2024.11.04-11.14.10:924][559]MaterialEditorStats: Base pass shader without light map: 108 instructions
+[2024.11.04-11.14.10:924][559]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.04-11.14.10:924][559]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.04-11.14.10:924][559]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.14.10:924][559]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.14.10:924][559]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.14.10:924][559]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.14.10:924][559]MaterialEditorStats: Shader Count: 4
+[2024.11.04-11.14.10:952][562]LogMaterialEditor: Applying material Flcikering_Flame
+[2024.11.04-11.14.11:037][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2024.11.04-11.14.11:117][562]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.11.04-11.14.11:126][562]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.14.11:126][562]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.14.11:126][562]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.14.11:126][562]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.14.11:126][562]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.14.11:126][562]MaterialEditorStats: Shader Count: 0
+[2024.11.04-11.14.11:433][589]MaterialEditorStats: Base pass shader without light map: 108 instructions
+[2024.11.04-11.14.11:433][589]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.04-11.14.11:433][589]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.04-11.14.11:433][589]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.14.11:433][589]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.14.11:433][589]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.14.11:433][589]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.14.11:433][589]MaterialEditorStats: Shader Count: 2
+[2024.11.04-11.14.11:624][597]MaterialEditorStats: Base pass shader without light map: 108 instructions
+[2024.11.04-11.14.11:624][597]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.04-11.14.11:624][597]MaterialEditorStats: Texture samplers: 3/16
+[2024.11.04-11.14.11:624][597]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.14.11:624][597]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.14.11:624][597]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.14.11:624][597]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.14.11:624][597]MaterialEditorStats: Shader Count: 4
+[2024.11.04-11.14.13:510][765]MaterialEditorStats: Base pass shader without light map: 108 instructions
+[2024.11.04-11.14.13:510][765]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.04-11.14.13:510][765]MaterialEditorStats: Texture samplers: 4/16
+[2024.11.04-11.14.13:510][765]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.14.13:510][765]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.14.13:510][765]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.14.13:510][765]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.14.13:510][765]MaterialEditorStats: Shader Count: 7
+[2024.11.04-11.14.13:610][777]MaterialEditorStats: Base pass shader without light map: 108 instructions
+[2024.11.04-11.14.13:610][777]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.04-11.14.13:610][777]MaterialEditorStats: Texture samplers: 6/16
+[2024.11.04-11.14.13:610][777]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.14.13:610][777]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.14.13:610][777]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.14.13:610][777]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.14.13:610][777]MaterialEditorStats: Shader Count: 10
+[2024.11.04-11.14.31:326][424]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-11.14.31:360][424]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/CT/9UEU6JRH7XOGD46KU0LSCZ
+[2024.11.04-11.14.31:361][424]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/9UEU6JRH7XOGD46KU0LSCZ358E1EB842E842B73B209399543E61DC.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/CT/9UEU6JRH7XOGD46KU0LSCZ.uasset'
+[2024.11.04-11.14.31:370][424]LogFileHelpers: InternalPromptForCheckoutAndSave took 43 ms (total: 604 ms)
+[2024.11.04-11.14.31:372][424]AssetCheck: New page: Asset Save: BP_NPC_C_UAID_00BE43BC50EE442C02_1751994064
+[2024.11.04-11.14.31:372][424]LogContentValidation: Display: Validating /Game/Enemy_AI/BP_NPC.BP_NPC_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_NPC_C_UAID_00BE43BC50EE442C02_1751994064
+[2024.11.04-11.14.48:393][447]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.11.04-11.14.49:452][447]LogSlate: Window 'Save Content' being destroyed
+[2024.11.04-11.14.49:479][447]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-11.14.49:538][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy_AI/BP_NPC" FILE="../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/Enemy_AI/BP_NPC.uasset" SILENT=true
+[2024.11.04-11.14.49:549][447]LogSavePackage: Moving output files for package: /Game/Enemy_AI/BP_NPC
+[2024.11.04-11.14.49:549][447]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/BP_NPC1E9B41294D513A754D47CBA4348F8F1B.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/Enemy_AI/BP_NPC.uasset'
+[2024.11.04-11.14.49:550][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Textures/Fire" FILE="../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/Materials/Textures/Fire.uasset" SILENT=true
+[2024.11.04-11.14.49:552][447]LogSavePackage: Moving output files for package: /Game/Materials/Textures/Fire
+[2024.11.04-11.14.49:552][447]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/FireB237E7D944A0429E3BFACCB2D01A3EF4.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/Materials/Textures/Fire.uasset'
+[2024.11.04-11.14.49:589][447]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Materials/Flcikering_Flame" FILE="../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/Materials/Flcikering_Flame.uasset" SILENT=true
+[2024.11.04-11.14.49:592][447]LogSavePackage: Moving output files for package: /Game/Materials/Flcikering_Flame
+[2024.11.04-11.14.49:592][447]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Flcikering_Flame8343369F43A18CEF1FC73D9D3F6BD724.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/Materials/Flcikering_Flame.uasset'
+[2024.11.04-11.14.49:599][447]LogFileHelpers: InternalPromptForCheckoutAndSave took 119 ms (total: 724 ms)
+[2024.11.04-11.14.49:602][447]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.04-11.14.49:602][447]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Enemy_AI/BP_NPC.BP_NPC
+[2024.11.04-11.14.49:602][447]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Materials/Textures/Fire.Fire
+[2024.11.04-11.14.49:602][447]LogContentValidation: Display: Validating /Script/Engine.Material /Game/Materials/Flcikering_Flame.Flcikering_Flame
+[2024.11.04-11.15.46:721][270]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2024.11.04-11.15.46:725][270]LogContentBundle: [FirstPersonMap(Standalone)] Generating Streaming for 0 Content Bundles.
+[2024.11.04-11.15.46:725][270]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' started...
+[2024.11.04-11.15.46:727][270]LogWorldPartition: Display: GenerateStreaming for 'FirstPersonMap' took 2 ms (total: 66 ms)
+[2024.11.04-11.15.46:727][270]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.11.04-11.15.46:727][270]PIE: New page: PIE session: FirstPersonMap (5 Nov 2024, 7:15:46 am)
+[2024.11.04-11.15.46:758][270]LogPlayLevel: Display: Creating online subsystem for client :Context_45
+[2024.11.04-11.15.46:761][270]LogOnline: OSS: Created online subsystem instance for: :Context_45
+[2024.11.04-11.15.46:777][271]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.11.04-11.15.46:782][271]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005784s)
+[2024.11.04-11.15.46:782][271]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005826s)
+[2024.11.04-11.15.46:791][271]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2024.11.04-11.15.46:793][271]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.11.04-11.15.46:793][271]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.11.04-11.15.46:793][271]LogAIModule: Creating AISystem for world FirstPersonMap
+[2024.11.04-11.15.46:794][271]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2024.11.04-11.15.46:794][271]LogWorldPartition: Display: WorldPartition initialize started...
+[2024.11.04-11.15.46:794][271]LogWorldPartition: UWorldPartition::Initialize : World = FirstPersonMap, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2024.11.04-11.15.46:794][271]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2024.11.04-11.15.46:795][271]LogContentBundle: [FirstPersonMap(Standalone)] Creating new contrainer.
+[2024.11.04-11.15.46:795][271]LogWorldPartition: Display: WorldPartition initialize took 1 ms (total: 667 ms)
+[2024.11.04-11.15.46:795][271]LogPlayLevel: PIE: World Init took: (0.002894s)
+[2024.11.04-11.15.46:795][271]LogAudio: Display: Creating Audio Device:                 Id: 30, Scope: Unique, Realtime: True
+[2024.11.04-11.15.46:795][271]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.11.04-11.15.46:795][271]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.11.04-11.15.46:795][271]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.11.04-11.15.46:795][271]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.11.04-11.15.46:796][271]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2024.11.04-11.15.46:796][271]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.11.04-11.15.46:796][271]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2024.11.04-11.15.46:796][271]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.11.04-11.15.46:796][271]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.11.04-11.15.46:796][271]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.11.04-11.15.46:796][271]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.11.04-11.15.46:798][271]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.11.04-11.15.46:945][271]LogAudioMixer: Display: Using Audio Hardware Device DELL U2722D (NVIDIA High Definition Audio)
+[2024.11.04-11.15.46:945][271]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.11.04-11.15.46:945][271]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.11.04-11.15.46:945][271]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.11.04-11.15.46:945][271]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=30
+[2024.11.04-11.15.46:945][271]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=30
+[2024.11.04-11.15.46:949][271]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=30
+[2024.11.04-11.15.46:949][271]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=30
+[2024.11.04-11.15.46:949][271]LogInit: FAudioDevice initialized with ID 30.
+[2024.11.04-11.15.46:949][271]LogAudio: Display: Audio Device (ID: 30) registered with world 'FirstPersonMap'.
+[2024.11.04-11.15.46:949][271]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 30
+[2024.11.04-11.15.46:951][271]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2024.11.04-11.15.46:956][271]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2024.11.04-21.15.46
+[2024.11.04-11.15.46:957][271]LogWorld: Bringing up level for play took: 0.005663
+[2024.11.04-11.15.46:959][271]PIE: Server logged in
+[2024.11.04-11.15.46:960][271]PIE: Play in editor total start time 0.235 seconds.
+[2024.11.04-11.16.02:957][182]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-11.16.05:459][482]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-11.16.07:458][722]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-11.16.09:459][962]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-11.16.30:839][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-11.16.30:839][521]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2024.11.04-11.16.30:840][521]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2024.11.04-11.16.30:840][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-11.16.30:840][521]LogContentBundle: [FirstPersonMap(Standalone)] Deleting container.
+[2024.11.04-11.16.30:847][521]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.11.04-11.16.30:850][521]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.11.04-11.16.30:864][521]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.11.04-11.16.30:865][521]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 30
+[2024.11.04-11.16.30:865][521]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2024.11.04-11.16.30:867][521]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=30
+[2024.11.04-11.16.30:875][521]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.11.04-11.16.30:878][521]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2024.11.04-11.16.30:932][522]LogPlayLevel: Display: Destroying online subsystem :Context_45
+[2024.11.04-11.19.08:553][307]LogShaderCompilers: Display: ================================================
+[2024.11.04-11.19.08:553][307]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2024.11.04-11.19.08:553][307]LogShaderCompilers: Display: Total job queries 477, among them cache hits 189 (39.62%)
+[2024.11.04-11.19.08:553][307]LogShaderCompilers: Display: Tracking 288 distinct input hashes that result in 208 distinct outputs (72.22%)
+[2024.11.04-11.19.08:553][307]LogShaderCompilers: Display: RAM used: 6.48 MiB of 3.20 GiB budget. Usage: 0.20%
+[2024.11.04-11.19.08:553][307]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2024.11.04-11.19.08:553][307]LogShaderCompilers: Display: Shaders Compiled: 258
+[2024.11.04-11.19.08:553][307]LogShaderCompilers: Display: Jobs assigned 258, completed 258 (100%)
+[2024.11.04-11.19.08:553][307]LogShaderCompilers: Display: Average time worker was idle: 105.43 s
+[2024.11.04-11.19.08:553][307]LogShaderCompilers: Display: Time job spent in pending queue: average 0.04 s, longest 0.10 s
+[2024.11.04-11.19.08:553][307]LogShaderCompilers: Display: Job execution time: average 3.10 s, max 5.66 s
+[2024.11.04-11.19.08:553][307]LogShaderCompilers: Display: Job life time (pending + execution): average 3.14 s, max 5.69
+[2024.11.04-11.19.08:553][307]LogShaderCompilers: Display: Shader code size: average 37.229 KiB, min 27.852 KiB, max 45.633 KiB
+[2024.11.04-11.19.08:553][307]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 36.48 s
+[2024.11.04-11.19.08:553][307]LogShaderCompilers: Display: Jobs were issued in 145 batches (only local compilation was used), average 1.78 jobs/batch
+[2024.11.04-11.19.08:553][307]LogShaderCompilers: Display: Average processing rate: 7.07 jobs/sec
+[2024.11.04-11.19.08:553][307]LogShaderCompilers: Display: Total thread time: 65.746 s
+[2024.11.04-11.19.08:553][307]LogShaderCompilers: Display: Total thread preprocess time: 26.093 s
+[2024.11.04-11.19.08:553][307]LogShaderCompilers: Display: Percentage time preprocessing: 39.69%
+[2024.11.04-11.19.08:553][307]LogShaderCompilers: Display: Effective parallelization: 1.80 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2024.11.04-11.19.08:553][307]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2024.11.04-11.19.08:553][307]LogShaderCompilers: Display:   FLumenDirectLightingNonRayTracedShadowsWithLightFunctionCS (compiled   80 times, average 0.42 sec, max 1.60 sec, min 0.10 sec)
+[2024.11.04-11.19.08:553][307]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    5 times, average 0.25 sec, max 0.46 sec, min 0.13 sec)
+[2024.11.04-11.19.08:553][307]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled    5 times, average 0.21 sec, max 0.28 sec, min 0.12 sec)
+[2024.11.04-11.19.08:553][307]LogShaderCompilers: Display:                                 FTranslucentLightingInjectPS (compiled   64 times, average 0.21 sec, max 1.31 sec, min 0.06 sec)
+[2024.11.04-11.19.08:553][307]LogShaderCompilers: Display:                                             FLightFunctionPS (compiled    4 times, average 0.21 sec, max 0.46 sec, min 0.10 sec)
+[2024.11.04-11.19.08:553][307]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2024.11.04-11.19.08:553][307]LogShaderCompilers: Display:   FLumenDirectLightingNonRayTracedShadowsWithLightFunctionCS - 51.66% of total time (compiled   80 times, average 0.42 sec, max 1.60 sec, min 0.10 sec)
+[2024.11.04-11.19.08:553][307]LogShaderCompilers: Display:                                 FTranslucentLightingInjectPS - 20.66% of total time (compiled   64 times, average 0.21 sec, max 1.31 sec, min 0.06 sec)
+[2024.11.04-11.19.08:553][307]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 6.05% of total time (compiled   23 times, average 0.17 sec, max 0.23 sec, min 0.13 sec)
+[2024.11.04-11.19.08:553][307]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 5.91% of total time (compiled   23 times, average 0.17 sec, max 0.21 sec, min 0.14 sec)
+[2024.11.04-11.19.08:553][307]LogShaderCompilers: Display:                                                 FLumenCardVS - 4.39% of total time (compiled   17 times, average 0.17 sec, max 0.20 sec, min 0.14 sec)
+[2024.11.04-11.19.08:553][307]LogShaderCompilers: Display: ================================================
+[2024.11.04-11.19.36:165][555]Cmd: DELETE
+[2024.11.04-11.19.36:165][555]Cmd: ACTOR DELETE
+[2024.11.04-11.19.36:167][555]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-11.19.36:197][555]LogUObjectHash: Compacting FUObjectHashTables data took  18.62ms
+[2024.11.04-11.19.36:201][555]LogEditorActor: Deleted 1 Actors (0.035 secs)
+[2024.11.04-11.19.36:554][586]Cmd: DELETE
+[2024.11.04-11.19.36:554][586]Cmd: ACTOR DELETE
+[2024.11.04-11.19.36:555][586]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-11.19.36:565][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2024.11.04-11.19.36:568][586]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2024.11.04-11.19.36:872][610]Cmd: DELETE
+[2024.11.04-11.19.36:872][610]Cmd: ACTOR DELETE
+[2024.11.04-11.19.36:873][610]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-11.19.36:882][610]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.11.04-11.19.36:885][610]LogEditorActor: Deleted 1 Actors (0.014 secs)
+[2024.11.04-11.19.37:277][645]Cmd: DELETE
+[2024.11.04-11.19.37:277][645]Cmd: ACTOR DELETE
+[2024.11.04-11.19.37:279][645]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-11.19.37:289][645]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.11.04-11.19.37:292][645]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2024.11.04-11.19.37:641][675]Cmd: DELETE
+[2024.11.04-11.19.37:641][675]Cmd: ACTOR DELETE
+[2024.11.04-11.19.37:643][675]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-11.19.37:656][675]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2024.11.04-11.19.37:659][675]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2024.11.04-11.19.37:942][697]Cmd: DELETE
+[2024.11.04-11.19.37:942][697]Cmd: ACTOR DELETE
+[2024.11.04-11.19.37:944][697]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-11.19.37:956][697]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.11.04-11.19.37:960][697]LogEditorActor: Deleted 1 Actors (0.018 secs)
+[2024.11.04-11.19.38:762][781]Cmd: DELETE
+[2024.11.04-11.19.38:762][781]Cmd: ACTOR DELETE
+[2024.11.04-11.19.38:763][781]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-11.19.38:774][781]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.11.04-11.19.38:777][781]LogEditorActor: Deleted 1 Actors (0.015 secs)
+[2024.11.04-11.19.39:797][900]Cmd: TRANSACTION UNDO
+[2024.11.04-11.19.39:797][900]LogEditorTransaction: Undo Delete Elements
+[2024.11.04-11.19.39:993][902]Cmd: TRANSACTION UNDO
+[2024.11.04-11.19.39:993][902]LogEditorTransaction: Undo Clicking on Elements
+[2024.11.04-11.19.40:145][904]Cmd: TRANSACTION UNDO
+[2024.11.04-11.19.40:145][904]LogEditorTransaction: Undo Delete Elements
+[2024.11.04-11.19.40:288][905]Cmd: TRANSACTION UNDO
+[2024.11.04-11.19.40:288][905]LogEditorTransaction: Undo Clicking on Elements
+[2024.11.04-11.19.40:445][913]Cmd: TRANSACTION UNDO
+[2024.11.04-11.19.40:445][913]LogEditorTransaction: Undo Delete Elements
+[2024.11.04-11.19.40:602][923]Cmd: TRANSACTION UNDO
+[2024.11.04-11.19.40:602][923]LogEditorTransaction: Undo Clicking on Elements
+[2024.11.04-11.19.40:745][939]Cmd: TRANSACTION UNDO
+[2024.11.04-11.19.40:745][939]LogEditorTransaction: Undo Delete Elements
+[2024.11.04-11.19.40:901][949]Cmd: TRANSACTION UNDO
+[2024.11.04-11.19.40:901][949]LogEditorTransaction: Undo Clicking on Elements
+[2024.11.04-11.19.41:078][969]Cmd: TRANSACTION UNDO
+[2024.11.04-11.19.41:078][969]LogEditorTransaction: Undo Delete Elements
+[2024.11.04-11.19.41:226][978]Cmd: TRANSACTION UNDO
+[2024.11.04-11.19.41:226][978]LogEditorTransaction: Undo Clicking on Elements
+[2024.11.04-11.19.41:388][996]Cmd: TRANSACTION UNDO
+[2024.11.04-11.19.41:388][996]LogEditorTransaction: Undo Delete Elements
+[2024.11.04-11.19.41:549][  7]Cmd: TRANSACTION UNDO
+[2024.11.04-11.19.41:549][  7]LogEditorTransaction: Undo Clicking on Elements
+[2024.11.04-11.19.41:702][ 24]Cmd: TRANSACTION UNDO
+[2024.11.04-11.19.41:702][ 24]LogEditorTransaction: Undo Delete Elements
+[2024.11.04-11.19.41:884][ 37]Cmd: TRANSACTION UNDO
+[2024.11.04-11.19.41:884][ 37]LogEditorTransaction: Undo Clicking on Elements
+[2024.11.04-11.19.42:298][ 76]Cmd: TRANSACTION UNDO
+[2024.11.04-11.19.42:298][ 76]LogEditorTransaction: Undo Change Vector Pin Value
+[2024.11.04-11.19.42:343][ 76]MaterialEditorStats: Texture samplers: 0/16
+[2024.11.04-11.19.42:343][ 76]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.19.42:343][ 76]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.19.42:343][ 76]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.19.42:343][ 76]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.19.42:343][ 76]MaterialEditorStats: Shader Count: 0
+[2024.11.04-11.19.42:397][ 80]MaterialEditorStats: Base pass shader without light map: 108 instructions
+[2024.11.04-11.19.42:397][ 80]MaterialEditorStats: Base pass vertex shader: 137 instructions
+[2024.11.04-11.19.42:397][ 80]MaterialEditorStats: Texture samplers: 2/16
+[2024.11.04-11.19.42:397][ 80]MaterialEditorStats: Texture Lookups (Est.): VS(3), PS(8)
+[2024.11.04-11.19.42:397][ 80]MaterialEditorStats: User interpolators: 2/4 Scalars (1/4 Vectors) (TexCoords: 2, Custom: 0)
+[2024.11.04-11.19.42:397][ 80]MaterialEditorStats: LWC Demote usages (Est.): 2
+[2024.11.04-11.19.42:397][ 80]MaterialEditorStats: LWC Subtract usages (Est.): 5
+[2024.11.04-11.19.42:397][ 80]MaterialEditorStats: Shader Count: 4
+[2024.11.04-11.19.51:707][108]Cmd: EDIT COPY
+[2024.11.04-11.19.51:899][131]Cmd: EDIT PASTE
+[2024.11.04-11.20.05:351][637]LogActorFactory: Loading ActorFactory Class /Script/Engine.LevelInstance
+[2024.11.04-11.20.15:003][645]Cmd: TRANSACTION UNDO
+[2024.11.04-11.20.15:004][645]LogEditorTransaction: Undo Scale Elements
+[2024.11.04-11.20.23:641][572]Cmd: EDIT COPY
+[2024.11.04-11.20.23:799][591]Cmd: EDIT PASTE
+[2024.11.04-11.20.32:295][488]Cmd: EDIT COPY
+[2024.11.04-11.20.32:470][509]Cmd: EDIT PASTE
+[2024.11.04-11.21.30:908][870]Cmd: EDIT COPY
+[2024.11.04-11.21.31:085][890]Cmd: EDIT PASTE
+[2024.11.04-11.21.51:464][113]Cmd: EDIT COPY
+[2024.11.04-11.21.51:650][124]Cmd: EDIT PASTE
+[2024.11.04-11.22.02:665][284]Cmd: EDIT COPY
+[2024.11.04-11.22.02:879][306]Cmd: EDIT PASTE
+[2024.11.04-11.22.13:923][496]Cmd: EDIT COPY
+[2024.11.04-11.22.14:110][511]Cmd: EDIT PASTE
+[2024.11.04-11.22.41:978][654]Cmd: EDIT COPY
+[2024.11.04-11.22.42:213][681]Cmd: EDIT PASTE
+[2024.11.04-11.23.47:884][685]Cmd: TRANSACTION UNDO
+[2024.11.04-11.23.47:884][685]LogEditorTransaction: Undo Scale Elements
+[2024.11.04-11.23.50:278][878]Cmd: EDIT COPY
+[2024.11.04-11.23.50:462][895]Cmd: EDIT PASTE
+[2024.11.04-11.24.59:881][773]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2024.11.04-11.24.59:888][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/JQ/13HVR6ZLNPJE098SQNRKCX_Auto5
+[2024.11.04-11.24.59:888][773]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/13HVR6ZLNPJE098SQNRKCX_Auto5EE99103A4168A7554B2492B69EB06E7F.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/JQ/13HVR6ZLNPJE098SQNRKCX_Auto5.uasset'
+[2024.11.04-11.24.59:890][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/5K/YHJYZFZXWJNM8FKU7V5QHS_Auto5
+[2024.11.04-11.24.59:890][773]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/YHJYZFZXWJNM8FKU7V5QHS_Auto5A03635044FA2C31B0EB7168CD5F90E9A.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/5K/YHJYZFZXWJNM8FKU7V5QHS_Auto5.uasset'
+[2024.11.04-11.24.59:891][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/IK/C30O8JENY9XGSEMODTAL68_Auto5
+[2024.11.04-11.24.59:891][773]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/C30O8JENY9XGSEMODTAL68_Auto5B84C09C7453F68876FC18FA97BBBCE7D.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/IK/C30O8JENY9XGSEMODTAL68_Auto5.uasset'
+[2024.11.04-11.24.59:893][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/9E/V7JJE43KK10HPXZB52PYFQ_Auto5
+[2024.11.04-11.24.59:893][773]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/V7JJE43KK10HPXZB52PYFQ_Auto54DB4AB3D43CC0C44147FAB86BD3C9589.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/9E/V7JJE43KK10HPXZB52PYFQ_Auto5.uasset'
+[2024.11.04-11.24.59:894][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/1Y/Q3RLXOMW4C4VKJ2G8FNFNY_Auto5
+[2024.11.04-11.24.59:894][773]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Q3RLXOMW4C4VKJ2G8FNFNY_Auto5E42E4CE94AA2FF27DC94A6975375CE68.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/1Y/Q3RLXOMW4C4VKJ2G8FNFNY_Auto5.uasset'
+[2024.11.04-11.24.59:896][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/I4/PVH8UXHS4GKBFRZ7V9ULDS_Auto5
+[2024.11.04-11.24.59:896][773]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/PVH8UXHS4GKBFRZ7V9ULDS_Auto53E7748AA41085FF5872ADC9193AE9373.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/I4/PVH8UXHS4GKBFRZ7V9ULDS_Auto5.uasset'
+[2024.11.04-11.24.59:898][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/Z4/0JJJJWI4TZ49UYKUDNRN4H_Auto5
+[2024.11.04-11.24.59:898][773]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/0JJJJWI4TZ49UYKUDNRN4H_Auto599EA5B4945516A25D23E65BEB9864B64.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/Z4/0JJJJWI4TZ49UYKUDNRN4H_Auto5.uasset'
+[2024.11.04-11.24.59:900][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/SC/PJTLAS3QS0NDCYPQ5JO6FS_Auto5
+[2024.11.04-11.24.59:900][773]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/PJTLAS3QS0NDCYPQ5JO6FS_Auto5F0790AA541D91112D5AE0FA8F82FF2C0.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/SC/PJTLAS3QS0NDCYPQ5JO6FS_Auto5.uasset'
+[2024.11.04-11.24.59:901][773]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/P7/B96GLIFC1GE1U91CXGH7SD_Auto5
+[2024.11.04-11.24.59:901][773]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/B96GLIFC1GE1U91CXGH7SD_Auto5306E4A4347234335B06B408638CAB7D4.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/P7/B96GLIFC1GE1U91CXGH7SD_Auto5.uasset'
+[2024.11.04-11.24.59:902][773]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.035
+[2024.11.04-11.24.59:902][773]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.035
+[2024.11.04-11.48.24:891][259]Cmd: EDIT COPY
+[2024.11.04-11.48.25:083][282]Cmd: EDIT PASTE
+[2024.11.04-11.48.52:629][225]Cmd: EDIT COPY
+[2024.11.04-11.48.52:856][252]Cmd: EDIT PASTE
+[2024.11.04-11.49.12:902][600]Cmd: EDIT COPY
+[2024.11.04-11.49.13:402][660]Cmd: EDIT PASTE
+[2024.11.04-11.50.20:572][297]Cmd: EDIT COPY
+[2024.11.04-11.50.20:839][329]Cmd: EDIT PASTE
+[2024.11.04-11.51.33:948][859]Cmd: TRANSACTION UNDO
+[2024.11.04-11.51.33:948][859]LogEditorTransaction: Undo Scale Elements
+[2024.11.04-11.51.39:769][496]Cmd: DELETE
+[2024.11.04-11.51.39:769][496]Cmd: ACTOR DELETE
+[2024.11.04-11.51.39:770][496]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-11.51.39:783][496]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2024.11.04-11.51.39:787][496]LogEditorActor: Deleted 1 Actors (0.017 secs)
+[2024.11.04-11.52.30:516][411]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2024.11.04-11.52.30:520][411]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/JQ/13HVR6ZLNPJE098SQNRKCX_Auto6
+[2024.11.04-11.52.30:520][411]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/13HVR6ZLNPJE098SQNRKCX_Auto66DAE589F4AB5EC9B5455CD9263F010B8.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/JQ/13HVR6ZLNPJE098SQNRKCX_Auto6.uasset'
+[2024.11.04-11.52.30:521][411]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/5K/YHJYZFZXWJNM8FKU7V5QHS_Auto6
+[2024.11.04-11.52.30:522][411]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/YHJYZFZXWJNM8FKU7V5QHS_Auto616CFAC8F4CDD039EBF800B816E3D76BB.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/5K/YHJYZFZXWJNM8FKU7V5QHS_Auto6.uasset'
+[2024.11.04-11.52.30:523][411]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/IK/C30O8JENY9XGSEMODTAL68_Auto6
+[2024.11.04-11.52.30:523][411]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/C30O8JENY9XGSEMODTAL68_Auto64CD6E4DE461CC6FED6A131A4B487B772.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/IK/C30O8JENY9XGSEMODTAL68_Auto6.uasset'
+[2024.11.04-11.52.30:525][411]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/9E/V7JJE43KK10HPXZB52PYFQ_Auto6
+[2024.11.04-11.52.30:525][411]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/V7JJE43KK10HPXZB52PYFQ_Auto6B23CE5CE4DDA74D136DD37ABB5AD20EE.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/9E/V7JJE43KK10HPXZB52PYFQ_Auto6.uasset'
+[2024.11.04-11.52.30:526][411]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/1Y/Q3RLXOMW4C4VKJ2G8FNFNY_Auto6
+[2024.11.04-11.52.30:526][411]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Q3RLXOMW4C4VKJ2G8FNFNY_Auto6EF8A5CCB47D05EC9A951E2AE02199D71.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/1Y/Q3RLXOMW4C4VKJ2G8FNFNY_Auto6.uasset'
+[2024.11.04-11.52.30:528][411]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/I4/PVH8UXHS4GKBFRZ7V9ULDS_Auto6
+[2024.11.04-11.52.30:528][411]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/PVH8UXHS4GKBFRZ7V9ULDS_Auto658658B034C4679044742B68BB7112E32.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/I4/PVH8UXHS4GKBFRZ7V9ULDS_Auto6.uasset'
+[2024.11.04-11.52.30:530][411]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/Z4/0JJJJWI4TZ49UYKUDNRN4H_Auto6
+[2024.11.04-11.52.30:530][411]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/0JJJJWI4TZ49UYKUDNRN4H_Auto635916673487DC020FFE0A7A26EEC7D67.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/Z4/0JJJJWI4TZ49UYKUDNRN4H_Auto6.uasset'
+[2024.11.04-11.52.30:532][411]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/P7/B96GLIFC1GE1U91CXGH7SD_Auto6
+[2024.11.04-11.52.30:532][411]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/B96GLIFC1GE1U91CXGH7SD_Auto6D6944BA048D353451819C6A64B7EBD80.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/P7/B96GLIFC1GE1U91CXGH7SD_Auto6.uasset'
+[2024.11.04-11.52.30:534][411]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/1M/BU6YU10EDPE9QMHBJ6GEU7_Auto6
+[2024.11.04-11.52.30:534][411]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/BU6YU10EDPE9QMHBJ6GEU7_Auto6C40935F548DD9A09D70A71AC38BEEC80.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/1M/BU6YU10EDPE9QMHBJ6GEU7_Auto6.uasset'
+[2024.11.04-11.52.30:535][411]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AL/J5E4AXOTAAY06EPFTY4VR4_Auto6
+[2024.11.04-11.52.30:535][411]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/J5E4AXOTAAY06EPFTY4VR4_Auto6D82EB36A42E2C00C23D16781E5A2D537.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AL/J5E4AXOTAAY06EPFTY4VR4_Auto6.uasset'
+[2024.11.04-11.52.30:537][411]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/G2/O45K1VQMWFO0MQ5CK3AW8A_Auto6
+[2024.11.04-11.52.30:537][411]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/O45K1VQMWFO0MQ5CK3AW8A_Auto6F2B848BC416DDA0935F8948989141B5C.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/G2/O45K1VQMWFO0MQ5CK3AW8A_Auto6.uasset'
+[2024.11.04-11.52.30:539][411]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/1D/J4FOE7FMDGA2ZVFRI9QD2Y_Auto6
+[2024.11.04-11.52.30:539][411]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/J4FOE7FMDGA2ZVFRI9QD2Y_Auto62F02F55C47CB20CB1711FA8E95A1EA23.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/1D/J4FOE7FMDGA2ZVFRI9QD2Y_Auto6.uasset'
+[2024.11.04-11.52.30:540][411]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.039
+[2024.11.04-11.52.30:540][411]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.039
+[2024.11.04-11.52.42:557][830]Cmd: EDIT COPY
+[2024.11.04-11.52.42:698][847]Cmd: EDIT PASTE
+[2024.11.04-11.55.19:228][267]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-11.55.19:300][267]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2024.11.04-11.55.19:312][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.11.04-11.55.19:322][267]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.11.04-11.55.19:324][267]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/7K/5XKG3N2L6QYVJJ4AWS4X4M
+[2024.11.04-11.55.19:325][267]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/5XKG3N2L6QYVJJ4AWS4X4M0CF938B04F863DA4A5A3439CFEA511D1.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/7K/5XKG3N2L6QYVJJ4AWS4X4M.uasset'
+[2024.11.04-11.55.19:327][267]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/JQ/13HVR6ZLNPJE098SQNRKCX
+[2024.11.04-11.55.19:327][267]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/13HVR6ZLNPJE098SQNRKCX62D1683A40D50026F0F1ACAE6DCE9AFB.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/JQ/13HVR6ZLNPJE098SQNRKCX.uasset'
+[2024.11.04-11.55.19:328][267]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/5K/YHJYZFZXWJNM8FKU7V5QHS
+[2024.11.04-11.55.19:329][267]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/YHJYZFZXWJNM8FKU7V5QHS7E08490E4AE313E49EBF46ACEDE99292.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/5K/YHJYZFZXWJNM8FKU7V5QHS.uasset'
+[2024.11.04-11.55.19:330][267]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/IK/C30O8JENY9XGSEMODTAL68
+[2024.11.04-11.55.19:330][267]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/C30O8JENY9XGSEMODTAL6869992AC64D279A1ECAB585964B717CC8.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/IK/C30O8JENY9XGSEMODTAL68.uasset'
+[2024.11.04-11.55.19:332][267]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/9E/V7JJE43KK10HPXZB52PYFQ
+[2024.11.04-11.55.19:332][267]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/V7JJE43KK10HPXZB52PYFQEF5593B448D1008777CD0C8A10094A95.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/9E/V7JJE43KK10HPXZB52PYFQ.uasset'
+[2024.11.04-11.55.19:335][267]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/1Y/Q3RLXOMW4C4VKJ2G8FNFNY
+[2024.11.04-11.55.19:335][267]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Q3RLXOMW4C4VKJ2G8FNFNY1AC2133646AF4E57AF5FC4A82672BC33.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/1Y/Q3RLXOMW4C4VKJ2G8FNFNY.uasset'
+[2024.11.04-11.55.19:337][267]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/I4/PVH8UXHS4GKBFRZ7V9ULDS
+[2024.11.04-11.55.19:337][267]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/PVH8UXHS4GKBFRZ7V9ULDS091B5C654525B2D89C96A5B1CC6C8DDB.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/I4/PVH8UXHS4GKBFRZ7V9ULDS.uasset'
+[2024.11.04-11.55.19:339][267]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/Z4/0JJJJWI4TZ49UYKUDNRN4H
+[2024.11.04-11.55.19:339][267]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/0JJJJWI4TZ49UYKUDNRN4H79A5B9D643F00E8381A62E8971F0FFBA.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/Z4/0JJJJWI4TZ49UYKUDNRN4H.uasset'
+[2024.11.04-11.55.19:341][267]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/P7/B96GLIFC1GE1U91CXGH7SD
+[2024.11.04-11.55.19:341][267]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/B96GLIFC1GE1U91CXGH7SDE2442B9548412024BF154892FD08E29D.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/P7/B96GLIFC1GE1U91CXGH7SD.uasset'
+[2024.11.04-11.55.19:343][267]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/1M/BU6YU10EDPE9QMHBJ6GEU7
+[2024.11.04-11.55.19:343][267]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/BU6YU10EDPE9QMHBJ6GEU785F212AB4F0D9A0819E6E0B265407949.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/1M/BU6YU10EDPE9QMHBJ6GEU7.uasset'
+[2024.11.04-11.55.19:345][267]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AL/J5E4AXOTAAY06EPFTY4VR4
+[2024.11.04-11.55.19:345][267]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/J5E4AXOTAAY06EPFTY4VR4317E2A89420922D7F4C2FD8FD0DF1B7C.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AL/J5E4AXOTAAY06EPFTY4VR4.uasset'
+[2024.11.04-11.55.19:347][267]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/G2/O45K1VQMWFO0MQ5CK3AW8A
+[2024.11.04-11.55.19:347][267]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/O45K1VQMWFO0MQ5CK3AW8AC6B1E3F64010AA125B4734A27D13CDB8.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/G2/O45K1VQMWFO0MQ5CK3AW8A.uasset'
+[2024.11.04-11.55.19:349][267]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/1D/J4FOE7FMDGA2ZVFRI9QD2Y
+[2024.11.04-11.55.19:349][267]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/J4FOE7FMDGA2ZVFRI9QD2Y1033AE7E4EBC5903049204AEE690D983.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/1D/J4FOE7FMDGA2ZVFRI9QD2Y.uasset'
+[2024.11.04-11.55.19:351][267]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/QY/F8WWDIB3BO7Y11920QSUJ6
+[2024.11.04-11.55.19:351][267]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/F8WWDIB3BO7Y11920QSUJ622355FAF4FB3CDB7D35F799FA2008DBC.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/QY/F8WWDIB3BO7Y11920QSUJ6.uasset'
+[2024.11.04-11.55.19:365][267]LogFileHelpers: InternalPromptForCheckoutAndSave took 136 ms (total: 861 ms)
+[2024.11.04-11.55.19:369][267]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.04-11.55.19:369][267]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE432C02_1896051885
+[2024.11.04-11.55.19:369][267]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE502C02_1450035039
+[2024.11.04-11.55.19:369][267]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE502C02_1481934040
+[2024.11.04-11.55.19:369][267]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE502C02_1490605041
+[2024.11.04-11.55.19:369][267]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE502C02_1549220042
+[2024.11.04-11.55.19:369][267]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE502C02_1569786043
+[2024.11.04-11.55.19:369][267]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE502C02_1581014044
+[2024.11.04-11.55.19:369][267]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE502C02_1592245045
+[2024.11.04-11.55.19:369][267]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE502C02_1688597047
+[2024.11.04-11.55.19:369][267]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE512C02_2089476224
+[2024.11.04-11.55.19:369][267]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE512C02_2117249225
+[2024.11.04-11.55.19:369][267]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE512C02_2137795226
+[2024.11.04-11.55.19:369][267]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE522C02_1131490403
+[2024.11.04-11.55.19:369][267]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE522C02_1273350404
+[2024.11.04-11.55.22:411][626]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-11.55.22:483][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.11.04-11.55.22:494][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2024.11.04-11.55.22:503][626]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2024.11.04-11.55.22:512][626]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 961 ms)
+[2024.11.04-11.55.49:979][911]Cmd: DUPLICATE
+[2024.11.04-11.55.49:979][911]Cmd: ACTOR DUPLICATE
+[2024.11.04-11.55.50:015][911]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-11.55.50:060][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2024.11.04-11.55.50:069][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2024.11.04-11.55.50:079][911]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2024.11.04-11.55.50:082][911]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/VP/L34MFEOVO5MG96KFTKTOY0
+[2024.11.04-11.55.50:082][911]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/L34MFEOVO5MG96KFTKTOY0FBA3F6AA4CC124337F55DDBD04297954.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/VP/L34MFEOVO5MG96KFTKTOY0.uasset'
+[2024.11.04-11.55.50:097][911]LogFileHelpers: InternalPromptForCheckoutAndSave took 81 ms (total: 1.04 sec)
+[2024.11.04-11.55.50:098][911]AssetCheck: New page: Asset Save: StaticMeshActor_UAID_00BE43BC50EE522C02_1460630405
+[2024.11.04-11.55.50:098][911]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE522C02_1460630405
