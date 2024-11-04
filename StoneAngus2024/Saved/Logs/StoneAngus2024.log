@@ -1166,3 +1166,535 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.11.04-05.03.41:933][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
 [2024.11.04-05.03.41:936][560]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
 [2024.11.04-05.03.41:942][560]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms
+[2024.11.04-05.05.27:023][ 21]LogDerivedDataCache: C:/Users/s5287338/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:01.274 and deleted 0 files with total size 0 MiB and 101 empty folders. Scanned 1132 files in 1937 folders with total size 74 MiB.
+[2024.11.04-05.07.19:034][914]Cmd: DELETE
+[2024.11.04-05.07.19:034][914]Cmd: ACTOR DELETE
+[2024.11.04-05.07.19:035][914]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.07.19:035][914]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.07.19:036][914]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.07.19:036][914]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.07.19:037][914]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.07.19:038][914]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.07.19:038][914]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.07.19:038][914]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.07.19:039][914]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.07.19:039][914]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.07.19:040][914]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.07.19:040][914]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.07.19:040][914]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.07.19:041][914]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.07.19:043][914]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2024.11.04-05.07.19:044][914]LogEditorActor: Deleted 14 Actors (0.011 secs)
+[2024.11.04-05.07.29:115][ 99]Cmd: DELETE
+[2024.11.04-05.07.29:115][ 99]Cmd: ACTOR DELETE
+[2024.11.04-05.07.35:376][821]Cmd: DELETE
+[2024.11.04-05.07.35:376][821]Cmd: ACTOR DELETE
+[2024.11.04-05.07.35:377][821]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.07.35:378][821]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.07.35:379][821]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.07.35:379][821]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.07.35:380][821]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.07.35:380][821]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.07.35:380][821]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.07.35:381][821]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.07.35:381][821]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.07.35:382][821]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.07.35:382][821]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.07.35:382][821]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.07.35:383][821]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.07.35:383][821]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.07.35:385][821]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.07.35:385][821]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.07.35:385][821]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.07.35:386][821]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.07.35:386][821]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.07.35:387][821]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.07.35:387][821]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.07.35:387][821]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.07.35:388][821]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.07.35:388][821]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.07.35:389][821]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.07.35:391][821]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2024.11.04-05.07.35:392][821]LogEditorActor: Deleted 25 Actors (0.015 secs)
+[2024.11.04-05.07.37:870][112]Cmd: DELETE
+[2024.11.04-05.07.37:870][112]Cmd: ACTOR DELETE
+[2024.11.04-05.07.41:262][502]Cmd: DELETE
+[2024.11.04-05.07.41:262][502]Cmd: ACTOR DELETE
+[2024.11.04-05.07.41:263][502]LogEditorActor: Deleted Actor: BP_Pickup_Rifle_C
+[2024.11.04-05.07.41:267][502]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.11.04-05.07.41:268][502]LogEditorActor: Deleted 1 Actors (0.005 secs)
+[2024.11.04-05.07.50:158][505]Cmd: EDIT COPY
+[2024.11.04-05.07.50:317][524]Cmd: EDIT PASTE
+[2024.11.04-05.08.06:842][382]Cmd: EDIT COPY
+[2024.11.04-05.08.07:035][405]Cmd: EDIT PASTE
+[2024.11.04-05.08.10:640][817]Cmd: EDIT COPY
+[2024.11.04-05.08.10:832][840]Cmd: EDIT PASTE
+[2024.11.04-05.08.37:708][888]Cmd: EDIT COPY
+[2024.11.04-05.08.37:883][909]Cmd: EDIT PASTE
+[2024.11.04-05.09.44:348][376]Cmd: EDIT COPY
+[2024.11.04-05.09.44:673][415]Cmd: EDIT PASTE
+[2024.11.04-05.09.48:890][910]Cmd: EDIT COPY
+[2024.11.04-05.09.49:082][933]Cmd: EDIT PASTE
+[2024.11.04-05.10.03:584][613]Cmd: EDIT COPY
+[2024.11.04-05.10.03:791][637]Cmd: EDIT PASTE
+[2024.11.04-05.10.13:569][767]Cmd: EDIT COPY
+[2024.11.04-05.10.13:743][788]Cmd: EDIT PASTE
+[2024.11.04-05.10.51:696][987]Cmd: EDIT COPY
+[2024.11.04-05.10.51:871][  7]Cmd: EDIT PASTE
+[2024.11.04-05.10.54:814][349]Cmd: EDIT COPY
+[2024.11.04-05.10.54:989][370]Cmd: EDIT PASTE
+[2024.11.04-05.11.08:538][939]Cmd: EDIT COPY
+[2024.11.04-05.11.08:704][958]Cmd: EDIT PASTE
+[2024.11.04-05.11.13:088][472]Cmd: EDIT COPY
+[2024.11.04-05.11.13:279][495]Cmd: EDIT PASTE
+[2024.11.04-05.11.15:723][780]Cmd: EDIT COPY
+[2024.11.04-05.11.15:931][804]Cmd: EDIT PASTE
+[2024.11.04-05.11.24:145][737]Cmd: EDIT COPY
+[2024.11.04-05.11.24:337][759]Cmd: EDIT PASTE
+[2024.11.04-05.11.31:562][564]Cmd: EDIT COPY
+[2024.11.04-05.11.31:663][576]Cmd: EDIT COPY
+[2024.11.04-05.11.31:938][609]Cmd: EDIT PASTE
+[2024.11.04-05.11.31:938][609]LogConsoleManager: Warning: Performance warning: Many (31) failed FindConsoleObject() for 'EDIT'. 
+[2024.11.04-05.12.23:405][520]Cmd: EDIT COPY
+[2024.11.04-05.12.23:613][545]Cmd: EDIT PASTE
+[2024.11.04-05.12.48:976][474]Cmd: EDIT COPY
+[2024.11.04-05.12.49:151][495]Cmd: EDIT PASTE
+[2024.11.04-05.13.24:352][639]Cmd: EDIT COPY
+[2024.11.04-05.13.24:543][662]Cmd: EDIT PASTE
+[2024.11.04-05.13.27:296][981]Cmd: EDIT COPY
+[2024.11.04-05.13.27:515][  6]Cmd: EDIT PASTE
+[2024.11.04-05.13.56:494][328]Cmd: EDIT COPY
+[2024.11.04-05.13.56:718][355]Cmd: EDIT PASTE
+[2024.11.04-05.14.12:110][173]Cmd: EDIT COPY
+[2024.11.04-05.14.12:302][196]Cmd: EDIT PASTE
+[2024.11.04-05.14.20:701][187]Cmd: EDIT COPY
+[2024.11.04-05.14.20:926][214]Cmd: EDIT PASTE
+[2024.11.04-05.14.37:547][ 18]Cmd: EDIT COPY
+[2024.11.04-05.14.37:739][ 41]Cmd: EDIT PASTE
+[2024.11.04-05.14.42:928][650]Cmd: EDIT COPY
+[2024.11.04-05.15.02:848][854]Cmd: EDIT COPY
+[2024.11.04-05.15.03:056][877]Cmd: EDIT PASTE
+[2024.11.04-05.15.05:757][172]Cmd: TRANSACTION UNDO
+[2024.11.04-05.15.05:757][172]LogEditorTransaction: Undo Scale Elements
+[2024.11.04-05.15.25:215][386]Cmd: EDIT COPY
+[2024.11.04-05.15.25:407][409]Cmd: EDIT PASTE
+[2024.11.04-05.15.38:462][914]Cmd: EDIT COPY
+[2024.11.04-05.15.38:796][954]Cmd: EDIT PASTE
+[2024.11.04-05.16.13:999][970]Cmd: EDIT COPY
+[2024.11.04-05.16.14:258][  1]Cmd: EDIT PASTE
+[2024.11.04-05.16.19:759][650]Cmd: EDIT COPY
+[2024.11.04-05.16.19:950][673]Cmd: EDIT PASTE
+[2024.11.04-05.16.29:419][798]Cmd: TRANSACTION UNDO
+[2024.11.04-05.16.29:419][798]LogEditorTransaction: Undo Move Elements
+[2024.11.04-05.16.29:631][802]Cmd: TRANSACTION UNDO
+[2024.11.04-05.16.29:631][802]LogEditorTransaction: Undo Paste
+[2024.11.04-05.16.29:759][803]Cmd: TRANSACTION UNDO
+[2024.11.04-05.16.29:759][803]LogEditorTransaction: Undo Move Elements
+[2024.11.04-05.16.29:953][806]Cmd: TRANSACTION UNDO
+[2024.11.04-05.16.29:953][806]LogEditorTransaction: Undo Paste
+[2024.11.04-05.17.00:420][381]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-05.17.00:481][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_30 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/3M/4ATOKH0ZGPCVBS85MPKAXK.PackageMetaData in its package
+[2024.11.04-05.17.00:482][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1107229565 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/KX/5XODHDTSO106A155MSV26C.PackageMetaData in its package
+[2024.11.04-05.17.00:482][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1107230566 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/FF/TIZU4Y1LJS89LRA9UMR478.PackageMetaData in its package
+[2024.11.04-05.17.00:482][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1107231567 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/SH/4HJIGA8D8DF60TYJRUC8S3.PackageMetaData in its package
+[2024.11.04-05.17.00:482][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1107232568 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/JK/YEIB2M3Z6Z3CL2P31XZFYY.PackageMetaData in its package
+[2024.11.04-05.17.00:482][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1107233569 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/YE/WWOUUQ2OJ7ONYJCQKPADXN.PackageMetaData in its package
+[2024.11.04-05.17.00:482][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1107234570 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AF/SJMVSCYAMQTPDD6T51TPOP.PackageMetaData in its package
+[2024.11.04-05.17.00:482][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1107234571 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/PC/TWAVVZVO5GPANSJ5HVDN9G.PackageMetaData in its package
+[2024.11.04-05.17.00:482][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1112922572 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/2J/ZIDBBCK540L4GV7LHG2I7J.PackageMetaData in its package
+[2024.11.04-05.17.00:482][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1112923573 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/6S/3GEQA9RMKR7G8FPZTIZDPT.PackageMetaData in its package
+[2024.11.04-05.17.00:482][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1112924574 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/X2/4M7N559XFECVOGNP6E48HR.PackageMetaData in its package
+[2024.11.04-05.17.00:482][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1112924575 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/1P/CQ11OAMBV3BLBU89E4BB2M.PackageMetaData in its package
+[2024.11.04-05.17.00:482][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1112925576 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/8M/QFDXRKCK83GBVYIQW2NA26.PackageMetaData in its package
+[2024.11.04-05.17.00:482][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1112926577 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/PX/MTHGBQ05Z9NLEXQHWNVX75.PackageMetaData in its package
+[2024.11.04-05.17.00:482][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1112926578 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/A8/5OCAI059RYRMNQU8N53GGG.PackageMetaData in its package
+[2024.11.04-05.17.00:482][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2024.11.04-05.17.00:486][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2024.11.04-05.17.00:488][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2024.11.04-05.17.00:517][381]LogPackageLocalizationCache: Processed 46 localized package path(s) for 1 prioritized culture(s) in 0.018551 seconds
+[2024.11.04-05.17.00:518][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/8L/KR97CGSRJLKWKTKMDFRVF2
+[2024.11.04-05.17.00:518][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/KR97CGSRJLKWKTKMDFRVF2169A4FAA4F75374DCF4451972B89DFA3.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/8L/KR97CGSRJLKWKTKMDFRVF2.uasset'
+[2024.11.04-05.17.00:520][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/DW/PBDGTLCB0LH040NVTBBE4J
+[2024.11.04-05.17.00:520][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/PBDGTLCB0LH040NVTBBE4J1A41621643298F4880E211975BA3B69B.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/DW/PBDGTLCB0LH040NVTBBE4J.uasset'
+[2024.11.04-05.17.00:521][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/E7/JRU2Q1TL6GX5W968H0LZFI
+[2024.11.04-05.17.00:521][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/JRU2Q1TL6GX5W968H0LZFIDB2ACD9F4D037189A5CE47AE80217BFD.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/E7/JRU2Q1TL6GX5W968H0LZFI.uasset'
+[2024.11.04-05.17.00:523][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/5B/2KL8399G4Y7Z4HRNP627D5
+[2024.11.04-05.17.00:523][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/2KL8399G4Y7Z4HRNP627D510182D1C47E3AEE7CFFDFA8635306173.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/5B/2KL8399G4Y7Z4HRNP627D5.uasset'
+[2024.11.04-05.17.00:525][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UD/R0N8R8Z60INN1FXN08K712
+[2024.11.04-05.17.00:525][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/R0N8R8Z60INN1FXN08K7126940320B4A82BABDFA5B59B0A8C7190E.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UD/R0N8R8Z60INN1FXN08K712.uasset'
+[2024.11.04-05.17.00:526][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/8X/H9BZUPQK7NEA6IR0ZDETJP
+[2024.11.04-05.17.00:527][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/H9BZUPQK7NEA6IR0ZDETJP5E785DCC4767E624EEBE7B97865BBACF.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/8X/H9BZUPQK7NEA6IR0ZDETJP.uasset'
+[2024.11.04-05.17.00:528][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/I3/WVD3OZXN6H2COYR3JRSI09
+[2024.11.04-05.17.00:528][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/WVD3OZXN6H2COYR3JRSI09E758477C4117508664D18B8B7F02B989.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/I3/WVD3OZXN6H2COYR3JRSI09.uasset'
+[2024.11.04-05.17.00:530][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/ZH/LFRRA6X51KVIYWB0Y0P6DP
+[2024.11.04-05.17.00:530][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/LFRRA6X51KVIYWB0Y0P6DPFB2A429F405B12C681C976A5EC6EFB59.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/ZH/LFRRA6X51KVIYWB0Y0P6DP.uasset'
+[2024.11.04-05.17.00:532][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/W8/H20T577Y64X6QVSTBTJY9D
+[2024.11.04-05.17.00:532][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/H20T577Y64X6QVSTBTJY9DBA3CD0164B74C41A9032CE83BD6211FE.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/W8/H20T577Y64X6QVSTBTJY9D.uasset'
+[2024.11.04-05.17.00:534][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/Z1/D0I3NJYSBETTNQ1XI8T4GO
+[2024.11.04-05.17.00:534][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/D0I3NJYSBETTNQ1XI8T4GOD1E9BCC2459677FBB557ADA94030C2ED.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/Z1/D0I3NJYSBETTNQ1XI8T4GO.uasset'
+[2024.11.04-05.17.00:536][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/62/5RUFOLVYZ83T157IYPS5T8
+[2024.11.04-05.17.00:536][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/5RUFOLVYZ83T157IYPS5T84D9BFA3E4DDC99D7C9890989510D226D.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/62/5RUFOLVYZ83T157IYPS5T8.uasset'
+[2024.11.04-05.17.00:538][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/68/ILE3UDJ9OSI0IGWG49WVY3
+[2024.11.04-05.17.00:538][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/ILE3UDJ9OSI0IGWG49WVY333FE7CF241E187E2C07674983CF0017E.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/68/ILE3UDJ9OSI0IGWG49WVY3.uasset'
+[2024.11.04-05.17.00:540][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/YE/BC776DV7LV2SUYEJFAJY3S
+[2024.11.04-05.17.00:540][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/BC776DV7LV2SUYEJFAJY3S33069728414AB028DCE9179AAFA6D833.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/YE/BC776DV7LV2SUYEJFAJY3S.uasset'
+[2024.11.04-05.17.00:541][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/RA/U8GBX9X2TYG2EFRLH9HCFC
+[2024.11.04-05.17.00:541][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/U8GBX9X2TYG2EFRLH9HCFC468B702D4A1AD0FC598319995CDAFE3E.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/RA/U8GBX9X2TYG2EFRLH9HCFC.uasset'
+[2024.11.04-05.17.00:542][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/BO/D3810ZOJTA3BO7QIC8W9HD
+[2024.11.04-05.17.00:543][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/D3810ZOJTA3BO7QIC8W9HD18373C754842530B74A2289B150BBBF9.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/BO/D3810ZOJTA3BO7QIC8W9HD.uasset'
+[2024.11.04-05.17.00:544][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/HS/SJLIWQHY1ZXQ2YDOZK8OA9
+[2024.11.04-05.17.00:544][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/SJLIWQHY1ZXQ2YDOZK8OA999B4FA0F4E8F601EBAF736A8D8EDED1A.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/HS/SJLIWQHY1ZXQ2YDOZK8OA9.uasset'
+[2024.11.04-05.17.00:547][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/5D/4J28CSLP8A1ZVTBNHX5604
+[2024.11.04-05.17.00:547][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/4J28CSLP8A1ZVTBNHX5604B47D34C24F9CB4EDAD9117AB96AACA1C.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/5D/4J28CSLP8A1ZVTBNHX5604.uasset'
+[2024.11.04-05.17.00:549][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/Z2/JEZ0QJ8YFAKNDC6R8H46VU
+[2024.11.04-05.17.00:549][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/JEZ0QJ8YFAKNDC6R8H46VU472053504567179CE85C729D699A8D78.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/Z2/JEZ0QJ8YFAKNDC6R8H46VU.uasset'
+[2024.11.04-05.17.00:550][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/JO/L1DJXBELMJ1519J51VZIIC
+[2024.11.04-05.17.00:550][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/L1DJXBELMJ1519J51VZIIC150B137443902E4F07FA10804D352C40.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/JO/L1DJXBELMJ1519J51VZIIC.uasset'
+[2024.11.04-05.17.00:551][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/2D/3SHN6G75IO6L3VVOVUAVN0
+[2024.11.04-05.17.00:551][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/3SHN6G75IO6L3VVOVUAVN0F3B2CDEE4FB2DE1996C576A3D560AD27.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/2D/3SHN6G75IO6L3VVOVUAVN0.uasset'
+[2024.11.04-05.17.00:554][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/HZ/V4J0Y22VSP5SDUDKR16GZI
+[2024.11.04-05.17.00:554][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/V4J0Y22VSP5SDUDKR16GZIE93A52B6484F5A94AFAA1BB5783A2A71.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/HZ/V4J0Y22VSP5SDUDKR16GZI.uasset'
+[2024.11.04-05.17.00:556][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/ZT/88UZVPWA4AEIGTRGH6OE26
+[2024.11.04-05.17.00:556][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/88UZVPWA4AEIGTRGH6OE268BE1991D44DBFC25198666A002D1C0AF.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/ZT/88UZVPWA4AEIGTRGH6OE26.uasset'
+[2024.11.04-05.17.00:557][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/F1/NDZTJJ5XM2C9DZLVM5FVOU
+[2024.11.04-05.17.00:557][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/NDZTJJ5XM2C9DZLVM5FVOUD678ACB74296EC939B6DC3BF5290C4EB.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/F1/NDZTJJ5XM2C9DZLVM5FVOU.uasset'
+[2024.11.04-05.17.00:559][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/Y3/OFIC462K8LLHDMUXEBXWTT
+[2024.11.04-05.17.00:559][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/OFIC462K8LLHDMUXEBXWTTAAED77524A150D3AA0F2AA91C109B394.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/Y3/OFIC462K8LLHDMUXEBXWTT.uasset'
+[2024.11.04-05.17.00:561][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/HU/07AFUC1KEE0RF79OZH9AL7
+[2024.11.04-05.17.00:561][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/07AFUC1KEE0RF79OZH9AL7116A946E4461F5C5C2D5A5A5B154372C.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/HU/07AFUC1KEE0RF79OZH9AL7.uasset'
+[2024.11.04-05.17.00:563][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/31/NIPXR3R57G2C2HJWSCIBI5
+[2024.11.04-05.17.00:563][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/NIPXR3R57G2C2HJWSCIBI58BA0C24B44788F8970FD0ABD0819E6A4.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/31/NIPXR3R57G2C2HJWSCIBI5.uasset'
+[2024.11.04-05.17.00:565][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/V6/E5HF1LH06RRFNNJFUNJDB2
+[2024.11.04-05.17.00:565][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/E5HF1LH06RRFNNJFUNJDB29B7648EC47BE5EE16351BCBD799FCBE0.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/V6/E5HF1LH06RRFNNJFUNJDB2.uasset'
+[2024.11.04-05.17.00:567][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/4Z/I69L6JISS4QZ5OEALGH2NB
+[2024.11.04-05.17.00:567][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/I69L6JISS4QZ5OEALGH2NB924091F44D7875F7BA27918CAE1D88C6.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/4Z/I69L6JISS4QZ5OEALGH2NB.uasset'
+[2024.11.04-05.17.00:569][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/QX/ZQ42ERDKF0YG95NWWG14HS
+[2024.11.04-05.17.00:569][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/ZQ42ERDKF0YG95NWWG14HSDC61D9864E1CF85B533B3FB321523BCC.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/QX/ZQ42ERDKF0YG95NWWG14HS.uasset'
+[2024.11.04-05.17.00:571][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/H3/T40K9U80L97U18HLBIRMA9
+[2024.11.04-05.17.00:571][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/T40K9U80L97U18HLBIRMA9BFCBBF9E4A5027291D43EC9D8E0BB8CA.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/H3/T40K9U80L97U18HLBIRMA9.uasset'
+[2024.11.04-05.17.00:573][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/W5/E79KPMY1NAYPW36O4SFE5V
+[2024.11.04-05.17.00:573][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/E79KPMY1NAYPW36O4SFE5VAA3419D0412C00ABCFF0AC8943FA6797.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/W5/E79KPMY1NAYPW36O4SFE5V.uasset'
+[2024.11.04-05.17.00:574][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/IT/7IDX7E0X5GRG3MXEKB29AW
+[2024.11.04-05.17.00:574][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/7IDX7E0X5GRG3MXEKB29AW4CDBA2B2477016D78A27E7B0B6250EF7.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/IT/7IDX7E0X5GRG3MXEKB29AW.uasset'
+[2024.11.04-05.17.00:576][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/N4/LP6FTJLJ3LSXR33XXA96WU
+[2024.11.04-05.17.00:576][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/LP6FTJLJ3LSXR33XXA96WU11DC71D042248CD2EDC17EBBD1FDC315.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/N4/LP6FTJLJ3LSXR33XXA96WU.uasset'
+[2024.11.04-05.17.00:578][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/HI/E0D2E0C7S9NANF6RYCYHKM
+[2024.11.04-05.17.00:578][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/E0D2E0C7S9NANF6RYCYHKM342BEDDC48BF1AC64C3E039113493CE3.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/HI/E0D2E0C7S9NANF6RYCYHKM.uasset'
+[2024.11.04-05.17.00:580][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/BF/YV198GQ8H5TEMQ964NIFHB
+[2024.11.04-05.17.00:580][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/YV198GQ8H5TEMQ964NIFHB9E4DAFFF40031B8E7B725E9242821B45.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/BF/YV198GQ8H5TEMQ964NIFHB.uasset'
+[2024.11.04-05.17.00:582][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/82/RQEETVY2EFLWCA69UQO2CA
+[2024.11.04-05.17.00:582][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/RQEETVY2EFLWCA69UQO2CA286CC76E407EC2712871CEA1F90696CD.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/82/RQEETVY2EFLWCA69UQO2CA.uasset'
+[2024.11.04-05.17.00:584][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/XE/4CAXGP2C8U4ZIM8ETJW201
+[2024.11.04-05.17.00:584][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/4CAXGP2C8U4ZIM8ETJW201DFB23B734B797F39CEB833A9C4F4885F.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/XE/4CAXGP2C8U4ZIM8ETJW201.uasset'
+[2024.11.04-05.17.00:586][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/0L/5CHT0QG13T8LF8YJG2WU63
+[2024.11.04-05.17.00:586][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/5CHT0QG13T8LF8YJG2WU6385052AA04C71AAC7FE48C599CC30284E.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/0L/5CHT0QG13T8LF8YJG2WU63.uasset'
+[2024.11.04-05.17.00:587][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/5O/7STNXGKC9V05BPV6ON0P8S
+[2024.11.04-05.17.00:587][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/7STNXGKC9V05BPV6ON0P8SBAA5A9C54E9D8B16AF8013897186F786.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/5O/7STNXGKC9V05BPV6ON0P8S.uasset'
+[2024.11.04-05.17.00:589][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/H0/1HNGZPPX4J6QLWE76MBA9S
+[2024.11.04-05.17.00:589][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/1HNGZPPX4J6QLWE76MBA9SAC91154B4F40794E1FDB0D8F6C6A5CC4.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/H0/1HNGZPPX4J6QLWE76MBA9S.uasset'
+[2024.11.04-05.17.00:591][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/8Q/INX2AAKOAVEBJKV6H7ORRK
+[2024.11.04-05.17.00:591][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/INX2AAKOAVEBJKV6H7ORRK2FA7F170435AD6475151A99057597FAD.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/8Q/INX2AAKOAVEBJKV6H7ORRK.uasset'
+[2024.11.04-05.17.00:592][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/90/S9D2HH2HLFJBXJISW9P5LI
+[2024.11.04-05.17.00:592][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/S9D2HH2HLFJBXJISW9P5LI5E7BDFC34D3384A15C6B058F86D5E224.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/90/S9D2HH2HLFJBXJISW9P5LI.uasset'
+[2024.11.04-05.17.00:594][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/ET/PEAVUE1YL34D9EAH2I0O6O
+[2024.11.04-05.17.00:594][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/PEAVUE1YL34D9EAH2I0O6OCBAA4FC440EC962ADDA82DA5629ED50A.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/ET/PEAVUE1YL34D9EAH2I0O6O.uasset'
+[2024.11.04-05.17.00:596][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/1G/WI79XS7GX8YMCPLS7QWR28
+[2024.11.04-05.17.00:596][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/WI79XS7GX8YMCPLS7QWR28D643C7354D21C2184227F3A9A9DC4399.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/1G/WI79XS7GX8YMCPLS7QWR28.uasset'
+[2024.11.04-05.17.00:598][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/V3/TSQBSUYUKUT2LC57RFFW6W
+[2024.11.04-05.17.00:598][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/TSQBSUYUKUT2LC57RFFW6WC014C5344E375285B9DEA1B56521F146.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/V3/TSQBSUYUKUT2LC57RFFW6W.uasset'
+[2024.11.04-05.17.00:600][381]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/AN/23LO6ZFVTKHSC64M2OMY3P
+[2024.11.04-05.17.00:600][381]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/23LO6ZFVTKHSC64M2OMY3P90369B2E48A83406514F3895D620D2FB.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/AN/23LO6ZFVTKHSC64M2OMY3P.uasset'
+[2024.11.04-05.17.00:612][381]LogFileHelpers: InternalPromptForCheckoutAndSave took 191 ms (total: 258 ms)
+[2024.11.04-05.17.00:624][381]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_1677030343
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_1693748344
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_1697545345
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_1724596346
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_1791386347
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_1795795348
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_1810504349
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_1820456350
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_1820457351
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_1858584352
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_1861702353
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_1875417354
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_1879992355
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_1882644356
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_1891051357
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_1898651358
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_1950327359
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_1975865360
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_2011257361
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_2014228362
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_2043431363
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_2059015364
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_2067640365
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_2084453366
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_2109770367
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_2109771368
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_2109772369
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_2109773370
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_2109773371
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_2109774372
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_2109775373
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_2132120374
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_2132121375
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_2132122376
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_2132123377
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_2132124378
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_2132124379
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_2132125380
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_2145509381
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_2145510382
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_2145511383
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_2145512384
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_2145513385
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_2145514386
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_2145514387
+[2024.11.04-05.17.00:624][381]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_2145515388
+[2024.11.04-05.17.00:627][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_13 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/0M/LYKU8MRWM4BO3O1FDZBG2U.PackageMetaData in its package
+[2024.11.04-05.17.00:627][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_26 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/7P/QZX5AESKLO855EVPT5JU20.PackageMetaData in its package
+[2024.11.04-05.17.00:627][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_45 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/NB/NWWEVRQSGT6ARVZ8HQLCM9.PackageMetaData in its package
+[2024.11.04-05.17.00:627][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_25 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/2J/R4MRTH8FEAO7ML1BCJFIZ2.PackageMetaData in its package
+[2024.11.04-05.17.00:627][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_12 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/63/MG6FOV6QQX2CAZCGF7O9MM.PackageMetaData in its package
+[2024.11.04-05.17.00:627][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_23 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/JT/XIHYQ8ZTVL6F9GCUZX1AQ2.PackageMetaData in its package
+[2024.11.04-05.17.00:627][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_50 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/QL/31H7DJTVWEX04CCMX5U1SN.PackageMetaData in its package
+[2024.11.04-05.17.00:627][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_6 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/0O/4IRR0TBO7VGKMMYSZRQTB1.PackageMetaData in its package
+[2024.11.04-05.17.00:627][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_1 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/C8/Z38FT77DKZLKDXTQ7PZNM4.PackageMetaData in its package
+[2024.11.04-05.17.00:627][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_47 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/YY/ZEL6NJUQJU43LAD9X3NXTT.PackageMetaData in its package
+[2024.11.04-05.17.00:627][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_42 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/G2/DXY1ROMU8NVTUPH999VNGV.PackageMetaData in its package
+[2024.11.04-05.17.00:627][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_24 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/PT/ZXUQMNLL9GZ2UNQ5D0R4A4.PackageMetaData in its package
+[2024.11.04-05.17.00:627][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_15 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/80/QQN0UFFAA797E1UT4IMD29.PackageMetaData in its package
+[2024.11.04-05.17.00:627][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_Rifle_C_1 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/8C/EAHCBN229IT8APJO305AH5.PackageMetaData in its package
+[2024.11.04-05.17.00:627][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_33 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/DI/1JZHHCOBVQ2F5XRUWSES1X.PackageMetaData in its package
+[2024.11.04-05.17.00:627][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_34 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/7Z/7EHFAZ5HVWXAWQ04QO5TH0.PackageMetaData in its package
+[2024.11.04-05.17.00:628][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_17 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/HC/FI3CQDKJY4J00D2B21FYQZ.PackageMetaData in its package
+[2024.11.04-05.17.00:628][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_21 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/5X/6EW8RE9VA2GGHRWK614FCI.PackageMetaData in its package
+[2024.11.04-05.17.00:628][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_22 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/DF/1GID8P6B00XRWKYCXU7HT1.PackageMetaData in its package
+[2024.11.04-05.17.00:628][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_43 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/GI/GZM47KS5FPIQH5TLSYC1ME.PackageMetaData in its package
+[2024.11.04-05.17.00:628][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_49 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/WS/X084A70TPBKFLJDCV2U5PN.PackageMetaData in its package
+[2024.11.04-05.17.00:628][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_41 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/80/RCXALNT3NG94XMV0V6D4XE.PackageMetaData in its package
+[2024.11.04-05.17.00:628][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_44 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CF/ZNIOCRD90Z70MMV9NMW778.PackageMetaData in its package
+[2024.11.04-05.17.00:628][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_14 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/CW/6HT16P8P5RAXNJG3EVYWE9.PackageMetaData in its package
+[2024.11.04-05.17.00:628][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_8 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/SZ/D1AHM62WL9TXSNPYQDXQMZ.PackageMetaData in its package
+[2024.11.04-05.17.00:628][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_46 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Y4/KY9ZXT77SAVGWBRTNCFCSC.PackageMetaData in its package
+[2024.11.04-05.17.00:628][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_18 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/6K/53TOYTOLDEUBMS5SLUFP3V.PackageMetaData in its package
+[2024.11.04-05.17.00:628][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_19 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/JW/IY5R6I5N0YWU9LYWKXFXH9.PackageMetaData in its package
+[2024.11.04-05.17.00:628][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_32 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/OJ/9MHHMH0XHVZ04YDZ7NPC32.PackageMetaData in its package
+[2024.11.04-05.17.00:628][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_31 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/Q2/TOKV0KMMZ7RIQ78R0UEDQL.PackageMetaData in its package
+[2024.11.04-05.17.00:628][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_16 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/VP/FVTPO8KZ0WPMCSQLVJE6O9.PackageMetaData in its package
+[2024.11.04-05.17.00:628][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_37 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/2W/U0XT0R08XQA6C15NK8ILFA.PackageMetaData in its package
+[2024.11.04-05.17.00:628][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_51 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/91/64ROQWZ22CQVFJMU4XABML.PackageMetaData in its package
+[2024.11.04-05.17.00:628][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_35 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/RJ/Z7CLKO8GGJ7RXH5PUAF4T4.PackageMetaData in its package
+[2024.11.04-05.17.00:628][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_28 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/51/6JKB4DNGJP09QUHY23FHRV.PackageMetaData in its package
+[2024.11.04-05.17.00:628][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_27 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/DD/654T6CAPVSXAN1LXEX71EI.PackageMetaData in its package
+[2024.11.04-05.17.00:628][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_36 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/EF/G3O7YJR3QU51OHQGRYB635.PackageMetaData in its package
+[2024.11.04-05.17.00:628][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_38 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/YQ/KT6JL4FVCNJJ9VFOCSF32J.PackageMetaData in its package
+[2024.11.04-05.17.00:628][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_29 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/P8/0GJ9TLQE2YKOIFZ6YHG33H.PackageMetaData in its package
+[2024.11.04-05.17.00:628][381]LogWorldPartition: Actor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_20 is unreachable without properly detaching object /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/F/2F/0SPQG8P507LI9VUAFG20OA.PackageMetaData in its package
+[2024.11.04-05.17.00:628][381]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.11.04-05.17.00:639][382]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2024.11.04-05.17.16:209][ 17]Cmd: EDIT COPY
+[2024.11.04-05.17.16:410][ 40]Cmd: EDIT PASTE
+[2024.11.04-05.17.19:953][452]Cmd: EDIT COPY
+[2024.11.04-05.17.20:127][473]Cmd: EDIT PASTE
+[2024.11.04-05.17.31:019][648]Cmd: EDIT COPY
+[2024.11.04-05.17.31:228][672]Cmd: EDIT PASTE
+[2024.11.04-05.17.59:339][930]Cmd: EDIT COPY
+[2024.11.04-05.17.59:514][950]Cmd: EDIT PASTE
+[2024.11.04-05.18.24:896][843]Cmd: EDIT COPY
+[2024.11.04-05.18.25:071][864]Cmd: EDIT PASTE
+[2024.11.04-05.18.48:480][583]Cmd: DELETE
+[2024.11.04-05.18.48:480][583]Cmd: ACTOR DELETE
+[2024.11.04-05.18.48:482][583]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.18.48:485][583]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2024.11.04-05.18.48:486][583]LogEditorActor: Deleted 1 Actors (0.005 secs)
+[2024.11.04-05.18.49:133][652]Cmd: DELETE
+[2024.11.04-05.18.49:133][652]Cmd: ACTOR DELETE
+[2024.11.04-05.18.49:134][652]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.18.49:138][652]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.11.04-05.18.49:139][652]LogEditorActor: Deleted 1 Actors (0.005 secs)
+[2024.11.04-05.18.52:154][  5]Cmd: DELETE
+[2024.11.04-05.18.52:154][  5]Cmd: ACTOR DELETE
+[2024.11.04-05.18.52:155][  5]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.18.52:159][  5]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2024.11.04-05.18.52:160][  5]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2024.11.04-05.18.52:864][ 83]Cmd: DELETE
+[2024.11.04-05.18.52:864][ 83]Cmd: ACTOR DELETE
+[2024.11.04-05.18.52:865][ 83]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.18.52:868][ 83]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2024.11.04-05.18.52:870][ 83]LogEditorActor: Deleted 1 Actors (0.005 secs)
+[2024.11.04-05.18.54:019][206]Cmd: DELETE
+[2024.11.04-05.18.54:019][206]Cmd: ACTOR DELETE
+[2024.11.04-05.18.54:021][206]LogEditorActor: Deleted Actor: TextRenderActor
+[2024.11.04-05.18.54:025][206]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2024.11.04-05.18.54:026][206]LogEditorActor: Deleted 1 Actors (0.007 secs)
+[2024.11.04-05.18.56:373][485]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-05.18.56:410][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.24ms
+[2024.11.04-05.18.56:412][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2024.11.04-05.18.56:415][485]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2024.11.04-05.18.56:418][485]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/BO/D3810ZOJTA3BO7QIC8W9HD
+[2024.11.04-05.18.56:419][485]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/D3810ZOJTA3BO7QIC8W9HD7106FECF4A1FB58978813CAA31504841.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/BO/D3810ZOJTA3BO7QIC8W9HD.uasset'
+[2024.11.04-05.18.56:421][485]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/HS/SJLIWQHY1ZXQ2YDOZK8OA9
+[2024.11.04-05.18.56:421][485]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/SJLIWQHY1ZXQ2YDOZK8OA9F8FDCBF447500A50C58CE4AC40A2F0E8.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/HS/SJLIWQHY1ZXQ2YDOZK8OA9.uasset'
+[2024.11.04-05.18.56:423][485]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/HG/SA72J5Y7S837OHU2F8P7JO
+[2024.11.04-05.18.56:423][485]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/SA72J5Y7S837OHU2F8P7JODF3141E24E9DD220B0FEE38AB089B7DF.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/HG/SA72J5Y7S837OHU2F8P7JO.uasset'
+[2024.11.04-05.18.56:425][485]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/G9/TLDA1QPWKTWX2Y7T1D990C
+[2024.11.04-05.18.56:425][485]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/TLDA1QPWKTWX2Y7T1D990C9DC7B08F458BEA2F4E9A1B8AF51B3FF6.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/G9/TLDA1QPWKTWX2Y7T1D990C.uasset'
+[2024.11.04-05.18.56:426][485]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/AL/ML7ATF5NCBNKBUNB8HP52Y
+[2024.11.04-05.18.56:426][485]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/ML7ATF5NCBNKBUNB8HP52Y4A99048E43B2D1F84C00DE854C690A6E.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/AL/ML7ATF5NCBNKBUNB8HP52Y.uasset'
+[2024.11.04-05.18.56:428][485]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/KL/1VGHQ6IS21E5P402CV067B
+[2024.11.04-05.18.56:428][485]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/1VGHQ6IS21E5P402CV067B52226A4A4DE9C8745007479C2B030B75.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/KL/1VGHQ6IS21E5P402CV067B.uasset'
+[2024.11.04-05.18.56:430][485]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/NN/LE56N0G2GUW4ALTBHVEIMF
+[2024.11.04-05.18.56:430][485]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/LE56N0G2GUW4ALTBHVEIMF6A6DE4584194DCFACF6831B89E3F4B7D.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/NN/LE56N0G2GUW4ALTBHVEIMF.uasset'
+[2024.11.04-05.18.56:431][485]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/KU/TR1FI1OTTYXJHJOX6VYZ5M
+[2024.11.04-05.18.56:431][485]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/TR1FI1OTTYXJHJOX6VYZ5MDC031DAC45BC46E5AAFA819563061BD0.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/KU/TR1FI1OTTYXJHJOX6VYZ5M.uasset'
+[2024.11.04-05.18.56:433][485]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/KA/JEYLTCM2O0WNX8S445LVO9
+[2024.11.04-05.18.56:433][485]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/JEYLTCM2O0WNX8S445LVO9F803B9C84E886D0DA89BA590F691AD76.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/KA/JEYLTCM2O0WNX8S445LVO9.uasset'
+[2024.11.04-05.18.56:435][485]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/1R/H3NSIKUKW46CH5LO018VFR
+[2024.11.04-05.18.56:435][485]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/H3NSIKUKW46CH5LO018VFRAC66BA6944ADDA26350BB6B7A677EB55.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/1R/H3NSIKUKW46CH5LO018VFR.uasset'
+[2024.11.04-05.18.56:437][485]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/EV/IU323AUR9885RND2Q8I5DJ
+[2024.11.04-05.18.56:437][485]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/IU323AUR9885RND2Q8I5DJ0E04210941A2B19A405B5BBB762A8586.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/EV/IU323AUR9885RND2Q8I5DJ.uasset'
+[2024.11.04-05.18.56:439][485]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/BH/IXCD3J9O6KWVP8SHH0HJUG
+[2024.11.04-05.18.56:439][485]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/IXCD3J9O6KWVP8SHH0HJUGDA7391C04EBD26E442974686F90AD44B.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/BH/IXCD3J9O6KWVP8SHH0HJUG.uasset'
+[2024.11.04-05.18.56:441][485]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/P4/YUOIRUY1TIM1SMRUNGKT5Q
+[2024.11.04-05.18.56:441][485]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/YUOIRUY1TIM1SMRUNGKT5QA57DF50147ACBFB7D92033B8C59DB853.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/P4/YUOIRUY1TIM1SMRUNGKT5Q.uasset'
+[2024.11.04-05.18.56:443][485]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/IW/DQ0V8QM2KX315EWHM8LW2P
+[2024.11.04-05.18.56:443][485]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/DQ0V8QM2KX315EWHM8LW2P793CD1854B74D7B4742B5399E32F40C1.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/IW/DQ0V8QM2KX315EWHM8LW2P.uasset'
+[2024.11.04-05.18.56:445][485]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/BT/DTZH5WT0AFGRMS4GNHXEZ3
+[2024.11.04-05.18.56:445][485]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/DTZH5WT0AFGRMS4GNHXEZ3463C2A8742FA3A35B6E4C6B4EF56F2A1.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/BT/DTZH5WT0AFGRMS4GNHXEZ3.uasset'
+[2024.11.04-05.18.56:446][485]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/B4/UQXCSB75TUPMJXJLMTB1AX
+[2024.11.04-05.18.56:446][485]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/UQXCSB75TUPMJXJLMTB1AXE600347D47ED465903CAE9A05DE43A8E.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/B4/UQXCSB75TUPMJXJLMTB1AX.uasset'
+[2024.11.04-05.18.56:448][485]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/SC/PZDIWGZOBYK0C882WJPA00
+[2024.11.04-05.18.56:448][485]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/PZDIWGZOBYK0C882WJPA0047B3227341B1F7DD6FCF43B338DA4E32.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/SC/PZDIWGZOBYK0C882WJPA00.uasset'
+[2024.11.04-05.18.56:450][485]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/I1/NFMMCTZLL0FGH9Q1NT1EF4
+[2024.11.04-05.18.56:450][485]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/NFMMCTZLL0FGH9Q1NT1EF4CFE096F741F6A3CB0E9FE485C3187305.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/I1/NFMMCTZLL0FGH9Q1NT1EF4.uasset'
+[2024.11.04-05.18.56:452][485]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/LT/E3IFDVRMAJ46DVCU0BRJCN
+[2024.11.04-05.18.56:452][485]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/E3IFDVRMAJ46DVCU0BRJCNBE0FAC7C407D3EC4E317B8B4F94C1229.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/LT/E3IFDVRMAJ46DVCU0BRJCN.uasset'
+[2024.11.04-05.18.56:463][485]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 350 ms)
+[2024.11.04-05.18.56:470][485]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.04-05.18.56:470][485]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_1891051357
+[2024.11.04-05.18.56:470][485]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3B2C02_1898651358
+[2024.11.04-05.18.56:470][485]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1169381579
+[2024.11.04-05.18.56:470][485]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1169383580
+[2024.11.04-05.18.56:470][485]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1169383581
+[2024.11.04-05.18.56:470][485]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1169384582
+[2024.11.04-05.18.56:470][485]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1169384583
+[2024.11.04-05.18.56:470][485]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1169385584
+[2024.11.04-05.18.56:470][485]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1169386585
+[2024.11.04-05.18.56:470][485]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1173099586
+[2024.11.04-05.18.56:470][485]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1173100587
+[2024.11.04-05.18.56:470][485]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1173101588
+[2024.11.04-05.18.56:470][485]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1173102589
+[2024.11.04-05.18.56:470][485]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1173103590
+[2024.11.04-05.18.56:470][485]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1173103591
+[2024.11.04-05.18.56:470][485]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1173104592
+[2024.11.04-05.18.56:470][485]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1184200593
+[2024.11.04-05.18.56:470][485]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1212486594
+[2024.11.04-05.18.56:470][485]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1238042595
+[2024.11.04-05.19.02:490][163]Cmd: EDIT COPY
+[2024.11.04-05.19.02:690][187]Cmd: EDIT PASTE
+[2024.11.04-05.19.11:777][258]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2024.11.04-05.19.17:985][944]Cmd: EDIT COPY
+[2024.11.04-05.19.18:169][965]Cmd: EDIT PASTE
+[2024.11.04-05.19.21:023][296]Cmd: EDIT COPY
+[2024.11.04-05.19.21:249][323]Cmd: EDIT PASTE
+[2024.11.04-05.19.32:186][614]Cmd: EDIT COPY
+[2024.11.04-05.19.32:410][641]Cmd: EDIT PASTE
+[2024.11.04-05.20.42:090][716]Cmd: EDIT COPY
+[2024.11.04-05.20.42:278][738]Cmd: EDIT PASTE
+[2024.11.04-05.20.51:787][830]Cmd: EDIT COPY
+[2024.11.04-05.20.51:996][855]Cmd: EDIT PASTE
+[2024.11.04-05.20.55:532][265]Cmd: EDIT COPY
+[2024.11.04-05.20.55:740][290]Cmd: EDIT PASTE
+[2024.11.04-05.21.15:519][602]Cmd: EDIT COPY
+[2024.11.04-05.21.15:786][634]Cmd: EDIT PASTE
+[2024.11.04-05.27.05:622][890]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.11.04-05.27.05:627][890]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB_Auto1
+[2024.11.04-05.27.05:627][890]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/1ZJ54FMA0DAL3I2Q8RFAIB_Auto1060445A14DDC3512443AF6A5456075BE.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB_Auto1.uasset'
+[2024.11.04-05.27.05:629][890]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/K0/QFV6N27LEBSR6Y9NU1NVS3_Auto1
+[2024.11.04-05.27.05:629][890]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/QFV6N27LEBSR6Y9NU1NVS3_Auto1DC4736D34D30332545DAA9B427072BCE.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/K0/QFV6N27LEBSR6Y9NU1NVS3_Auto1.uasset'
+[2024.11.04-05.27.05:631][890]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/YO/V6AJQQRIDEW9V7C299M00S_Auto1
+[2024.11.04-05.27.05:631][890]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/V6AJQQRIDEW9V7C299M00S_Auto147D3AC934DB25C244D8F3D97B7C115E3.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/YO/V6AJQQRIDEW9V7C299M00S_Auto1.uasset'
+[2024.11.04-05.27.05:633][890]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/5E/STMY1H3WQPXNY3OPG9LQJH_Auto1
+[2024.11.04-05.27.05:633][890]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/STMY1H3WQPXNY3OPG9LQJH_Auto14AC1253A493A515879106BB75CE0E44D.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/5E/STMY1H3WQPXNY3OPG9LQJH_Auto1.uasset'
+[2024.11.04-05.27.05:635][890]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/A7/P0PKERSUAC155C1W3IAOSZ_Auto1
+[2024.11.04-05.27.05:635][890]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/P0PKERSUAC155C1W3IAOSZ_Auto1FF63805F4982D675C5B1D88A8046914B.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/A7/P0PKERSUAC155C1W3IAOSZ_Auto1.uasset'
+[2024.11.04-05.27.05:637][890]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/B4/A2YW9PEAP9TJMP25E032R0_Auto1
+[2024.11.04-05.27.05:637][890]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/A2YW9PEAP9TJMP25E032R0_Auto19A83FA1F4D124C14284C2C868465E462.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/B4/A2YW9PEAP9TJMP25E032R0_Auto1.uasset'
+[2024.11.04-05.27.05:639][890]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/M7/0VV555USOPW8H83Z4PIQU9_Auto1
+[2024.11.04-05.27.05:639][890]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/0VV555USOPW8H83Z4PIQU9_Auto1C516B4D64DA2C294B119298D0B4F5802.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/M7/0VV555USOPW8H83Z4PIQU9_Auto1.uasset'
+[2024.11.04-05.27.05:641][890]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/PM/WHKP47H34UBQLKAXJQUW9E_Auto1
+[2024.11.04-05.27.05:641][890]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/WHKP47H34UBQLKAXJQUW9E_Auto1D5C48F72460EC04D21CBF5BAC1DFF992.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/PM/WHKP47H34UBQLKAXJQUW9E_Auto1.uasset'
+[2024.11.04-05.27.05:643][890]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/71/21ZG2AB4JCVGAWT3F1QM6X_Auto1
+[2024.11.04-05.27.05:643][890]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/21ZG2AB4JCVGAWT3F1QM6X_Auto12DBB33764342279CE3F2A386F21D286D.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/71/21ZG2AB4JCVGAWT3F1QM6X_Auto1.uasset'
+[2024.11.04-05.27.05:644][890]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.026
+[2024.11.04-05.27.05:644][890]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.026
+[2024.11.04-05.29.10:384][778]Cmd: EDIT COPY
+[2024.11.04-05.29.10:626][807]Cmd: EDIT PASTE
+[2024.11.04-05.29.17:743][646]Cmd: EDIT COPY
+[2024.11.04-05.29.17:901][665]Cmd: EDIT PASTE
+[2024.11.04-05.29.35:387][619]Cmd: EDIT COPY
+[2024.11.04-05.29.35:595][644]Cmd: EDIT PASTE
+[2024.11.04-05.29.51:901][521]Cmd: EDIT COPY
+[2024.11.04-05.29.52:111][546]Cmd: EDIT PASTE
+[2024.11.04-05.30.07:516][231]Cmd: EDIT COPY
+[2024.11.04-05.30.07:741][258]Cmd: EDIT PASTE
+[2024.11.04-05.30.18:110][418]Cmd: EDIT COPY
+[2024.11.04-05.30.18:368][449]Cmd: EDIT PASTE
+[2024.11.04-05.30.23:375][ 16]Cmd: DELETE
+[2024.11.04-05.30.23:375][ 16]Cmd: ACTOR DELETE
+[2024.11.04-05.30.23:377][ 16]LogEditorActor: Deleted Actor: StaticMeshActor
+[2024.11.04-05.30.23:380][ 16]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2024.11.04-05.30.23:381][ 16]LogEditorActor: Deleted 1 Actors (0.006 secs)
+[2024.11.04-05.30.43:415][265]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.11.04-05.30.43:474][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2024.11.04-05.30.43:477][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2024.11.04-05.30.43:480][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.26ms
+[2024.11.04-05.30.43:481][265]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB
+[2024.11.04-05.30.43:481][265]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/1ZJ54FMA0DAL3I2Q8RFAIBD6CA1C3845E1CEFEDAA8EC85B3D50A1D.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/L5/1ZJ54FMA0DAL3I2Q8RFAIB.uasset'
+[2024.11.04-05.30.43:484][265]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/SC/PZDIWGZOBYK0C882WJPA00
+[2024.11.04-05.30.43:485][265]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/PZDIWGZOBYK0C882WJPA00C424A3504D70A08EB32352BDA6579E3C.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/SC/PZDIWGZOBYK0C882WJPA00.uasset'
+[2024.11.04-05.30.43:486][265]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/K0/QFV6N27LEBSR6Y9NU1NVS3
+[2024.11.04-05.30.43:486][265]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/QFV6N27LEBSR6Y9NU1NVS3BDB83E6A4947B1C73C58A78C402D0211.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/K0/QFV6N27LEBSR6Y9NU1NVS3.uasset'
+[2024.11.04-05.30.43:488][265]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/YO/V6AJQQRIDEW9V7C299M00S
+[2024.11.04-05.30.43:488][265]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/V6AJQQRIDEW9V7C299M00SB48C4B9C421F344EB857C9AD1D44ED34.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/YO/V6AJQQRIDEW9V7C299M00S.uasset'
+[2024.11.04-05.30.43:490][265]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/5E/STMY1H3WQPXNY3OPG9LQJH
+[2024.11.04-05.30.43:490][265]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/STMY1H3WQPXNY3OPG9LQJHED9E7D7E491F1BE3EA816FB09DC00540.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/5E/STMY1H3WQPXNY3OPG9LQJH.uasset'
+[2024.11.04-05.30.43:492][265]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/A7/P0PKERSUAC155C1W3IAOSZ
+[2024.11.04-05.30.43:492][265]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/P0PKERSUAC155C1W3IAOSZC33C9C1B499DCB9676715D940A19BC45.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/A7/P0PKERSUAC155C1W3IAOSZ.uasset'
+[2024.11.04-05.30.43:494][265]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/B4/A2YW9PEAP9TJMP25E032R0
+[2024.11.04-05.30.43:494][265]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/A2YW9PEAP9TJMP25E032R096A0108C4DE335FB80714288FBDEF6CD.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/B4/A2YW9PEAP9TJMP25E032R0.uasset'
+[2024.11.04-05.30.43:496][265]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/M7/0VV555USOPW8H83Z4PIQU9
+[2024.11.04-05.30.43:496][265]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/0VV555USOPW8H83Z4PIQU9306B203E43B66B3FCA35969661FEDD34.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/M7/0VV555USOPW8H83Z4PIQU9.uasset'
+[2024.11.04-05.30.43:498][265]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/PM/WHKP47H34UBQLKAXJQUW9E
+[2024.11.04-05.30.43:498][265]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/WHKP47H34UBQLKAXJQUW9EF4B3E7224001E426654A1E92ADC0B8F1.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/PM/WHKP47H34UBQLKAXJQUW9E.uasset'
+[2024.11.04-05.30.43:499][265]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/71/21ZG2AB4JCVGAWT3F1QM6X
+[2024.11.04-05.30.43:499][265]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/21ZG2AB4JCVGAWT3F1QM6XF488E5404D59045C4DE5B0A7502A6680.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/71/21ZG2AB4JCVGAWT3F1QM6X.uasset'
+[2024.11.04-05.30.43:501][265]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/00/B7IZSD9Z1EAT2OU1OZ25QK
+[2024.11.04-05.30.43:501][265]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/B7IZSD9Z1EAT2OU1OZ25QK8B9A85854D141CDD521C229D2E671E83.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/00/B7IZSD9Z1EAT2OU1OZ25QK.uasset'
+[2024.11.04-05.30.43:502][265]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/0X/G8VRKF4JDIGRJYKNOAQLL8
+[2024.11.04-05.30.43:502][265]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/G8VRKF4JDIGRJYKNOAQLL8F21E8B5141E27C2ABF082D9E05CC1ADA.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/0X/G8VRKF4JDIGRJYKNOAQLL8.uasset'
+[2024.11.04-05.30.43:504][265]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/7T/PKI7Y071L41XVWVGKQ80DF
+[2024.11.04-05.30.43:504][265]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/PKI7Y071L41XVWVGKQ80DFE738CF3C453E525FB303C5B18A4BE448.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/7T/PKI7Y071L41XVWVGKQ80DF.uasset'
+[2024.11.04-05.30.43:506][265]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/O3/IUDQA5Z02N87IR11P1P2IH
+[2024.11.04-05.30.43:506][265]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/IUDQA5Z02N87IR11P1P2IHFFAF63734443AE1C97490B9F52137617.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/O3/IUDQA5Z02N87IR11P1P2IH.uasset'
+[2024.11.04-05.30.43:508][265]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/2C/2UMOB4WYSRUUGIKEGKR7Z7
+[2024.11.04-05.30.43:508][265]LogSavePackage: Moving '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Saved/2UMOB4WYSRUUGIKEGKR7Z7B0AC1FCC4413ED7E0A263AB27F8B488E.tmp' to '../../../../../Users/s5287338/Documents/GitHub/GameJamStone/StoneAngus2024/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/2C/2UMOB4WYSRUUGIKEGKR7Z7.uasset'
+[2024.11.04-05.30.43:519][265]LogFileHelpers: InternalPromptForCheckoutAndSave took 104 ms (total: 454 ms)
+[2024.11.04-05.30.43:523][265]AssetCheck: New page: Asset Save: multiple assets
+[2024.11.04-05.30.43:523][265]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_0
+[2024.11.04-05.30.43:523][265]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1184200593
+[2024.11.04-05.30.43:523][265]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1275661596
+[2024.11.04-05.30.43:523][265]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1291141597
+[2024.11.04-05.30.43:523][265]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1294220598
+[2024.11.04-05.30.43:523][265]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1305382599
+[2024.11.04-05.30.43:523][265]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1375249600
+[2024.11.04-05.30.43:524][265]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1384967601
+[2024.11.04-05.30.43:524][265]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1388712602
+[2024.11.04-05.30.43:524][265]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1408757603
+[2024.11.04-05.30.43:524][265]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1883597604
+[2024.11.04-05.30.43:524][265]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1890872605
+[2024.11.04-05.30.43:524][265]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1908567606
+[2024.11.04-05.30.43:524][265]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1925082607
+[2024.11.04-05.30.43:524][265]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_00BE43BC50EE3C2C02_1940712608
